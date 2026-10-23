@@ -58,4 +58,4 @@ Do not follow a sign; follow the Lord. "Blessed are those who have not seen and 
 <li>Catechism of the Catholic Church 156, 548, 675, 2117</li>
 </ul>
 
-<p class="next-prev"><span>← <a href="/a-counterfeit-lamb">Mark 4: A counterfeit lamb</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/a-counterfeit-lamb">Mark 4: A counterfeit lamb</a></span><span><a href="/an-image-that-speaks">Mark 10: An image that speaks</a> →</span></p>

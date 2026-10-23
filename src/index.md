@@ -33,6 +33,7 @@ The site is being built a mark at a time. These are ready to read, as drafts:
 - [Mark 14: The response asked of the faithful](/the-response-of-the-faithful) (Revelation 13:9–10; 14:12)
 - [Mark 4: A counterfeit lamb](/a-counterfeit-lamb) (Revelation 13:11–12), the first of the marks of the beast from the earth
 - [Mark 9: Deception by signs](/deception-by-signs) (Revelation 13:13–14)
+- [Mark 10: An image that speaks](/an-image-that-speaks) (Revelation 13:14–15)
 
 ## How to read what you find here
 

@@ -19,7 +19,7 @@ Revelation 13 then shows a second beast, from the earth, who serves the first (R
 | 12 | A limited time | Revelation 13:5 | [[auth:scripture]] | [Read](/a-limited-time) |
 | 13 | A number that calls for wisdom | Revelation 13:18 | [[auth:scripture]] | [Read](/a-number-for-wisdom) |
 
-Marks [4](/a-counterfeit-lamb), [9](/deception-by-signs), 10 and 11 belong to the beast from the earth, and [mark 14](/the-response-of-the-faithful) to the faithful; see [all the marks](/marks).
+Marks [4](/a-counterfeit-lamb), [9](/deception-by-signs), [10](/an-image-that-speaks) and 11 belong to the beast from the earth, and [mark 14](/the-response-of-the-faithful) to the faithful; see [all the marks](/marks).
 
 ## Taken together
 
