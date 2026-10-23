@@ -62,4 +62,4 @@ Those who "won the victory over the beast and its image" stand on the sea of gla
 <li>Catechism of the Catholic Church 2113</li>
 </ul>
 
-<p class="next-prev"><span>← <a href="/deception-by-signs">Mark 9: Deception by signs</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/deception-by-signs">Mark 9: Deception by signs</a></span><span><a href="/buying-and-selling">Mark 11: Control of buying and selling</a> →</span></p>
