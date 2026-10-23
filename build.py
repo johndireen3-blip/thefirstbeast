@@ -126,7 +126,7 @@ def link_scripture(html):
     def fn(part):
         part = REF_ABBR.sub(lambda m: _sref(f"{m.group(1)}thessalonians", m.group(2), m.group(0)), part)
         pieces = re.split(r"(<a [^>]+>.*?</a>)", part)
-        return "".join(p if p.startswith("<a ") else REF.sub(lambda m: _sref(BOOKS[m.group(1)], m.group(2), m.group(0)), p)
+        return "".join(p if p.startswith("<a ") else REF.sub(lambda m: m.group(0) if (m.group(1) == "Mark" and not m.group(3)) else _sref(BOOKS[m.group(1)], m.group(2), m.group(0)), p)
                        for p in pieces)
     return _walk(html, fn)
 
