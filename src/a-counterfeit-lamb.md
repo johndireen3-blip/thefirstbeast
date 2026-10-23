@@ -61,4 +61,4 @@ The Church has not decided.
 <li>Catechism of the Catholic Church 675</li>
 </ul>
 
-<p class="next-prev"><span>← <a href="/the-response-of-the-faithful">Mark 14: The response asked of the faithful</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/the-response-of-the-faithful">Mark 14: The response asked of the faithful</a></span><span><a href="/deception-by-signs">Mark 9: Deception by signs</a> →</span></p>
