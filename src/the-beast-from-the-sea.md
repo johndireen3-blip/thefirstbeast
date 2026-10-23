@@ -27,7 +27,7 @@ The beast from the sea is a power over the nations (Daniel 7:17), with authority
 
 ## Still to come on this page
 
-The other figures of Revelation and Daniel will each have their own page: the dragon, the beast from the earth (the false prophet), the scarlet beast of Revelation 17, the three unclean spirits like frogs (Revelation 16:13–14), the man of lawlessness (2 Thessalonians 2), and Daniel's beasts and little horn (Daniel 7–12).
+The other figures of Revelation and Daniel will each have their own page: the dragon, the beast from the earth (the false prophet, whose marks are [4](/a-counterfeit-lamb), [9](/deception-by-signs), [10](/an-image-that-speaks) and [11](/buying-and-selling)), [the harlot and the scarlet beast of Revelation 17](/the-harlot-and-the-scarlet-beast), the three unclean spirits like frogs (Revelation 16:13–14), the man of lawlessness (2 Thessalonians 2), and Daniel's beasts and little horn (Daniel 7–12).
 
 <div class="response" markdown>
 

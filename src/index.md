@@ -36,6 +36,8 @@ The site is being built a mark at a time. These are ready to read, as drafts:
 - [Mark 10: An image that speaks](/an-image-that-speaks) (Revelation 13:14–15)
 - [Mark 11: Control of buying and selling](/buying-and-selling) (Revelation 13:16–17)
 
+And one of the figures: [the harlot and the scarlet beast](/the-harlot-and-the-scarlet-beast) (Revelation 17–18).
+
 ## How to read what you find here
 
 Each claim is labeled: [[auth:scripture]] [[auth:church]] [[auth:fathers]] [[auth:father]] [[auth:theologian]] [[auth:apparition]] [[auth:disputed]]. Approved apparitions are aids to faith, never additions to it (CCC 67). Where interpreters differ, each position is set out as its holders state it, and the Church's guidance is given; the site does not decide what the Church has left open.
