@@ -52,4 +52,4 @@ Against a mouth that boasts and blasphemes, the holy ones bless the name of God 
 <li>Catechism of the Catholic Church 675, 2142–2149</li>
 </ul>
 
-<p class="next-prev"><span>← <a href="/a-counterfeit-resurrection">Mark 3: A counterfeit resurrection</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/a-counterfeit-resurrection">Mark 3: A counterfeit resurrection</a></span><span><a href="/worship-demanded">Mark 6: Worship demanded</a> →</span></p>

@@ -13,7 +13,7 @@ Revelation 13 then shows a second beast, from the earth, who serves the first (R
 | 2 | Built from Daniel's beasts | Revelation 13:1–2; Daniel 7:3–8 | [[auth:scripture]] | [Read](/built-from-daniels-beasts) |
 | 3 | A counterfeit resurrection | Revelation 13:3, 12, 14 | [[auth:scripture]] | [Read](/a-counterfeit-resurrection) |
 | 5 | Boasting and blasphemy | Revelation 13:1, 5–6 | [[auth:scripture]] | [Read](/boasting-and-blasphemy) |
-| 6 | Worship demanded | Revelation 13:4, 8, 12, 15 | [[auth:scripture]] | <span class="soon">Coming</span> |
+| 6 | Worship demanded | Revelation 13:4, 8, 12, 15 | [[auth:scripture]] | [Read](/worship-demanded) |
 | 7 | War on the holy ones | Revelation 13:7, 15 | [[auth:scripture]] | <span class="soon">Coming</span> |
 | 8 | Universal reach | Revelation 13:7–8 | [[auth:scripture]] | <span class="soon">Coming</span> |
 | 12 | A limited time | Revelation 13:5 | [[auth:scripture]] | <span class="soon">Coming</span> |
