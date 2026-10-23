@@ -16,7 +16,7 @@ Revelation 13 then shows a second beast, from the earth, who serves the first (R
 | 6 | Worship demanded | Revelation 13:4, 8, 12, 15 | [[auth:scripture]] | [Read](/worship-demanded) |
 | 7 | War on the holy ones | Revelation 13:7, 15 | [[auth:scripture]] | [Read](/war-on-the-holy-ones) |
 | 8 | Universal reach | Revelation 13:7–8 | [[auth:scripture]] | [Read](/universal-reach) |
-| 12 | A limited time | Revelation 13:5 | [[auth:scripture]] | <span class="soon">Coming</span> |
+| 12 | A limited time | Revelation 13:5 | [[auth:scripture]] | [Read](/a-limited-time) |
 | 13 | A number that calls for wisdom | Revelation 13:18 | [[auth:scripture]] | <span class="soon">Coming</span> |
 
 Marks 4, 9, 10 and 11 belong to the beast from the earth, and mark 14 to the faithful; see [all the marks](/marks).

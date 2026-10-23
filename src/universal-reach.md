@@ -59,4 +59,4 @@ The beast's reach stops at the book of life (Revelation 13:8). The Lamb's people
 <li>Catechism of the Catholic Church 2244</li>
 </ul>
 
-<p class="next-prev"><span>← <a href="/war-on-the-holy-ones">Mark 7: War on the holy ones</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/war-on-the-holy-ones">Mark 7: War on the holy ones</a></span><span><a href="/a-limited-time">Mark 12: A limited time</a> →</span></p>
