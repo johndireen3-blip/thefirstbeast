@@ -53,4 +53,4 @@ Hear. Endure. Keep faith. Do not take up the beast's weapons, and do not fear it
 <li>Catechism of the Catholic Church 677, 1808, 2265, 2473</li>
 </ul>
 
-<p class="next-prev"><span>← <a href="/a-number-for-wisdom">Mark 13: A number that calls for wisdom</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/a-number-for-wisdom">Mark 13: A number that calls for wisdom</a></span><span><a href="/a-counterfeit-lamb">Mark 4: A counterfeit lamb</a> →</span></p>

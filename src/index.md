@@ -31,6 +31,7 @@ The site is being built a mark at a time. These are ready to read, as drafts:
 - [Mark 12: A limited time](/a-limited-time) (Revelation 13:5; Daniel 7:25)
 - [Mark 13: A number that calls for wisdom](/a-number-for-wisdom) (Revelation 13:18)
 - [Mark 14: The response asked of the faithful](/the-response-of-the-faithful) (Revelation 13:9–10; 14:12)
+- [Mark 4: A counterfeit lamb](/a-counterfeit-lamb) (Revelation 13:11–12), the first of the marks of the beast from the earth
 
 ## How to read what you find here
 
