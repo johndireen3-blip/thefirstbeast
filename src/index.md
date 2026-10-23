@@ -19,11 +19,12 @@ Its aim is knowledge and vigilance in love (Revelation 2:4), and its last word i
 
 ## The first marks
 
-The site is being built a mark at a time. The first three are ready to read, as drafts:
+The site is being built a mark at a time. These are ready to read, as drafts:
 
 - [Mark 1: Power on loan from the dragon](/power-from-the-dragon) (Revelation 13:2, 4)
 - [Mark 2: Built from Daniel's beasts](/built-from-daniels-beasts) (Revelation 13:1–2; Daniel 7)
 - [Mark 3: A counterfeit resurrection](/a-counterfeit-resurrection) (Revelation 13:3, 12, 14)
+- [Mark 5: Boasting and blasphemy](/boasting-and-blasphemy) (Revelation 13:1, 5–6; Daniel 7)
 
 ## How to read what you find here
 

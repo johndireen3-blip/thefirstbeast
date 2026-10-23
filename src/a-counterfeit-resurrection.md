@@ -56,4 +56,4 @@ The world is fascinated and follows; the holy ones are not, because they know th
 <li>Catechism of the Catholic Church 675</li>
 </ul>
 
-<p class="next-prev"><span>← <a href="/built-from-daniels-beasts">Mark 2: Built from Daniel's beasts</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/built-from-daniels-beasts">Mark 2: Built from Daniel's beasts</a></span><span><a href="/boasting-and-blasphemy">Mark 5: Boasting and blasphemy</a> →</span></p>
