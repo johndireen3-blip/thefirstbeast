@@ -15,7 +15,7 @@ Revelation 13 then shows a second beast, from the earth, who serves the first (R
 | 5 | Boasting and blasphemy | Revelation 13:1, 5–6 | [[auth:scripture]] | [Read](/boasting-and-blasphemy) |
 | 6 | Worship demanded | Revelation 13:4, 8, 12, 15 | [[auth:scripture]] | [Read](/worship-demanded) |
 | 7 | War on the holy ones | Revelation 13:7, 15 | [[auth:scripture]] | [Read](/war-on-the-holy-ones) |
-| 8 | Universal reach | Revelation 13:7–8 | [[auth:scripture]] | <span class="soon">Coming</span> |
+| 8 | Universal reach | Revelation 13:7–8 | [[auth:scripture]] | [Read](/universal-reach) |
 | 12 | A limited time | Revelation 13:5 | [[auth:scripture]] | <span class="soon">Coming</span> |
 | 13 | A number that calls for wisdom | Revelation 13:18 | [[auth:scripture]] | <span class="soon">Coming</span> |
 

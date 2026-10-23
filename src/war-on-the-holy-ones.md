@@ -61,4 +61,4 @@ These readings can stand together. The Church teaches that the final trial will 
 <li>Catechism of the Catholic Church 673, 675, 677, 2473</li>
 </ul>
 
-<p class="next-prev"><span>← <a href="/worship-demanded">Mark 6: Worship demanded</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/worship-demanded">Mark 6: Worship demanded</a></span><span><a href="/universal-reach">Mark 8: Universal reach</a> →</span></p>
