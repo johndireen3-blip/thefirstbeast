@@ -29,6 +29,7 @@ The site is being built a mark at a time. These are ready to read, as drafts:
 - [Mark 7: War on the holy ones](/war-on-the-holy-ones) (Revelation 13:7, 10, 15; Daniel 7)
 - [Mark 8: Universal reach](/universal-reach) (Revelation 13:7–8; 17:12–18)
 - [Mark 12: A limited time](/a-limited-time) (Revelation 13:5; Daniel 7:25)
+- [Mark 13: A number that calls for wisdom](/a-number-for-wisdom) (Revelation 13:18)
 
 ## How to read what you find here
 

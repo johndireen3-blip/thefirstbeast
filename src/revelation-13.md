@@ -8,7 +8,7 @@ This site takes the chapter in four parts. Each part will have its own verse-by-
 | 12:18–13:4 | The beast rises from the sea; the dragon gives it his power; its head is healed; the world worships | [1](/power-from-the-dragon), [2](/built-from-daniels-beasts), [3](/a-counterfeit-resurrection), [6](/worship-demanded) | <span class="soon">Coming</span> |
 | 13:5–10 | A boasting mouth; forty-two months; war on the holy ones; authority over every nation; the call to endurance | [5](/boasting-and-blasphemy), [7](/war-on-the-holy-ones), [8](/universal-reach), [12](/a-limited-time), 14 | <span class="soon">Coming</span> |
 | 13:11–15 | The beast from the earth: horns like a lamb, signs, an image that speaks | 4, [6](/worship-demanded), [7](/war-on-the-holy-ones), 9, 10 | <span class="soon">Coming</span> |
-| 13:16–18 | The mark on hand or forehead; buying and selling; the number of a man | 11, 13 | <span class="soon">Coming</span> |
+| 13:16–18 | The mark on hand or forehead; buying and selling; the number of a man | 11, [13](/a-number-for-wisdom) | <span class="soon">Coming</span> |
 
 ## How the chapter is read here
 

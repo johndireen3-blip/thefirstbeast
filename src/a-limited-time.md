@@ -65,4 +65,4 @@ The number says one thing above all: the trial is measured, and God holds the me
 <li>Catechism of the Catholic Church 673, 675</li>
 </ul>
 
-<p class="next-prev"><span>← <a href="/universal-reach">Mark 8: Universal reach</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/universal-reach">Mark 8: Universal reach</a></span><span><a href="/a-number-for-wisdom">Mark 13: A number that calls for wisdom</a> →</span></p>
