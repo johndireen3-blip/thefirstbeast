@@ -26,6 +26,7 @@ The site is being built a mark at a time. These are ready to read, as drafts:
 - [Mark 3: A counterfeit resurrection](/a-counterfeit-resurrection) (Revelation 13:3, 12, 14)
 - [Mark 5: Boasting and blasphemy](/boasting-and-blasphemy) (Revelation 13:1, 5–6; Daniel 7)
 - [Mark 6: Worship demanded](/worship-demanded) (Revelation 13:4, 8, 12, 15; Daniel 3)
+- [Mark 7: War on the holy ones](/war-on-the-holy-ones) (Revelation 13:7, 10, 15; Daniel 7)
 
 ## How to read what you find here
 
