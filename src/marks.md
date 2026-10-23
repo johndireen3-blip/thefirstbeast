@@ -17,7 +17,7 @@ The first marks come from Revelation 13 alone, all of them from Scripture [[auth
 <div class="card coming"><span class="num">Mark 11 · The beast from the earth</span><h3>Control of buying and selling</h3><p>No one may buy or sell without the mark on hand or forehead.</p><p class="ref">Revelation 13:16–17 · <span class="soon">page coming</span></p></div>
 <a class="card" href="/a-limited-time"><span class="num">Mark 12 · The beast from the sea</span><h3>A limited time</h3><p>Authority for forty-two months, a measured season.</p><p class="ref">Revelation 13:5</p></a>
 <a class="card" href="/a-number-for-wisdom"><span class="num">Mark 13 · The beast from the sea</span><h3>A number that calls for wisdom</h3><p>The number of a man, 666, to be reckoned by one who has understanding.</p><p class="ref">Revelation 13:18</p></a>
-<div class="card coming"><span class="num">Mark 14 · The faithful</span><h3>The response asked of the faithful</h3><p>Endurance and faith: not a mark of the beast, but the measure of every reading's fruit.</p><p class="ref">Revelation 13:9–10 · <span class="soon">page coming</span></p></div>
+<a class="card" href="/the-response-of-the-faithful"><span class="num">Mark 14 · The faithful</span><h3>The response asked of the faithful</h3><p>Endurance and faith: not a mark of the beast, but the measure of every reading's fruit.</p><p class="ref">Revelation 13:9–10</p></a>
 </div>
 
 <div class="note"><strong>How the marks are used</strong>This site sets out what has been revealed and names no one. It does not ask who the beast is today, and it sets no dates (CCC 673). The marks are given so that readers can know the beasts and keep watch, in hope.</div>

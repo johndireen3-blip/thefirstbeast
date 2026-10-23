@@ -30,6 +30,7 @@ The site is being built a mark at a time. These are ready to read, as drafts:
 - [Mark 8: Universal reach](/universal-reach) (Revelation 13:7–8; 17:12–18)
 - [Mark 12: A limited time](/a-limited-time) (Revelation 13:5; Daniel 7:25)
 - [Mark 13: A number that calls for wisdom](/a-number-for-wisdom) (Revelation 13:18)
+- [Mark 14: The response asked of the faithful](/the-response-of-the-faithful) (Revelation 13:9–10; 14:12)
 
 ## How to read what you find here
 

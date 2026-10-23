@@ -51,4 +51,4 @@ The faithful bear another name on their foreheads, the Lamb's and his Father's (
 <li>Catechism of the Catholic Church 2115–2116</li>
 </ul>
 
-<p class="next-prev"><span>← <a href="/a-limited-time">Mark 12: A limited time</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/a-limited-time">Mark 12: A limited time</a></span><span><a href="/the-response-of-the-faithful">Mark 14: The response asked of the faithful</a> →</span></p>
