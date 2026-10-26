@@ -2,6 +2,10 @@ Options -Indexes
 DirectoryIndex index.html
 ErrorDocument 404 /404.html
 RewriteEngine On
+# https and no www
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://thefirstbeast.com%{REQUEST_URI} [L,R=301]
 # /page.html -> /page
 RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
 RewriteRule ^ /%1 [L,R=301]
