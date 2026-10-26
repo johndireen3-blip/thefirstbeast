@@ -42,7 +42,7 @@ SRC, DIST, PREV = ROOT / "src", ROOT / "dist", ROOT / "preview"
 SITE, SITE_NAME = CONFIG["site"], CONFIG["name"]
 DOMAIN = SITE.split("//")[1]
 # Until launch the site lives at a temporary address: not indexed, and every page says it is a work in progress.
-PRELAUNCH = True
+PRELAUNCH = False
 TODAY = datetime.date.today().isoformat()
 CSS_VERSION = hashlib.md5((ROOT / "assets" / "style.css").read_bytes()).hexdigest()[:8]
 
