@@ -1,4 +1,4 @@
-<!--{"title":"How This Site Is Made | The First Beast","description":"How The First Beast is made: who does what, how claims are labeled by authority, the rules every page follows, and how to report a mistake.","kicker":"About this site","h1":"How This Site Is Made","crumbs":[["Home","/"],["How This Site Is Made","/how-this-site-is-made"]]}-->
+<!--{"reviewed":"2026-10-26","title":"How This Site Is Made | The First Beast","description":"How The First Beast is made: who does what, how claims are labeled by authority, the rules every page follows, and how to report a mistake.","kicker":"About this site","h1":"How This Site Is Made","crumbs":[["Home","/"],["How This Site Is Made","/how-this-site-is-made"]]}-->
 <div markdown="0">
 
 

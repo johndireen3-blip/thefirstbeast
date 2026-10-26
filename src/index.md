@@ -1,4 +1,4 @@
-<!--{"title":"The First Beast | Revelation 13 in Depth","description":"What Scripture and the Church reveal about the beasts of Revelation 13 and Daniel, set out mark by mark with texts and authority, for knowledge and vigilance without speculation.","kicker":"Revelation 13 in depth","h1":"The First Beast","lead":"The dragon stood on the sand of the sea, and a beast came up out of it. What Scripture and the Church have revealed about the beasts, so that we can know them and keep watch, without guessing who they are.","wide":true}-->
+<!--{"reviewed":"2026-10-26","title":"The First Beast | Revelation 13 in Depth","description":"What Scripture and the Church reveal about the beasts of Revelation 13 and Daniel, set out mark by mark with texts and authority, for knowledge and vigilance without speculation.","kicker":"Revelation 13 in depth","h1":"The First Beast","lead":"The dragon stood on the sand of the sea, and a beast came up out of it. What Scripture and the Church have revealed about the beasts, so that we can know them and keep watch, without guessing who they are.","wide":true}-->
 <div class="narrow-in" markdown>
 
 ## Why this site

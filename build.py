@@ -145,8 +145,14 @@ def link_catechism(html):
     return _walk(html, lambda part: CCC_REF.sub(_ccc_rep, part))
 
 def external_links(html):
-    """Links to other sites open in a new tab."""
-    return re.sub(r'<a href="(https?://[^"]+)">', r'<a href="\1" target="_blank" rel="noopener">', html)
+    """Every link in a page's main body opens in a new tab (Fr. John, Oct 26), except links within the page
+    and mail links. Breadcrumbs, the navigation and the footer are built separately and keep the same tab."""
+    def fix(m):
+        tag, href = m.group(0), m.group(1)
+        if "target=" in tag or href.startswith(("#", "mailto:")):
+            return tag
+        return tag[:-1] + ' target="_blank" rel="noopener">'
+    return re.sub(r'<a [^>]*?href="([^"]*)"[^>]*>', fix, html)
 
 MD = markdown.Markdown(extensions=["tables", "attr_list", "md_in_html", "sane_lists"])
 
@@ -168,7 +174,7 @@ def render_body(slug, meta, md_text):
         crumbs = f'<p class="crumbs">{" › ".join(parts)}</p>\n'
     review = ""
     if meta.get("reviewed"):
-        review = f'<p class="review-line">{reviewed_mark(meta)} <a class="review-how" href="/how-this-site-is-made">How this site is made</a></p>\n'
+        review = f'<p class="review-line">{reviewed_mark(meta)} <a class="review-how" href="/how-this-site-is-made" target="_blank" rel="noopener">How this site is made</a></p>\n'
     elif slug not in ("404",):
         review = '<p class="review-line"><span class="draft-mark">Draft · awaiting Fr. John\'s review</span></p>\n'
     width = "wrap" if meta.get("wide") else "wrap narrow"

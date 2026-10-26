@@ -1,4 +1,4 @@
-<!--{"title":"Mark 11: Control of Buying and Selling | The First Beast","description":"Revelation 13:16–17: the second beast forces everyone to receive a stamped image on the right hand or forehead, so that no one can buy or sell without the beast's name or number. What the mark is in the text, the seal of God it imitates, the first fulfillment, how the Fathers read it, and why it is never received by accident.","kicker":"Mark 11 · The beast from the earth","h1":"Control of Buying and Selling","lead":"The beast's mark is pressed on everyone, small and great, and tied to daily bread: no one can buy or sell without it. It imitates God's own seal, and it is the one point in the chapter where the reader must choose.","crumbs":[["Home","/"],["The Marks","/marks"],["Mark 11","/buying-and-selling"]]}-->
+<!--{"reviewed":"2026-10-26","title":"Mark 11: Control of Buying and Selling | The First Beast","description":"Revelation 13:16–17: the second beast forces everyone to receive a stamped image on the right hand or forehead, so that no one can buy or sell without the beast's name or number. What the mark is in the text, the seal of God it imitates, the first fulfillment, how the Fathers read it, and why it is never received by accident.","kicker":"Mark 11 · The beast from the earth","h1":"Control of Buying and Selling","lead":"The beast's mark is pressed on everyone, small and great, and tied to daily bread: no one can buy or sell without it. It imitates God's own seal, and it is the one point in the chapter where the reader must choose.","crumbs":[["Home","/"],["The Marks","/marks"],["Mark 11","/buying-and-selling"]]}-->
 <dl class="facts">
 <dt>Texts</dt><dd>Revelation 13:16–17; 14:9–11; 7:2–3; 14:1; 20:4; 22:4; Ezekiel 9:4; Deuteronomy 6:8</dd>
 <dt>Figure</dt><dd>The beast from the earth, the false prophet (<a href="/a-counterfeit-lamb">mark 4</a>)</dd>
@@ -18,6 +18,8 @@ The Greek word is *charagma*: a stamp, an engraving, the impress on a coin or a 
 ## The seal it imitates
 
 Before the trial begins, God's servants are sealed: "Do not damage the land or the sea or the trees until we put the seal on the foreheads of the servants of our God" (Revelation 7:3). The Lamb's followers bear "his name and his Father's name written on their foreheads" (14:1), and in the end "his name will be on their foreheads" (22:4). Ezekiel saw the faithful in Jerusalem marked on the forehead before judgment (Ezekiel 9:4), and Israel was told to bind God's words "on your arm as a sign" and "as a pendant on your forehead" (Deuteronomy 6:8). The beast's mark counterfeits all of these. The question Revelation puts is not whether we will be marked, but whose name we will bear.
+
+The first stamp on us was God's. St. Peter Chrysologus, Doctor of the Church, says of creation: “The second Adam stamped his image on the first Adam when he created him,” and took Adam's name “in order that he might not lose what he had made in his own image.” The beast's stamp is pressed over an image already there. The remedy he gives is to wear the true image fully: “let us put on the complete image of our Creator so as to be wholly like him, not in the glory that he alone possesses, but in innocence, simplicity, gentleness, patience, humility, mercy, harmony” (Sermon 117; Office of Readings, Saturday of the Twenty-ninth Week in Ordinary Time) [[auth:father]].
 
 ## Worship and the mark
 
@@ -57,6 +59,7 @@ We were sealed already, at Baptism and Confirmation (CCC 1272–1274, 1295–129
 <ul class="sources">
 <li>Revelation 7, 13, 14, 20 and 22, Ezekiel 9, Deuteronomy 6, Mark 12, New American Bible Revised Edition: <a href="https://bible.usccb.org/bible/revelation/13">Revelation 13</a>; <a href="https://bible.usccb.org/bible/revelation/14">Revelation 14</a>; <a href="https://bible.usccb.org/bible/revelation/7">Revelation 7</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.28, V.30: <a href="https://www.newadvent.org/fathers/0103528.htm">New Advent</a></li>
+<li>St. Peter Chrysologus, Sermon 117 (PL 52, 520–521), in the Liturgy of the Hours, Office of Readings, Saturday of the Twenty-ninth Week in Ordinary Time</li>
 <li>St. Augustine, <em>City of God</em> XX.9: <a href="https://ccel.org/ccel/schaff/npnf102.iv.XX.9.html">CCEL</a></li>
 <li>Leo XIV, <em>Magnifica Humanitas</em> (2026): <a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html">vatican.va</a></li>
 <li>Catechism of the Catholic Church 1272–1274, 1295–1296, 2113, 2424</li>
