@@ -28,9 +28,7 @@ CONFIG = {
     "family": [("https://thelambsvictory.org/", "The Lamb's Victory", "Revelation chapter by chapter"),
                ("https://agreatsign.si/", "A Great Sign", "prophecy across the whole Bible")],
     "family_soon": [("apocalypse12.com", "Revelation 12 in depth, the partner to this site")],
-    "logo": ('<svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="30" fill="#3a1414"/>'
-             '<circle cx="32" cy="32" r="25" fill="none" stroke="#c9a243" stroke-width="1.5"/>'
-             '<text x="32" y="41" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#e3c47a">XIII</text></svg>'),
+    "logo": '<img src="/assets/logo.png" alt="" width="46" height="46">',
 }
 
 # ---- core (shared with apocalypse13.org)
@@ -212,7 +210,8 @@ def page(slug, meta, body):
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{desc}">
 <meta property="og:url" content="{SITE}{path}">
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/style.css?v={CSS_VERSION}">
@@ -285,7 +284,6 @@ def main():
         (d / "assets").mkdir(parents=True)
         for f in (ROOT / "assets").iterdir():
             shutil.copy(f, d / "assets" / f.name)
-        (d / "assets" / "favicon.svg").write_text(CONFIG["logo"].replace("<svg ", '<svg xmlns="http://www.w3.org/2000/svg" '))
     urls = []
     for f in sorted(SRC.glob("*.md")):
         text = f.read_text()

@@ -17,6 +17,10 @@ Fr. John is a Catholic diocesan priest. He founded and directs The Ephesus Chall
 
 The Ephesus Challenge is dedicated to Our Lady, Queen of Heaven and Earth, the Woman clothed with the sun (Revelation 12:1), under the patronage of St. Carlo Acutis, St. Bernard of Clairvaux, St. Teresa Benedicta of the Cross, St. Rose of Lima and Pope St. John Paul II.
 
+## The image in the logo
+
+The logo is a detail from Luca Signorelli's fresco *The Sermon and Deeds of the Antichrist* (1499–1502), in the Chapel of San Brizio in Orvieto Cathedral. The figure who looks like Christ is the Antichrist; the devil whispers into his ear the words he will preach. Signorelli painted the counterfeit the way Scripture describes it: a likeness of Christ, with Satan's voice behind it. The same detail was used on the cover of Fr. Vincent Miceli's *The Antichrist* (1981). The photograph of the fresco is in the public domain ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Signorelli-Antichrist_and_the_devil.jpg)).
+
 ## Independence
 
 This is an independent project. Fr. John is a Catholic diocesan priest, but this site is his own and is not affiliated with or endorsed by his diocese, the United States Conference of Catholic Bishops, Anthropic, or any other organization. See [How this site is made](/how-this-site-is-made) for who does what and the rules every page follows.
