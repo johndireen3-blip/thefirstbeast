@@ -9,6 +9,14 @@ Its aim is knowledge and vigilance in love (Revelation 2:4), and its last word i
 
 </div>
 
+<div class="patmos">
+<figure><img src="/assets/signorelli-antichrist.jpg" alt="Detail of Luca Signorelli's fresco: the Antichrist, who looks like Christ, with the devil whispering into his ear" width="619" height="850"><figcaption>Luca Signorelli, <em>The Sermon and Deeds of the Antichrist</em> (detail), 1499–1502, Chapel of San Brizio, Orvieto Cathedral. Public domain (<a href="https://commons.wikimedia.org/wiki/File:Signorelli-Antichrist_and_the_devil.jpg">Wikimedia Commons</a>).</figcaption></figure>
+<div>
+<h2 id="the-image-in-the-logo">The image in the logo</h2>
+<p>The logo is taken from this fresco. The figure who looks like Christ is the Antichrist; the devil whispers into his ear the words he will preach. Signorelli painted the counterfeit the way Scripture describes it: a likeness of Christ, with Satan's voice behind it. The same detail was used on the cover of Fr. Vincent Miceli's <em>The Antichrist</em> (1981).</p>
+</div>
+</div>
+
 <div class="grid" style="margin-top:28px">
 <a class="card door" href="/revelation-13"><span class="num">By verse</span><h3>Revelation 13</h3><p>The chapter in four parts, from the beast rising out of the sea to the number of a man.</p></a>
 <a class="card door" href="/the-beast-from-the-sea"><span class="num">By figure</span><h3>The beasts</h3><p>The beast from the sea first; the dragon, the false prophet, the frogs and the man of lawlessness to follow.</p></a>
