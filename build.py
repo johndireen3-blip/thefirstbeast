@@ -19,7 +19,7 @@ CONFIG = {
     "about_blurb": ("What Scripture and the Church have revealed about the beasts of Revelation and Daniel, "
                     "set out mark by mark with its texts and its authority, so readers can know them and keep watch "
                     "without guessing who they are."),
-    "contact_email": None,   # Fr. John to choose; pages say it is coming
+    "contact_email": "frjohn@thefirstbeast.com",
     "default_credit": "claude",
     "nav": [("/", "Home"), ("/revelation-13", "Revelation 13"), ("/the-beast-from-the-sea", "The Beasts"),
             ("/marks", "The Marks"), ("/about", "About"), ("/contact", "Contact")],
