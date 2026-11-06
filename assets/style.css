@@ -238,3 +238,12 @@ table td .st{margin-top:2px}
 .st-na{background:#eef0f3;color:#4a5263}
 .card.proposal{border-top:4px solid var(--line)}
 .narrow-in{max-width:720px;margin:0 auto}
+
+/* chapter text */
+.chapter{background:#fbf8f0;border-left:3px solid var(--gold);padding:14px 20px 8px;margin:18px 0 26px}
+.chapter h2{margin-top:4px}
+.chapter h3{font-size:1.05rem;margin:16px 0 4px}
+.chapter h3 .vv{font-weight:400;color:var(--muted);font-size:.9rem}
+.chapter p{font-family:var(--serif);line-height:1.65}
+.chapter sup{font-family:var(--sans);font-size:.68rem;font-weight:700;color:var(--muted);margin:0 3px 0 6px}
+.chapter p.src{font-family:var(--sans);font-size:.85rem;color:var(--muted)}
