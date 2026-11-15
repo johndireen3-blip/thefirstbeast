@@ -64,4 +64,4 @@ The chapter has hardly begun, and the decisive thing has already happened: the c
 
 We are asked to live as people who know how the story has already turned, and to "keep to his ways until the end" (2:26), since the promise made to the child is made also to those who conquer with him.
 
-<p class="next-prev"><span>← <a href="/the-great-red-dragon">Revelation 12:3–4: The great red dragon</a></span><span><a href="/the-study">The study</a> →</span></p>
+<p class="next-prev"><span>← <a href="/the-great-red-dragon">Revelation 12:3–4: The great red dragon</a></span><span><a href="/the-wilderness-and-the-1260-days">Revelation 12:6, 14: The wilderness and the 1,260 days</a> →</span></p>

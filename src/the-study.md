@@ -11,8 +11,8 @@ The dragon thrown down in chapter 12 is bound and destroyed in chapter 20, and t
 | [The birth pangs](/the-birth-pangs) | 12:2 |
 | [The great red dragon](/the-great-red-dragon) | 12:3–4 |
 | [The male child](/the-male-child) | 12:5 |
-| The wilderness and the 1,260 days | 12:6, 14 |
-| War in heaven | 12:7–9 |
+| [The wilderness and the 1,260 days](/the-wilderness-and-the-1260-days) | 12:6, 14 |
+| [War in heaven](/war-in-heaven) | 12:7–9 |
 | The accuser cast out | 12:10–12 |
 | The dragon pursues the woman | 12:13–16 |
 | The rest of her offspring | 12:17 |

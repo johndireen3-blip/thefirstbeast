@@ -8,6 +8,7 @@ This study quotes a commentator only from a text that has been read, and names t
 | St. Hippolytus of Rome (d. about 235) | *On Christ and Antichrist* | Ante-Nicene Fathers, vol. 5, in the [Library of the Church Fathers](https://bkv.unifr.ch/en/works/cpg-1872/versions/treatise-on-christ-and-antichrist) of the University of Fribourg |
 | St. Victorinus of Pettau (d. about 304) | *Commentary on the Apocalypse*, in the text as revised by St. Jerome | Ante-Nicene Fathers, vol. 7, at [IntraText](https://www.intratext.com/IXT/ENG1016/_PC.HTM). The restored original is still to be consulted |
 | St. Methodius of Olympus (d. about 311) | *The Banquet of the Ten Virgins*, Discourse VIII | Ante-Nicene Fathers, vol. 6, at [IntraText](https://www.intratext.com/IXT/ENG1159/_P1O.HTM) |
+| Pope St. Gregory the Great (d. 604) | *Homilies on the Gospels* 34, on the angels | As read in the Liturgy of the Hours, Office of Readings for September 29 |
 | St. John Henry Newman | *A Letter Addressed to the Rev. E. B. Pusey* (1866) | [newmanreader.org](https://www.newmanreader.org/works/anglicans/volume2/pusey/section3.html) |
 | The Second Vatican Council | *Lumen Gentium* (1964), chapter 8 | [vatican.va](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html) |
 | Pope Benedict XVI | General Audience, August 23, 2006 | [vatican.va](https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060823.html) |
