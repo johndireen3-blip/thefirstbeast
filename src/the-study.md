@@ -7,8 +7,8 @@ The dragon thrown down in chapter 12 is bound and destroyed in chapter 20, and t
 | --- | --- |
 | [The ark in heaven](/the-ark-in-heaven) | 11:19 |
 | [A woman clothed with the sun](/a-woman-clothed-with-the-sun) | 12:1 |
-| Who is the woman? | 12:1–6 |
-| The birth pangs | 12:2 |
+| [Who is the woman?](/who-is-the-woman) | 12:1–6 |
+| [The birth pangs](/the-birth-pangs) | 12:2 |
 | The great red dragon | 12:3–4 |
 | The male child | 12:5 |
 | The wilderness and the 1,260 days | 12:6, 14 |

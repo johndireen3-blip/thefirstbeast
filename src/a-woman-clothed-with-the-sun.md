@@ -58,7 +58,7 @@ So the sign is one. Israel is the people from whom the Messiah came. Mary is the
 ## Where readers differ
 
 - **Which reading comes first.** Hippolytus reads the Church first; the modern liturgy and the popes quoted above read Mary first; many Scripture scholars begin with Israel. The Church has not ruled between them, and she uses all three. Paul VI's words are careful: the liturgy applies the sign to Mary "not without foundation." [[auth:disputed]]
-- **The birth pangs.** Verse 2 says the Woman "wailed aloud in pain as she labored to give birth." Those who read the Church or Israel first find this easy; those who read Mary first must explain it, as Pius X did when he read the pangs as her care for the children still to be born to God. This has a page of its own, to come.
+- **The birth pangs.** Verse 2 says the Woman "wailed aloud in pain as she labored to give birth." Those who read the Church or Israel first find this easy; those who read Mary first must explain it, as Pius X did when he read the pangs as her care for the children still to be born to God. See [The birth pangs](/the-birth-pangs).
 - **The Fathers after Hippolytus.** Several later commentators, in the East especially, read the Woman directly as the Mother of God. Their texts are still to be consulted for this study; see [The Commentators](/the-commentators).
 
 ## An approved apparition
@@ -69,4 +69,4 @@ The image of Our Lady of Guadalupe (1531) shows a woman who stands before the su
 
 A sign is given to be read. John is shown the Woman before he is shown the dragon, and clothed in God's light before any attack begins. The order is a mercy: we are meant to see who she is, and whose she is, before we see what rises against her. Every child of the Church is among "the rest of her offspring" (12:17). To look at the Woman is to learn where we come from and what we are meant to become.
 
-<p class="next-prev"><span>← <a href="/the-ark-in-heaven">Revelation 11:19: The ark in heaven</a></span><span><a href="/the-study">The study</a> →</span></p>
+<p class="next-prev"><span>← <a href="/the-ark-in-heaven">Revelation 11:19: The ark in heaven</a></span><span><a href="/who-is-the-woman">Revelation 12:1–6: Who is the woman?</a> →</span></p>
