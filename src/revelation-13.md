@@ -1,5 +1,5 @@
 <!--{"reviewed":"2026-10-26","title":"Revelation 13:1–18, Verse by Verse | The First Beast","description":"Revelation 13 in four parts: the beast from the sea, its forty-two months, the beast from the earth, and the mark and the number.","kicker":"Revelation 13","h1":"Revelation 13:1–18, Verse by Verse","lead":"Two beasts, one dragon behind them, and one call to the holy ones: endurance and faith.","crumbs":[["Home","/"],["Revelation 13","/revelation-13"]]}-->
-Revelation 13 continues the scene of chapter 12. The dragon, thrown down from heaven and unable to reach the woman, takes his stand on the sand of the sea (Revelation 12:18), and the beasts rise. Read the whole chapter first. It is printed below.
+Revelation 13 continues the scene of chapter 12. The dragon, thrown down from heaven and unable to reach the woman, takes his stand on the sand of the sea (Revelation 12:18), and the beasts rise. Read the whole chapter first. It is printed below. For a short answer to the most common question, see [Who is the first beast?](/who-is-the-first-beast)
 
 <section class="chapter" id="text" markdown="0">
 <h2>The text: Revelation 13:1–18</h2>

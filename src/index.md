@@ -22,6 +22,7 @@ Its aim is knowledge and vigilance in love (Revelation 2:4), and its last word i
 <a class="card door" href="/the-beast-from-the-sea"><span class="num">By figure</span><h3>The beasts</h3><p>The beast from the sea first; the dragon, the false prophet, the frogs and the man of lawlessness to follow.</p></a>
 <a class="card door" href="/marks"><span class="num">By mark</span><h3>The marks</h3><p>Fourteen things Revelation 13 reveals, each with its texts, its authority and the response asked of us.</p></a>
 </div>
+<p style="margin-top:16px;text-align:center">A common question: <a href="/who-is-the-first-beast">Who is the first beast in Revelation 13?</a></p>
 
 <div class="narrow-in" markdown>
 
