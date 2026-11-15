@@ -61,4 +61,4 @@ Michael's name is the whole of his strategy. He does not answer the dragon's pri
 
 The passage asks us to give the right answer, and to give it without fear. "From infancy to death human life is surrounded by their watchful care and intercession. Beside each believer stands an angel as protector and shepherd leading him to life" (CCC 336).
 
-<p class="next-prev"><span>← <a href="/the-wilderness-and-the-1260-days">Revelation 12:6, 14: The wilderness and the 1,260 days</a></span><span><a href="/the-study">The study</a> →</span></p>
+<p class="next-prev"><span>← <a href="/the-wilderness-and-the-1260-days">Revelation 12:6, 14: The wilderness and the 1,260 days</a></span><span><a href="/the-accuser-cast-out">Revelation 12:10–12: The accuser cast out</a> →</span></p>
