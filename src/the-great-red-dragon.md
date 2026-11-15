@@ -14,7 +14,7 @@ The Church teaches the same of him plainly. He is "a fallen angel," who "was at 
 ## The words
 
 - **Another sign.** The Woman is "a great sign"; the dragon is only "another sign." He is set beside her and below her.
-- **Huge and red.** The color is *pyrros*, fiery red, the color of the horse whose rider takes peace from the earth (6:4). St. Victorinus says he is this color because "the result of his work gave him such a colour": he "was a murderer from the beginning" (John 8:44). [[auth:father]]
+- **Huge and red.** The color is *pyrros*, fiery red, the color of the horse whose rider takes peace from the earth (6:4). St. Victorinus says he is this color because "the result of his work gave him such a colour." [[auth:father]] The Lord called him "a murderer from the beginning" (John 8:44).
 - **Diadems.** He wears *diadēmata*, royal crowns, seven of them. The Woman wears a *stephanos*, a victor's wreath. When Christ appears at the end, "on his head were many diadems" (19:12): the kingship the dragon displays belongs to another.
 - **Stood.** He takes up a position and waits. The verb returns at the end of the chapter, when he "took its position on the sand of the sea" (12:18) to call up the beast.
 
