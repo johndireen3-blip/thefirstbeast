@@ -53,4 +53,4 @@ This is also the moment where the Woman as Mary and the Woman as the Church meet
 
 "All creation is groaning in labor pains even until now; and not only that, but we ourselves" (Romans 8:22–23). The verse tells us that the suffering of God's people is not the pain of dying but the pain of giving birth: it is going somewhere, and God has promised the child. "Shall I bring a mother to the point of birth, and yet not let her child be born? says the LORD" (Isaiah 66:9).
 
-<p class="next-prev"><span>← <a href="/who-is-the-woman">Revelation 12:1–6: Who is the woman?</a></span><span><a href="/the-study">The study</a> →</span></p>
+<p class="next-prev"><span>← <a href="/who-is-the-woman">Revelation 12:1–6: Who is the woman?</a></span><span><a href="/the-great-red-dragon">Revelation 12:3–4: The great red dragon</a> →</span></p>
