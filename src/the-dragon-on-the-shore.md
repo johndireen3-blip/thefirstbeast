@@ -65,4 +65,4 @@ To read chapter 13 in the light of chapter 12. A reader who meets the beasts wit
 
 It also asks for sobriety about where our footing is. The dragon stands on sand. "Everyone who listens to these words of mine but does not act on them will be like a fool who built his house on sand" (Matthew 7:26).
 
-<p class="next-prev"><span>← <a href="/the-rest-of-her-offspring">Revelation 12:17: The rest of her offspring</a></span><span><a href="/the-study">The study</a> →</span></p>
+<p class="next-prev"><span>← <a href="/the-rest-of-her-offspring">Revelation 12:17: The rest of her offspring</a></span><span><a href="/the-lamb-on-mount-zion">Revelation 14:1–5: The Lamb on Mount Zion</a> →</span></p>
