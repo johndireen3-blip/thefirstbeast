@@ -1,5 +1,5 @@
-<!--{"title":"The Study: Revelation 11 to 22 | The Woman and the Ark","description":"The plan of the study: the Woman and the Dragon in four parts, from the two witnesses of Revelation 11 to the Bride of the Lamb in chapter 21.","kicker":"The plan","h1":"The Study","lead":"One story in four parts. Pages are linked as they are written; the rest are named so readers can see where the study is going.","crumbs":[["Home","/"],["The Study","/the-study"]]}-->
-The dragon thrown down in chapter 12 is bound and destroyed in chapter 20, and the Woman of chapter 12 is answered by the Bride of chapter 21. The four parts follow that thread. All four parts are written; each page is a draft until it carries the mark of Fr. John's review.
+<!--{"reviewed":"2026-11-15","title":"The Study: Revelation 11 to 22 | The Woman and the Ark","description":"The plan of the study: the Woman and the Dragon in four parts, from the two witnesses of Revelation 11 to the Bride of the Lamb in chapter 21.","kicker":"The plan","h1":"The Study","lead":"One story in four parts. Pages are linked as they are written; the rest are named so readers can see where the study is going.","crumbs":[["Home","/"],["The Study","/the-study"]]}-->
+The dragon thrown down in chapter 12 is bound and destroyed in chapter 20, and the Woman of chapter 12 is answered by the Bride of chapter 21. The four parts follow that thread. All four parts are written.
 
 ## Part 2. The center (Revelation 11:19–14:20)
 

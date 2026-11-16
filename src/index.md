@@ -1,4 +1,4 @@
-<!--{"title":"The Woman and the Ark: Revelation 12 in Depth","description":"An advanced Catholic study of the Woman and the Dragon in Revelation, from the ark in heaven to the Bride of the Lamb, with Scripture, the Fathers and the Church.","kicker":"Revelation 12 in depth","h1":"The Woman and the Ark","lead":"God's temple in heaven was opened, and the ark of his covenant could be seen. Then a great sign appeared: a woman clothed with the sun. A study of the Woman and the Dragon, from that first sight to the Bride of the Lamb.","wide":true}-->
+<!--{"reviewed":"2026-11-15","title":"The Woman and the Ark: Revelation 12 in Depth","description":"An advanced Catholic study of the Woman and the Dragon in Revelation, from the ark in heaven to the Bride of the Lamb, with Scripture, the Fathers and the Church.","kicker":"Revelation 12 in depth","h1":"The Woman and the Ark","lead":"God's temple in heaven was opened, and the ark of his covenant could be seen. Then a great sign appeared: a woman clothed with the sun. A study of the Woman and the Dragon, from that first sight to the Bride of the Lamb.","wide":true}-->
 <div class="narrow-in" markdown>
 
 ## Why this study

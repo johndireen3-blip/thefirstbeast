@@ -1,4 +1,4 @@
-<!--{"title":"About | The Woman and the Ark","description":"About The Woman and the Ark, part of The Ephesus Challenge: an advanced study of the Woman and the Dragon in the Book of Revelation.","kicker":"About","h1":"About The Woman and the Ark","lead":"Revelation 12 in depth, and the story it begins, from the ark in heaven to the Bride of the Lamb.","crumbs":[["Home","/"],["About","/about"]]}-->
+<!--{"reviewed":"2026-11-15","title":"About | The Woman and the Ark","description":"About The Woman and the Ark, part of The Ephesus Challenge: an advanced study of the Woman and the Dragon in the Book of Revelation.","kicker":"About","h1":"About The Woman and the Ark","lead":"Revelation 12 in depth, and the story it begins, from the ark in heaven to the Bride of the Lamb.","crumbs":[["Home","/"],["About","/about"]]}-->
 ## What this site is
 
 The Woman and the Ark is an intermediate and advanced study of one story in the Book of Revelation: the Woman and the Dragon. It begins where the story begins, with the ark of the covenant seen in heaven (Revelation 11:19) and the great sign of the Woman (12:1), and follows it to its end in the Bride of the Lamb (21:9).

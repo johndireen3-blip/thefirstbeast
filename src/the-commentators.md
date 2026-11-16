@@ -1,4 +1,4 @@
-<!--{"title":"The Commentators | The Woman and the Ark","description":"The ancient and later commentators on Revelation used in this study, with the editions cited and which are still to be consulted.","kicker":"Sources","h1":"The Commentators","lead":"Who is quoted in this study, from which edition, and which sources are still to be consulted.","crumbs":[["Home","/"],["The Commentators","/the-commentators"]]}-->
+<!--{"reviewed":"2026-11-15","title":"The Commentators | The Woman and the Ark","description":"The ancient and later commentators on Revelation used in this study, with the editions cited and which are still to be consulted.","kicker":"Sources","h1":"The Commentators","lead":"Who is quoted in this study, from which edition, and which sources are still to be consulted.","crumbs":[["Home","/"],["The Commentators","/the-commentators"]]}-->
 This study quotes a commentator only from a text that has been read, and names the edition. Where a page relies on a report of what someone wrote, it says so.
 
 ## In use now

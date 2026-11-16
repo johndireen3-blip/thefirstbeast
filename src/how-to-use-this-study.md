@@ -1,4 +1,4 @@
-<!--{"title":"How to Use This Study | The Woman and the Ark","description":"How each page of The Woman and the Ark is laid out, what the authority labels mean, and how to read the Woman of Revelation 12 with the Church.","kicker":"Before you begin","h1":"How to Use This Study","crumbs":[["Home","/"],["How to Use It","/how-to-use-this-study"]]}-->
+<!--{"reviewed":"2026-11-15","title":"How to Use This Study | The Woman and the Ark","description":"How each page of The Woman and the Ark is laid out, what the authority labels mean, and how to read the Woman of Revelation 12 with the Church.","kicker":"Before you begin","h1":"How to Use This Study","crumbs":[["Home","/"],["How to Use It","/how-to-use-this-study"]]}-->
 ## The shape of each page
 
 Every study page takes one verse or short passage and follows the same order:
