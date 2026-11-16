@@ -65,4 +65,4 @@ The passage is honest about what to expect. Being hated by the dragon is not a s
 
 The answer in the text is not the Woman's own strength. She is given wings, given a place, and given the earth's help. We are asked to stand where she stands: "When you pass through waters, I will be with you; through rivers, you shall not be swept away" (Isaiah 43:2).
 
-<p class="next-prev"><span>← <a href="/the-accuser-cast-out">Revelation 12:10–12: The accuser cast out</a></span><span><a href="/the-study">The study</a> →</span></p>
+<p class="next-prev"><span>← <a href="/the-accuser-cast-out">Revelation 12:10–12: The accuser cast out</a></span><span><a href="/the-rest-of-her-offspring">Revelation 12:17: The rest of her offspring</a> →</span></p>
