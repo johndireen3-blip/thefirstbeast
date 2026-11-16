@@ -100,7 +100,7 @@ A reader may hold an opinion here. It should be held as an opinion, tested again
 
 - **Literal or symbolic,** as above.
 - **Past or future.** The first-century reading sees the martyrs under Rome, and some scholars have proposed Peter and Paul, who died there. The Fathers who read two prophets place them at the end. The reading of the Church as witness covers all the time between.
-- **The signs.** Whether the fire and the plagues are to be seen literally, or are the power of the prophetic word, as when the Lord says to Jeremiah, "I am making my words a fire in your mouth" (Jeremiah 5:14).
+- **The signs.** Whether the fire and the plagues are to be seen literally, or are the power of the prophetic word, as when the Lord tells Jeremiah that his words in the prophet's mouth will be a fire (Jeremiah 5:14).
 
 ## What it asks of us
 
