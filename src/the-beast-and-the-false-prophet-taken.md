@@ -66,7 +66,7 @@ In chapter 12 the dragon, unable to reach the Woman, "went off to wage war again
 
 ## Where readers differ
 
-- **Persons or powers.** Whether the beast and the false prophet are, at the end, two individual men, or the persecuting state and its religious servant in every age, or both: a pattern that recurs and comes to a head. The Catechism speaks of "the Antichrist" and also of a deception that "already begins to take shape in the world" (CCC 675–676). This study names no one. [[auth:disputed]]
+- **Persons or powers.** Whether the beast and the false prophet are, at the end, two individual men, or the persecuting state and its religious servant in every age, or both: a pattern that recurs and comes to a head. The Catechism speaks of "the Antichrist" and also of a deception that "already begins to take shape in the world" (CCC 675–676). This study names no one. The Catechism gives the pattern to watch for, and [How to test a reading of Revelation](/how-to-test-a-reading) gives a way to weigh what you see. [[auth:disputed]]
 - **A battle on a field.** Some expect a literal military gathering at a place. The notes of the New American Bible read the imagery as symbolic. The text gives a place-name only at 16:16, and describes no fighting.
 - **The first-century reading.** Rome and its emperor-worship did fall, and did not have the last word over the Church. That is a true fulfillment. The passage also looks beyond it, since the pool of fire is no earthly defeat.
 
