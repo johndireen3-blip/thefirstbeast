@@ -34,7 +34,7 @@ John makes two changes. In Ezekiel, Gog is a prince and Magog his land; in Revel
 
 In almost every century, readers have matched Gog and Magog to a people of their own day: Goths, Huns, Mongols, and in modern times one great power or another. Every one of those identifications has failed, and the text gives the reason. Gog and Magog are "the nations at the four corners of the earth." The name cannot belong to one country, because John has given it to all of them.
 
-This study names no nation. The enemy in this passage is not a people. It is the deceiver, and those he has deceived can be found anywhere.
+This study names no nation. The enemy in this passage is not a people. It is the deceiver, and those he has deceived can be found anywhere. What a reader can watch for is not a flag but a deception wide enough to take in the world; see [How to test a reading of Revelation](/how-to-test-a-reading).
 
 ## The Church surrounded
 

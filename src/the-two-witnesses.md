@@ -85,7 +85,7 @@ What punishment did not do, the death and vindication of the witnesses does. Man
 
 ## What the tradition leaves open
 
-This study names no one as a witness, and it will not. But it is fair to say plainly what the Church has and has not settled, so that a reader knows where there is room. [[auth:disputed]]
+This study names no one as a witness. It does say plainly what the Church has and has not settled, so that a reader knows where there is room to watch and to weigh; see [How to test a reading of Revelation](/how-to-test-a-reading). [[auth:disputed]]
 
 - **Not settled:** whether the witnesses are two individuals, or the Church, or both. Bede and the modern notes show that all three positions are held within the Church.
 - **Not settled:** who the second witness is, if they are individuals. The Fathers themselves name Enoch, Jeremiah and Moses.

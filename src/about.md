@@ -7,7 +7,7 @@ Its sources are Scripture, the liturgy, the Catechism and other teaching of the 
 
 ## What it is not
 
-It is not speculative. It names no person, living or dead, as any figure of the Apocalypse, and it sets no dates.
+It is not speculative. It names no person, living or dead, as any figure of the Apocalypse, and it sets no dates. It is not meant to end a reader's own thinking either. Where the Church has left a question open, the pages say so, and [How to test a reading of Revelation](/how-to-test-a-reading) gives eleven questions for weighing any answer.
 
 It is also a different site from apocalypse12.org, whose address is one letter away. That site is Fr. John's own writing. This one is a study of what has been revealed.
 

@@ -7,7 +7,7 @@ The twelfth chapter of Revelation stands at the center of the book. Before it, J
 
 This site follows that one story through the chapters where it is told. It is written for readers who already know the outline of Revelation and want to go further: into the Old Testament behind each image, the Greek where it matters, the Fathers and later commentators, the liturgy, and the teaching of the Church. Every claim carries its level of authority.
 
-It names no person as any figure of the Apocalypse, and it sets no dates. Its first rule is love (Revelation 2:4), and its last word is the Lamb's victory.
+It names no person as any figure of the Apocalypse, and it sets no dates. It does invite its readers to keep watch and to think for themselves, and it offers a way to do that: [How to test a reading of Revelation](/how-to-test-a-reading). Its first rule is love (Revelation 2:4), and its last word is the Lamb's victory.
 
 </div>
 

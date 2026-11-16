@@ -27,9 +27,11 @@ Each claim is marked with the weight it carries:
 
 The Church has read the Woman of Revelation 12 in three ways that belong together: as Mary, the mother of the Messiah; as Israel, the people from whom he came; and as the Church, who bears his brothers and sisters. This study reads her first as Mary, as the liturgy does, and sets Israel and the Church beside her on every page. Pope St. John Paul II joined the readings in one sentence: by Mary's "ecclesial identification as the 'woman clothed with the sun,'" it can be said that in her "the Church has already reached that perfection whereby she exists without spot or wrinkle" (*Redemptoris Mater* 47). [[auth:church]]
 
-## What this study does not do
+## What this study does not do, and what it leaves to you
 
 It names no person, living or dead, as the dragon's servant, a beast, a false prophet or a witness, and it computes no dates (CCC 673). Where the tradition leaves a question open, a page says so and shows where there is room for more than one answer, without proposing anyone.
+
+That restraint is not a request to stop thinking. Scripture says, "Test everything; retain what is good" (1 Thessalonians 5:21), and the Lord asked, "Why do you not judge for yourselves what is right?" (Luke 12:57). Readers are invited to watch and to weigh for themselves: see [How to test a reading of Revelation](/how-to-test-a-reading).
 
 ## Where to go for the rest of the book
 
