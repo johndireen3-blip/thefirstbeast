@@ -20,7 +20,7 @@ The dragon thrown down in chapter 12 is bound and destroyed in chapter 20, and t
 | [The Lamb on Mount Zion](/the-lamb-on-mount-zion) | 14:1–5 |
 | [Three angels](/three-angels) | 14:6–13 |
 | [The harvest and the winepress](/the-harvest-and-the-winepress) | 14:14–20 |
-| The Woman in approved apparitions | the whole chapter |
+| [The Woman in approved apparitions](/the-woman-in-approved-apparitions) | the whole chapter |
 
 Chapter 13, the two beasts, is studied verse by verse on [The First Beast](https://thefirstbeast.com/revelation-13).
 

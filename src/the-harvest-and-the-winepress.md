@@ -85,4 +85,4 @@ A reader who sees Mary in the Woman may add one thing more. The firstfruits belo
 
 Both halves of that sentence are in the passage. There is a winepress, and it is not softened. And there is a harvest, gathered by the Lord's own hand, of people who were sown and grew and ripened in the same field as the weeds. The time between now and the sickle is the time given for ripening. The Lord's question about it is not when it will end but what we are becoming in it.
 
-<p class="next-prev"><span>← <a href="/three-angels">Revelation 14:6–13: Three angels</a></span><span><a href="/the-study">The study</a> →</span></p>
+<p class="next-prev"><span>← <a href="/three-angels">Revelation 14:6–13: Three angels</a></span><span><a href="/the-woman-in-approved-apparitions">The Woman in approved apparitions</a> →</span></p>

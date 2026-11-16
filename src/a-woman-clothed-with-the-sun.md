@@ -63,7 +63,7 @@ So the sign is one. Israel is the people from whom the Messiah came. Mary is the
 
 ## An approved apparition
 
-The image of Our Lady of Guadalupe (1531) shows a woman who stands before the sun, with the moon beneath her feet and stars on her mantle, and who is with child. The Church has approved the devotion and keeps her feast on December 12. An apparition adds nothing to the faith (CCC 67), but this one has taught generations to see Mary in John's sign. A later page takes up the Woman in the approved apparitions. [[auth:apparition]]
+The image of Our Lady of Guadalupe (1531) shows a woman who stands before the sun, with the moon beneath her feet and stars on her mantle, and who is with child. The Church has approved the devotion and keeps her feast on December 12. An apparition adds nothing to the faith (CCC 67), but this one has taught generations to see Mary in John's sign. See [The Woman in approved apparitions](/the-woman-in-approved-apparitions). [[auth:apparition]]
 
 ## What it asks of us
 
