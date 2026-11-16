@@ -26,8 +26,8 @@ CONFIG = {
     # Linking rule (brief): this site links to the Church's-reading sites only, never to
     # apocalypse13.org, apocalypse12.org or revelation13.blog.
     "family": [("https://thelambsvictory.org/", "The Lamb's Victory", "Revelation chapter by chapter"),
-               ("https://agreatsign.si/", "A Great Sign", "prophecy across the whole Bible")],
-    "family_soon": [("apocalypse12.com", "Revelation 12 in depth, the partner to this site")],
+               ("https://agreatsign.si/", "A Great Sign", "prophecy across the whole Bible"),
+               ("https://apocalypse12.com/", "The Woman and the Ark", "Revelation 12 in depth, the partner to this site")],
     "logo": '<img src="/assets/logo.png" alt="" width="46" height="46">',
 }
 
