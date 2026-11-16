@@ -7,6 +7,8 @@ The Church has defined very little about the details of Revelation. She names no
 
 The risk on the other side is real too. Confident names and dates have been announced in every century, and each failure has taught many people to ignore the book altogether. The remedy is not silence. It is to test, as the people of Beroea did, who "examined the scriptures daily to determine whether these things were so" (Acts 17:11).
 
+Pope Leo XIV said as much to the professors and students of a Catholic university in Peru: they "are called to exercise critical thinking," and to seek "that wisdom which neither machines nor computer programs can possess" ([address at Chiclayo, November 13, 2026](https://www.vatican.va/content/leo-xiv/en/speeches/2026/november/documents/20261113-peru-mondo-universitario.html)).
+
 ## The text
 
 1. **Does it begin with what the text says?** Establish what the passage means in its own words and setting before building anything on it (CCC 109–110, 116).
