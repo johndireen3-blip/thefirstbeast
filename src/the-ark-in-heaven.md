@@ -69,4 +69,4 @@ How the earliest commentators on Revelation read this verse will be added here f
 
 The ark was the place where God met his people. John sees it at the moment the kingdom is proclaimed (Revelation 11:15), and the last vision of the book gives its meaning in plain words: "Behold, God's dwelling is with the human race. He will dwell with them and they will be his people" (Revelation 21:3). The verse asks us to believe that God has not withdrawn. What was hidden is kept safe with him, and what he has promised he shows in his own time.
 
-<p class="next-prev"><span>← <a href="/the-study">The study</a></span><span><a href="/a-woman-clothed-with-the-sun">Revelation 12:1: A woman clothed with the sun</a> →</span></p>
+<p class="next-prev"><span>← <a href="/the-seventh-trumpet">Revelation 11:15–18: The seventh trumpet</a></span><span><a href="/a-woman-clothed-with-the-sun">Revelation 12:1: A woman clothed with the sun</a> →</span></p>

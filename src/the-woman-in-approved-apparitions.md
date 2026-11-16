@@ -1,4 +1,4 @@
-<!--{"title":"The Woman in Approved Apparitions | The Woman and the Ark","description":"How four apparitions the Church has received, Guadalupe, the Miraculous Medal, Lourdes and Fatima, echo the Woman of Revelation 12, and how such echoes should be read.","kicker":"Revelation 12 and private revelation","h1":"The Woman in Approved Apparitions","lead":"Four times in the last five centuries the Church has received an apparition of Mary that carries the images of Revelation 12. What they show, and how much weight they bear.","crumbs":[["Home","/"],["The Study","/the-study"],["The Woman in approved apparitions","/the-woman-in-approved-apparitions"]]}-->
+<!--{"title":"The Woman in Approved Apparitions | The Woman and the Ark","description":"How Guadalupe, the Miraculous Medal, Lourdes, Fatima and Akita echo the Woman of Revelation 12, the standing of each, and how such echoes should be read.","kicker":"Revelation 12 and private revelation","h1":"The Woman in Approved Apparitions","lead":"Four times in the last five centuries the Church has received an apparition of Mary that carries the images of Revelation 12, and a fifth has a bishop's recognition. What they show, and how much weight they bear.","crumbs":[["Home","/"],["The Study","/the-study"],["The Woman in approved apparitions","/the-woman-in-approved-apparitions"]]}-->
 <dl class="facts">
 <dt>The text</dt><dd>"A great sign appeared in the sky, a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars" (Revelation 12:1). "The huge dragon, the ancient serpent… was thrown down" (12:9). "Then the dragon… went off to wage war against the rest of her offspring" (12:17).</dd>
 <dt>In one sentence</dt><dd>Approved apparitions do not interpret Scripture; they echo it, and these four have taught generations of Catholics to see Mary in John's sign.</dd>
@@ -71,13 +71,39 @@ More: [Lourdes on A Great Sign](https://agreatsign.si/lourdes).
 
 **How the Church reads it.** Cardinal Ratzinger's commentary is the model for reading any such vision beside Scripture. "The future is not in fact unchangeably set, and the image which the children saw is in no way a film preview of a future in which nothing can be changed." Its purpose is "to mobilize the forces of change in the right direction." And of its particular images: "Insofar as individual events are described, they belong to the past" ([*The Message of Fatima*](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000626_message-fatima_en.html), 2000). Ten years later, as Pope, he added at Fatima: "We would be mistaken to think that Fatima's prophetic mission is complete" (homily, May 13, 2010). [[auth:church]]
 
-Fatima sets no dates. What Our Lady asked was prayer, the Rosary, penance, and consecration to her Immaculate Heart.
+**A message with conditions.** Fatima sets no date for the end. But it does speak in conditions, and that is where its urgency lies: "The war is going to end: but if people do not cease offending God, a worse one will break out during the Pontificate of Pius XI." If her requests were not heeded, Russia would "spread her errors throughout the world." The requests were definite: the daily Rosary, penance, the Communion of reparation on the First Saturdays, and the consecration of Russia to her Immaculate Heart. The consecration was made by Pius XII in 1942, by Pope St. John Paul II with the bishops of the world on March 25, 1984, and by Pope Francis, naming Russia and Ukraine, on March 25, 2022. A warning of this kind is not a calendar. It tells us that what we do matters for what comes, which is what Cardinal Ratzinger meant by saying the future "is not in fact unchangeably set."
 
 More: [Fatima on A Great Sign](https://agreatsign.si/fatima).
 
-## What the four have in common
+## Akita, 1973: a lesser standing
 
-Set beside one another, the four show the chapter almost verse by verse.
+Akita is often set beside the four above, and its message is among the gravest. It must be reported with its real standing, which is not the same as theirs.
+
+**What the Church has and has not said.** Sr. Agnes Sasagawa, of a small community near Akita in Japan, reported three messages from Our Lady in 1973, and a wooden statue of Mary in the convent was seen to weep 101 times between 1975 and 1981. The Bishop of Niigata, John Shojiro Ito, in a pastoral letter of April 22, 1984, recognized "the supernatural character of a series of mysterious events concerning the statue," found nothing in the messages contrary to faith and morals, and authorized veneration in his diocese "while awaiting that the Holy See publishes definitive judgment on this matter." The Holy See has published no such judgment. Akita is sometimes called "approved by the Vatican"; that is not accurate. It has a bishop's recognition, which has not been withdrawn. [[auth:church]]
+
+**The message.** The third message, of October 13, 1973, the anniversary of the last apparition at Fatima, begins with a condition: "if men do not repent and better themselves, the Father will inflict a terrible punishment on all humanity." It speaks of fire falling from the sky. It warns that "the work of the devil will infiltrate even into the Church," with cardinals and bishops set against one another. And it gives the remedy: "The only arms which will remain for you will be the Rosary and the Sign left by My Son." The first message had asked: "Pray very much for the Pope, Bishops, and Priests."
+
+**The echo.** Akita has none of the imagery of the sun and the stars. What it echoes is the second half of Revelation 12.
+
+- **The dragon's war reaches into the Church.** His tail sweeps down stars (12:4), which several Fathers read of members of the Church who fall; see [The great red dragon](/the-great-red-dragon). The flood from his mouth is, on one reading, deception poured out to carry the Church away (12:15); see [The dragon pursues the woman](/the-dragon-pursues-the-woman). A warning that the devil's work will enter the Church says nothing Scripture had not said.
+- **A warning given so that it need not happen.** This is the manner of the third angel of chapter 14; see [Three angels](/three-angels). It is also the manner of Jonah, who announced that Nineveh would be destroyed, and "when God saw by their actions how they turned from their evil way, he repented of the evil he had threatened" (Jonah 3:10).
+- **The weapons.** In Revelation the faithful conquer "by the blood of the Lamb and by the word of their testimony" (12:11). Akita names the Rosary and the Eucharist.
+
+**Read soberly.** The message is serious, and many have felt that it speaks to the Church's present trials. That may be said. Three limits go with it. It is conditional and gives no date. Its images are not doctrine, and no one may fix them to particular events or persons. And its standing is a diocesan bishop's recognition of events around a statue, not a judgment of the universal Church on the messages. [[auth:apparition]]
+
+More, with the full history of what Rome did and did not say: [Akita on A Great Sign](https://agreatsign.si/akita).
+
+## Urgency without dates
+
+Fatima and Akita both speak with urgency, and readers rightly feel it. It is worth saying exactly what kind of urgency it is.
+
+Scripture knows two ways of speaking about what is to come. One is the decree that will stand whatever anyone does: Christ will return; the dead will be raised. The other is the warning, which is spoken in order to be averted: "At one moment I may decree concerning a nation or kingdom that I will uproot and tear down and destroy it; but if that nation against whom I have decreed turns from its evil, then I will have a change of heart regarding the evil which I have decreed" (Jeremiah 18:7–8).
+
+The messages of approved apparitions belong to the second kind. Their "if" is the whole point. So the right response to their urgency is not to calculate when, but to do now what is asked: to repent, to pray, to make reparation. The urgency is real because the time for doing these things is always short. It is not the urgency of a countdown.
+
+## What they have in common
+
+Set beside one another, they show the chapter almost verse by verse.
 
 | Apparition | The part of Revelation 12 it echoes |
 | --- | --- |
@@ -85,8 +111,9 @@ Set beside one another, the four show the chapter almost verse by verse.
 | The Miraculous Medal | The Woman and the serpent; the crown of twelve stars; her children's prayer (12:1, 9, 17; Genesis 3:15) |
 | Lourdes | The Woman on whom the serpent has no hold (12:13–16) |
 | Fatima | The martyrs, the war on her offspring, and the victory (12:11, 17) |
+| Akita (a bishop's recognition only) | The dragon's work reaching into the Church (12:4, 15) |
 
-In each, the Woman of the Apocalypse is Mary; none of them shows her as a symbol only. That agrees with the way the liturgy reads the chapter and with the way this study reads it first. It adds nothing to that reading's authority. It shows that the Church's prayer and the Church's experience have moved in the same direction.
+In each, the Woman is Mary; none of them shows her as a symbol only. That agrees with the way the liturgy reads the chapter and with the way this study reads it first. It adds nothing to that reading's authority. It shows that the Church's prayer and the Church's experience have moved in the same direction.
 
 Each also asks for the same things, and they are the things the chapter asks: to turn to God, to pray, to do penance, and to stay close to her Son.
 

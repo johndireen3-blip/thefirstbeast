@@ -90,7 +90,7 @@ BOOKS = {"Genesis":"genesis","Exodus":"exodus","Leviticus":"leviticus","Numbers"
 "Esther":"esther","1 Maccabees":"1maccabees","2 Maccabees":"2maccabees","Job":"job","Psalms":"psalms","Psalm":"psalms",
 "Proverbs":"proverbs","Song of Songs":"songofsongs","Ecclesiastes":"ecclesiastes","Wisdom":"wisdom","Sirach":"sirach",
 "Isaiah":"isaiah","Jeremiah":"jeremiah","Lamentations":"lamentations","Baruch":"baruch","Ezekiel":"ezekiel","Daniel":"daniel",
-"Hosea":"hosea","Joel":"joel","Amos":"amos","Micah":"micah","Zechariah":"zechariah","Malachi":"malachi",
+"Hosea":"hosea","Jonah":"jonah","Zephaniah":"zephaniah","Joel":"joel","Amos":"amos","Micah":"micah","Zechariah":"zechariah","Malachi":"malachi",
 "Matthew":"matthew","Mark":"mark","Luke":"luke","John":"john","Acts":"acts","Romans":"romans","1 Corinthians":"1corinthians",
 "2 Corinthians":"2corinthians","Galatians":"galatians","Ephesians":"ephesians","Philippians":"philippians","Colossians":"colossians",
 "1 Thessalonians":"1thessalonians","2 Thessalonians":"2thessalonians","1 Timothy":"1timothy","2 Timothy":"2timothy","Titus":"titus",

@@ -1,5 +1,5 @@
 <!--{"title":"The Study: Revelation 11 to 22 | The Woman and the Ark","description":"The plan of the study: the Woman and the Dragon in four parts, from the two witnesses of Revelation 11 to the Bride of the Lamb in chapter 21.","kicker":"The plan","h1":"The Study","lead":"One story in four parts. Pages are linked as they are written; the rest are named so readers can see where the study is going.","crumbs":[["Home","/"],["The Study","/the-study"]]}-->
-The dragon thrown down in chapter 12 is bound and destroyed in chapter 20, and the Woman of chapter 12 is answered by the Bride of chapter 21. The four parts follow that thread. Part 2 is being written first.
+The dragon thrown down in chapter 12 is bound and destroyed in chapter 20, and the Woman of chapter 12 is answered by the Bride of chapter 21. The four parts follow that thread. Parts 1 and 2 are written in draft; Parts 3 and 4 are to come.
 
 ## Part 2. The center (Revelation 11:19–14:20)
 
@@ -28,9 +28,9 @@ Chapter 13, the two beasts, is studied verse by verse on [The First Beast](https
 
 | Page | Text |
 | --- | --- |
-| The temple measured | 11:1–2 |
-| The two witnesses | 11:3–14 |
-| The seventh trumpet | 11:15–18 |
+| [The temple measured](/the-temple-measured) | 11:1–2 |
+| [The two witnesses](/the-two-witnesses) | 11:3–14 |
+| [The seventh trumpet](/the-seventh-trumpet) | 11:15–18 |
 
 ## Part 3. The seal and the mark
 

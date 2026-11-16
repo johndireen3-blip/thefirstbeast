@@ -40,12 +40,16 @@ The heads and horns are studied where they belong, with the beast, on the partne
 
 ## A third of the stars
 
-"Its tail swept away a third of the stars in the sky and hurled them down to the earth." Two readings are old, and both have Scripture behind them. [[auth:disputed]]
+"Its tail swept away a third of the stars in the sky and hurled them down to the earth." The Church has not settled what the stars are, and the Fathers give two readings, sometimes in the same breath. [[auth:disputed]]
 
-- **The angels who fell with him.** St. Victorinus: the stars are "the angels that were subject to him," of whom "he seduced the third part." The chapter itself supports this: when the dragon is thrown down, "its angels were thrown down with it" (12:9). So do Jude 6, "the angels too, who did not keep to their own domain," and the Catechism's teaching on the angels' fall (CCC 391–393). This is the reading most Catholics know.
-- **The faithful whom he casts down.** The words come from Daniel 8:10, where the stars thrown down and trampled are God's people under persecution. On this reading the verse describes what the dragon does on earth: he drags down some of those who shone.
+- **St. Victorinus gives both.** The verse, he says, "may be taken in two ways": either that the devil "may be able to seduce the third part of the men who believe," or that "of the angels that were subject to him… he seduced the third part" ([*Commentary on the Apocalypse*, ch. 12](https://www.newadvent.org/fathers/0712.htm)). [[auth:father]]
+- **The angels who fell with him.** The chapter itself supports this: when the dragon is thrown down, "its angels were thrown down with it" (12:9). So do Jude 6, "the angels too, who did not keep to their own domain," and the Catechism's teaching on the angels' fall (CCC 391–393). This is the reading most Catholics know.
+- **Members of the Church whom he drags down.** The words come from Daniel 8:10, where the stars thrown down and trampled are God's people. St. Methodius reads the stars as "the bodies of heresies," those who claimed a place in the heavens and were "dragged down" ([*The Banquet* 8.10](https://www.newadvent.org/fathers/062308.htm)). Pope St. Gregory the Great reads them as people who seemed to shine in the Church and fell away to pursue worldly glory ([*Moralia in Job* 32.15](https://lectionarycentral.com/GregoryMoralia/Book32.html)). [[auth:father]]
+- **Both together.** St. Bede reads the stars as angels and men alike ([*Explanation of the Apocalypse*, on 12:4](https://archive.org/details/explanationapoc00bedegoog)). [[auth:father]]
 
-The text says "a third," as the trumpets strike a third of the earth, the sea and the stars (8:7–12). In Revelation a third is a great loss that is still a limited one. He is not given the whole.
+The second reading is the more searching for a reader. It says the dragon's tail reaches into the Church, and that those he pulls down may be the ones who appeared brightest.
+
+The text says "a third," as the trumpets strike a third of the earth, the sea and the stars (8:7–12). In Revelation a third is a great loss that is still a limited one. He is not given the whole. A fuller account of these readings is on [A Great Sign](https://agreatsign.si/revelation-12).
 
 ## Before the woman, to devour her child
 

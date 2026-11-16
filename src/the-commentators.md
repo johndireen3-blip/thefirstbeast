@@ -9,6 +9,10 @@ This study quotes a commentator only from a text that has been read, and names t
 | St. Victorinus of Pettau (d. about 304) | *Commentary on the Apocalypse*, in the text as revised by St. Jerome | Ante-Nicene Fathers, vol. 7, at [IntraText](https://www.intratext.com/IXT/ENG1016/_PC.HTM). The restored original is still to be consulted |
 | St. Methodius of Olympus (d. about 311) | *The Banquet of the Ten Virgins*, Discourse VIII | Ante-Nicene Fathers, vol. 6, at [IntraText](https://www.intratext.com/IXT/ENG1159/_P1O.HTM) |
 | Pope St. Gregory the Great (d. 604) | *Homilies on the Gospels* 34, on the angels | As read in the Liturgy of the Hours, Office of Readings for September 29 |
+| St. Augustine (d. 430) | *The City of God* XX.29, on Elijah | Nicene and Post-Nicene Fathers, at [ccel.org](https://ccel.org/ccel/schaff/npnf102.iv.XX.29.html) |
+| St. Bede the Venerable (d. 735) | *Explanation of the Apocalypse* | On chapters 11 and 12, in the translation by Edward Marshall (1878). A complete modern edition is still to be consulted |
+| The Haydock commentary (1859) | Notes on the Apocalypse | [ecatholic2000.com](https://ecatholic2000.com/haydock/ntcomment277.shtml) |
+| St. Hippolytus, St. John Damascene, St. Robert Bellarmine | On Enoch and Elijah | As set out on [A Great Sign](https://agreatsign.si/) |
 | St. John Henry Newman | *A Letter Addressed to the Rev. E. B. Pusey* (1866) | [newmanreader.org](https://www.newmanreader.org/works/anglicans/volume2/pusey/section3.html) |
 | The Second Vatican Council | *Lumen Gentium* (1964), chapter 8 | [vatican.va](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html) |
 | Pope Benedict XVI | General Audience, August 23, 2006 | [vatican.va](https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060823.html) |
@@ -26,4 +30,3 @@ These commentaries matter most for Revelation 12, and they are not yet quoted he
 - **Quodvultdeus of Carthage** (d. about 450), on the Woman as Mary and as the Church.
 - **Oecumenius** (sixth century), the earliest Greek commentary, which reads the Woman as the Mother of God.
 - **St. Andrew of Caesarea** (sixth to seventh century), the standard commentary of the Greek Church.
-- **St. Bede the Venerable** (d. 735), *Explanation of the Apocalypse*.
