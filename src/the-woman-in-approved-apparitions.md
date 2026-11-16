@@ -120,7 +120,7 @@ Each also asks for the same things, and they are the things the chapter asks: to
 ## Read with care
 
 - **An echo is not a fulfillment.** No approved apparition says, "this is the woman of Revelation 12 now come to pass." The sign John saw is not used up by any of them.
-- **No dates.** None of these apparitions gives a timetable for the end, and the Church forbids making one (CCC 673). Counting years from an apparition is not a use the Church has made of any of them.
+- **No dates.** None of these apparitions gives a timetable for the end, and the Church repeats the Lord's word that "it is not for you to know times or seasons" (CCC 673). Counting years from an apparition is not a use the Church has made of any of them.
 - **Stay with what is approved.** Many claims gather around famous apparitions: details said to be hidden in the image of Guadalupe, a supposed unpublished part of the secret of Fatima, dates for chastisements. The Church has made no judgment in favor of these, and her reception of the apparitions does not rest on them.
 - **Other apparitions.** Many other apparitions of Mary are reported, and some speak in the language of Revelation. This study uses only those the Church has received, and only as helps.
 

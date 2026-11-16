@@ -14,7 +14,7 @@ Chapters 19 and 20 finish all three, in reverse order of their appearing. The dr
 ## The words
 
 - **The heavens opened.** At 4:1 John saw "an open door to heaven." At 11:19 the temple in heaven was opened and the ark was seen. Now heaven itself stands open, and someone comes out.
-- **A white horse.** White is the color of victory throughout the book. A Roman general rode a white horse in his triumph.
+- **A white horse.** White is the color of victory throughout the book. In a Roman triumph the victor's chariot was drawn by white horses.
 - **Faithful and True.** The titles the risen Lord gave himself in the letter to Laodicea: "the faithful and true witness" (3:14).
 - **He judges and wages war in righteousness.** The one war in the book that is just. Isaiah said of the Messiah, "he shall judge the poor with justice" (Isaiah 11:4).
 - **Many diadems.** The dragon wore seven (12:3) and the beast ten (13:1). The rider's are beyond number. Theirs were copies.

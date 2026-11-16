@@ -58,7 +58,7 @@ When the 144,000 appear again in chapter 14, the two pictures have come together
 
 - **Two groups.** Some commentators, ancient and modern, distinguish them: the 144,000 as believers from Israel and the multitude as believers from the nations; or the 144,000 as a special company (martyrs, or the consecrated) within the larger Church. St. Paul does teach a special place for Israel in God's plan, and that "all Israel will be saved" (Romans 11:26; CCC 674). That truth does not depend on this passage. [[auth:disputed]]
 - **A literal count.** Some groups outside the Catholic Church hold that exactly 144,000 persons form a heavenly class. The Church does not read it so.
-- **"The time of great distress."** The note in the New American Bible refers it first to "fierce persecution by the Romans." The Lord uses the same phrase of the end (Matthew 24:21). The multitude is gathered from every persecution, and from the ordinary distress of every Christian life faithfully lived.
+- **"The time of great distress."** The note in the New American Bible refers it first to "fierce persecution by the Romans." The Lord uses the same words, in Greek, of the end: "great tribulation" (Matthew 24:21). The multitude is gathered from every persecution, and from the ordinary distress of every Christian life faithfully lived.
 - **The missing tribe.** Dan is absent from the list and Manasseh is added beside Joseph. See [The seal of the living God](/the-seal-of-the-living-god).
 
 ## What it asks of us

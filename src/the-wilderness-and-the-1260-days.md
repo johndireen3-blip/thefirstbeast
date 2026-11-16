@@ -46,7 +46,7 @@ Two things follow from the table.
 
 The notes of the New American Bible explain the origin: the number is "the duration of the vicious persecution of the Jews by Antiochus IV Epiphanes," which "became the prototype of periods of trial for God's people" ([note on 11:2](https://bible.usccb.org/bible/revelation/11)). [[auth:theologian]]
 
-The Church forbids turning it into a date (CCC 673). For a fuller account of the number through the whole book, see The Lamb's Victory on [the forty-two months](https://thelambsvictory.org/topics/forty-two-months).
+It is not a date to be computed: "it is not for you to know times or seasons" (Acts 1:7, quoted in CCC 673). For a fuller account of the number through the whole book, see The Lamb's Victory on [the forty-two months](https://thelambsvictory.org/topics/forty-two-months).
 
 ## How the Fathers read it
 
@@ -67,7 +67,7 @@ The three differ on the wings and agree on the Woman: in the desert she is the C
 ## Where readers differ
 
 - **Past, present or future.** Hippolytus and Victorinus place the flight in the last persecution. Many later readers take the 1,260 days as the Church's whole pilgrimage. The first-century reading sees the persecutions under Rome. These can be held together, as a pattern that recurs and will have a last and worst instance: "Before Christ's second coming the Church must pass through a final trial that will shake the faith of many believers" (CCC 675). [[auth:disputed]]
-- **Literal or symbolic days.** The Church has not defined that the number is a literal three and a half years, and she forbids computing the end from it (CCC 673).
+- **Literal or symbolic days.** The Church has not defined that the number is a literal three and a half years, and the end cannot be computed from it (CCC 673).
 - **The wings.** The Cross, two prophets, virginity, or simply "the power and swiftness of divine help" (NABRE, note on 12:14).
 
 ## What it asks of us

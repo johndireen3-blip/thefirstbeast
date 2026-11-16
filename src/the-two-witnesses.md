@@ -92,7 +92,7 @@ This study names no one as a witness, and it will not. But it is fair to say pla
 - **Not settled:** whether Elijah's promised coming was wholly fulfilled in John the Baptist or is still to be completed. The Lord's words can be read either way, and Augustine expected a coming still to be.
 - **Not settled:** whether the "two" must be persons of the past, or could be persons raised up by God in the last days "in the spirit and power of Elijah," as the angel said of John (Luke 1:17).
 - **Settled by the text:** whoever they are, they are God's witnesses and not self-appointed; they preach repentance; they are given signs; they are killed by the beast and raised by God. Any reading has to meet all of these.
-- **Settled by the Church:** no one may compute dates from their 1,260 days (CCC 673), and the Church's hope does not rest on identifying them.
+- **Settled by the Church:** the time is not ours to know, so no dates can be computed from their 1,260 days (CCC 673), and the Church's hope does not rest on identifying them.
 
 A reader may hold an opinion here. It should be held as an opinion, tested against everything the text says, and never in a way that expects or wishes anyone's death.
 
