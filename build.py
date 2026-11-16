@@ -19,7 +19,7 @@ CONFIG = {
     "about_blurb": ("An intermediate and advanced study of the Woman and the Dragon in the Book of Revelation, from the ark "
                     "seen in heaven to the Bride of the Lamb, read with the Old Testament, the Fathers, the liturgy and the "
                     "teaching of the Church. It names no one and sets no dates."),
-    "contact_email": "",
+    "contact_email": "frjohn@apocalypse12.com",
     "default_credit": "claude",
     "nav": [("/", "Home"), ("/the-study", "The Study"), ("/how-to-use-this-study", "How to Use It"),
             ("/the-commentators", "The Commentators"), ("/about", "About"), ("/contact", "Contact")],
