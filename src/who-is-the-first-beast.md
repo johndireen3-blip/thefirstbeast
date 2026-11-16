@@ -3,7 +3,7 @@
 
 The first beast is the beast that rises from the sea in Revelation 13:1–10. The dragon, Satan, gives it "its own power and throne, along with great authority" (Revelation 13:2), the world follows it in amazement, and it makes war on the holy ones for a measured time before it is captured and thrown into the pool of fire (Revelation 13:5–7; 19:20).
 
-Scripture does not say who it is. It describes the beast by what it does, so that the faithful can recognize it and stand firm. This site takes the same approach: it sets out the marks and names no one.
+Scripture does not say who it is. It describes the beast by what it does, so that the faithful can recognize it and stand firm. This site takes the same approach: it sets out the marks and names no one. That leaves the watching to you, and [How to test a reading of Revelation](/how-to-test-a-reading) gives eleven questions for doing it well.
 
 ## What Scripture reveals
 

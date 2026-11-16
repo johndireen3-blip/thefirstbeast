@@ -3,7 +3,7 @@
 
 ## Why this site
 
-Revelation 13 is one of the most quoted and most misused chapters of the Bible. This site sets out what has actually been revealed about its beasts, mark by mark, from Scripture, the Church's teaching, the Fathers and Doctors, and the saints. Every claim carries its level of authority. The site names no one, sets no dates, and does not weigh anyone's theory. It gives the ground on which any reading can be tested.
+Revelation 13 is one of the most quoted and most misused chapters of the Bible. This site sets out what has actually been revealed about its beasts, mark by mark, from Scripture, the Church's teaching, the Fathers and Doctors, and the saints. Every claim carries its level of authority. The site names no one, sets no dates, and does not weigh anyone's theory. It gives the ground on which any reading can be tested, and a way to do the testing: [How to test a reading of Revelation](/how-to-test-a-reading).
 
 Its aim is knowledge and vigilance in love (Revelation 2:4), and its last word is always the Lamb's victory (Revelation 17:14).
 

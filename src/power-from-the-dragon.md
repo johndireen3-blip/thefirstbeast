@@ -45,7 +45,7 @@ How does Satan act in him? The Fathers and later writers answer differently:
 
 All agree he is a man. The Church has not decided between these readings.
 
-This site does not ask who the beast is today, and it names no one. It sets out what has been revealed, so that every reader can keep watch.
+This site does not ask who the beast is today, and it names no one. It sets out what has been revealed, so that every reader can keep watch. For how to weigh what you see, see [How to test a reading of Revelation](/how-to-test-a-reading).
 
 <div class="response" markdown>
 

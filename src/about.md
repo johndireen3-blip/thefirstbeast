@@ -7,7 +7,7 @@ Its sources are Scripture, the Catechism and other teaching of the Church, the F
 
 ## What it is not
 
-It is not speculative. It names no person, living or dead, as any of these figures, and it sets no dates. Where a first fulfillment is part of the text's meaning, as Antiochus IV is for Daniel and imperial Rome is for John's first readers, the site says so, because the text cannot be understood without it. Other sites in The Ephesus Challenge weigh particular proposals about our own time; this one does not.
+It is not speculative. It names no person, living or dead, as any of these figures, and it sets no dates. Where a first fulfillment is part of the text's meaning, as Antiochus IV is for Daniel and imperial Rome is for John's first readers, the site says so, because the text cannot be understood without it. Other sites in The Ephesus Challenge weigh particular proposals about our own time; this one does not. It does give readers the means to weigh for themselves: see [How to test a reading of Revelation](/how-to-test-a-reading).
 
 ## Fr. John
 

@@ -20,4 +20,4 @@ The first marks come from Revelation 13 alone, all of them from Scripture [[auth
 <a class="card" href="/the-response-of-the-faithful"><span class="num">Mark 14 · The faithful</span><h3>The response asked of the faithful</h3><p>Endurance and faith: not a mark of the beast, but the measure of every reading's fruit.</p><p class="ref">Revelation 13:9–10</p></a>
 </div>
 
-<div class="note"><strong>How the marks are used</strong>This site sets out what has been revealed and names no one. It does not ask who the beast is today, and it sets no dates (CCC 673). The marks are given so that readers can know the beasts and keep watch, in hope.</div>
+<div class="note"><strong>How the marks are used</strong>This site sets out what has been revealed and names no one. It does not ask who the beast is today, and it sets no dates (CCC 673). The marks are given so that readers can know the beasts and keep watch, in hope. For weighing what you see against them, see <a href="/how-to-test-a-reading">How to test a reading of Revelation</a>.</div>
