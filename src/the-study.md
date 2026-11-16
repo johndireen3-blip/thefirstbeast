@@ -1,5 +1,5 @@
 <!--{"title":"The Study: Revelation 11 to 22 | The Woman and the Ark","description":"The plan of the study: the Woman and the Dragon in four parts, from the two witnesses of Revelation 11 to the Bride of the Lamb in chapter 21.","kicker":"The plan","h1":"The Study","lead":"One story in four parts. Pages are linked as they are written; the rest are named so readers can see where the study is going.","crumbs":[["Home","/"],["The Study","/the-study"]]}-->
-The dragon thrown down in chapter 12 is bound and destroyed in chapter 20, and the Woman of chapter 12 is answered by the Bride of chapter 21. The four parts follow that thread. Parts 1, 2 and 3 are written in draft; Part 4 is to come.
+The dragon thrown down in chapter 12 is bound and destroyed in chapter 20, and the Woman of chapter 12 is answered by the Bride of chapter 21. The four parts follow that thread. All four parts are written in draft.
 
 ## Part 2. The center (Revelation 11:19–14:20)
 
@@ -44,11 +44,11 @@ Chapter 13, the two beasts, is studied verse by verse on [The First Beast](https
 
 | Page | Text |
 | --- | --- |
-| The rider called Faithful and True | 19:11–16 |
-| The beast and the false prophet taken | 19:17–21 |
-| The dragon bound | 20:1–3 |
-| Gog and Magog, and the dragon's end | 20:7–10 |
-| The Bride, the wife of the Lamb | 21:1–9 |
-| The city, the temple and the garden | 21:10–22:5 |
+| [The rider called Faithful and True](/the-rider-called-faithful-and-true) | 19:11–16 |
+| [The beast and the false prophet taken](/the-beast-and-the-false-prophet-taken) | 19:17–21 |
+| [The dragon bound](/the-dragon-bound) | 20:1–3 |
+| [Gog and Magog, and the dragon's end](/gog-and-magog-and-the-dragons-end) | 20:7–10 |
+| [The Bride, the wife of the Lamb](/the-bride-the-wife-of-the-lamb) | 21:1–9 |
+| [The city, the temple and the garden](/the-city-the-temple-and-the-garden) | 21:10–22:5 |
 
 For the thousand years and the forty-two months, see the topic pages on [The Lamb's Victory](https://thelambsvictory.org/); this study adds the sources behind them and does not repeat them.
