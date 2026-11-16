@@ -16,7 +16,7 @@ It names no person as any figure of the Apocalypse, and it sets no dates. Its fi
 <a class="card door" href="/a-woman-clothed-with-the-sun"><span class="num">Revelation 12:1</span><h3>A woman clothed with the sun</h3><p>The great sign: its words, its Old Testament sources, and how the Church reads it of Mary, of Israel and of herself.</p></a>
 <a class="card door" href="/who-is-the-woman"><span class="num">Revelation 12:1–6</span><h3>Who is the woman?</h3><p>Mary, Israel and the Church: what in the text supports each reading, who has held it, and how they are one.</p></a>
 <a class="card door" href="/the-birth-pangs"><span class="num">Revelation 12:2</span><h3>The birth pangs</h3><p>How the Woman's labor can be said of Mary: four readings, from the prophets to the Cross.</p></a>
-<a class="card door" href="/the-study"><span class="num">The whole plan</span><h3>The study</h3><p>Four parts, from the two witnesses of chapter 11 to the new Jerusalem. The pages are being written one at a time.</p></a>
+<a class="card door" href="/the-study"><span class="num">The whole plan</span><h3>The study</h3><p>Four parts, from the two witnesses of chapter 11 to the new Jerusalem. Twenty-eight pages, each on one passage.</p></a>
 </div>
 
 <div class="narrow-in" markdown>
@@ -28,7 +28,7 @@ It names no person as any figure of the Apocalypse, and it sets no dates. Its fi
 3. **The seal and the mark** (chapters 7 and 14): God's seal on the forehead, set beside the mark of the beast.
 4. **The end of the story** (19:11–22:5): the dragon bound and destroyed, and the Bride, the wife of the Lamb.
 
-The center is being written first. See [the study](/the-study) for every page planned and [how to use this study](/how-to-use-this-study) for the way each page is laid out.
+See [the study](/the-study) for every page and [how to use this study](/how-to-use-this-study) for the way each page is laid out.
 
 ## New to Revelation?
 
