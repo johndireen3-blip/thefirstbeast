@@ -56,7 +56,7 @@ It can seem strange that an angel gives the word to Christ. The angel comes "out
 
 "The city" is not named. In Joel the nations are judged outside Jerusalem, in the Valley of Jehoshaphat (Joel 4:12). And a Christian reader cannot hear "outside the city" without another memory: "Jesus also suffered outside the gate, to consecrate the people by his own blood" (Hebrews 13:12).
 
-Some commentators draw the two together. Outside the city the Lord shed his own blood for sinners; outside the city those who refused it meet the judgment he bore. The one who treads the winepress in chapter 19 wears a cloak "dipped in blood" before the battle begins (19:13), and the Fathers disputed whether that blood is his enemies' or his own. This is offered as a theologian's reflection; the text itself does not say it. [[auth:theologian]]
+Some commentators draw the two together. Outside the city the Lord shed his own blood for sinners; outside the city those who refused it meet the judgment he bore. The one who treads the winepress in chapter 19 wears a cloak "dipped in blood" before the battle begins (19:13), and commentators differ on whether that blood is his enemies' or his own. This is offered as a theologian's reflection; the text itself does not say it. [[auth:theologian]]
 
 ## The blood and the number
 
@@ -70,7 +70,7 @@ The horror is meant. The image is the grape harvest, a time of joy in Israel, tu
 
 The Woman's Son is the judge. That is the comfort of the passage for her other children. The one who comes on the cloud is the male child the dragon tried to devour, the Lamb who was slain, and the brother of those who "keep God's commandments and bear witness to Jesus." They are not judged by a stranger.
 
-The Church has also long seen an image of the Assumption nearby. The firstfruits belong to God (14:4), and Mary, taken up body and soul, is the first of the harvest after her Son: in her the Church sees "what she will be in the homeland at the end of her journey" (CCC 972). This is a reading by likeness. [[auth:theologian]]
+A reader who sees Mary in the Woman may add one thing more. The firstfruits belong to God (14:4), and Mary, taken up body and soul, is the first of the harvest after her Son: in her the Church contemplates "what she will be in the homeland at the end of her journey" (CCC 972). This is a reading by likeness, and the text does not make it. [[auth:theologian]]
 
 ## Where readers differ
 

@@ -68,7 +68,7 @@ The two readings are related as a sign to what it signifies. Consecrated virgini
 
 Chapter 12 ended with "the rest of her offspring, those who keep God's commandments and bear witness to Jesus" (12:17), and the dragon going off to make war on them. Chapter 14 shows the same people from the other side. The offspring the dragon hunts are the companions the Lamb keeps. Verse 12 of this chapter repeats their description almost word for word.
 
-The Church has long seen Mary at the head of this company: the Virgin, in whom no deceit was found, who followed the Lamb to the Cross. That is a reading by likeness and is offered as such. [[auth:theologian]]
+A reader who sees Mary in the Woman will recognize her at the head of this company: the Virgin, in whom no deceit was found, who followed the Lamb to the Cross. That is a reading by likeness, and the text does not make it. [[auth:theologian]]
 
 ## Where readers differ
 

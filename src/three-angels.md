@@ -59,7 +59,7 @@ The description of the holy ones is the same as that of the Woman's offspring: "
 
 "I heard a voice from heaven say, 'Write this: Blessed are the dead who die in the Lord from now on.' 'Yes,' said the Spirit, 'let them find rest from their labors, for their works accompany them.'"
 
-This is the second of the seven beatitudes of Revelation, and the only place in the book where the Spirit speaks in his own voice to answer.
+This is the second of the seven beatitudes of Revelation, and here the Spirit himself answers, as he does once more at the very end of the book (22:17).
 
 - **It reverses the third angel exactly.** Those who take the mark have "no relief day or night" (14:11). Those who die in the Lord "find rest." The same Greek root is used for both.
 - **"From now on."** From the death and resurrection of Christ, death is changed for those who belong to him. The Catechism: "Because of Christ, Christian death has a positive meaning" (CCC 1010).
