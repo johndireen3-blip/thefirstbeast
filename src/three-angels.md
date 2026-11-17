@@ -80,7 +80,7 @@ The Fathers take the three messages in order. They ask who the first angel is an
 
 **Why is the gospel called eternal?**
 
-- **Origen** gives the oldest answer. Deuteronomy, the "second law," set out the first law more clearly. In the same way Christ's first coming in humility points ahead to his coming in glory, when he will bring all the saints "from the temporal to the eternal gospel" (*On First Principles* 4.3.13).
+- **Origen** gives the oldest answer. Deuteronomy, the "second law," set out the first law more clearly. In the same way Christ's first coming in humility points ahead to his coming in glory, when he will bring all the saints "from the temporal to the eternal gospel" (*On First Principles* 4.3.12–13).
 - **Oecumenius** and **Andrew** say its content is from eternity: that God is to be feared. Andrew calls it foreordained by God.
 - **Primasius** says it is eternal because it teaches us to look forward to eternal salvation.
 
@@ -92,14 +92,14 @@ The Fathers take the three messages in order. They ask who the first angel is an
 - **Oecumenius** reads it as the confusion of this present life and the frenzy of idol worship. The wine is apostasy from God. Who, he asks, "possessing a sound mind," would worship wood and stone? Babylon drank first, and then made the nations drink (*Commentary on the Apocalypse* 14.8).
 - **Andrew of Caesarea** widens the wine to "all sin," which he calls a drunkenness and a derangement. This Babylon falls completely when the Jerusalem above appears (*Commentary on the Apocalypse* 14.8).
 
-**Why "fallen," when she still stands?** Tyconius gives two reasons. Scripture often speaks of what is to come as already past, because what it foretells is certain; his example is "They divide my garments among them" (Psalm 22:19). And the proud fall in the very moment they are lifted up.
+**Why "fallen," when she still stands?** Tyconius gives two reasons. Scripture often speaks of what is to come as already past, because what it foretells is certain; his example is "They divide my garments among them" (Psalm 22:19). And the proud fall in the very moment they are lifted up (Psalm 73:18).
 
 **The cup of unmixed wine.**
 
 - **Oecumenius** says the wrath is called wine for the darkness and derangement it brings, not for any gladness. Then he turns to mercy. God's goodness and his anger are not equal measures: his benevolence "is many times greater," or no one could stand (Psalm 130:3). In the verse "Gracious is the LORD and righteous; yes, our God is merciful" (Psalm 116:5) he sees justice standing in the middle with mercy on either side (*Commentary on the Apocalypse* 14.9–12).
 - **Andrew of Caesarea** reads the mark as proclaiming the antichrist to be God "in word and deed." The cup holds many punishments because the evils were many, and they were freely chosen. It is called wine because it answers the wine of godlessness: a person is punished by the very things through which he sins (Wisdom 11:16) (*Commentary on the Apocalypse* 14.9–10).
 - **Primasius** widens the warning beyond open worship of the beast to those who leave the Church by false belief and those who leave her way of life by their conduct (*Commentary on the Apocalypse* 14.9–10).
-- **St. Bede** explains "before the holy angels and before the Lamb": the saints see the judgment and thank their Redeemer the more for his mercy, as the rich man saw Lazarus at rest (Luke 16:23) (*Explanation of the Apocalypse* 14.10).
+- **St. Bede** explains "before the holy angels and before the Lamb": the saints see the judgment and thank their Redeemer the more for his mercy, as the rich man saw Lazarus at rest (Luke 16:23–24) (*Explanation of the Apocalypse* 14.10).
 
 **"The smoke of their torment… forever and ever."** Here two Greek commentators differ.
 
@@ -109,7 +109,7 @@ The Fathers take the three messages in order. They ask who the first angel is an
 
 The Church teaches what Andrew insists on, that hell is eternal, and what Oecumenius puts first, that its chief pain is the loss of God (CCC 1035). She has not defined the nature of the fire.
 
-**The endurance of the holy ones.** The four agree. The greater the danger, the greater the need of endurance, and such people count everything second to faith and the love of God (Oecumenius). Whoever perseveres to the end escapes fellowship with the beast (Primasius, quoting Matthew 24:13 and Hebrews 10:36). The present time is quickly passing (Andrew). The suffering is momentary and its reward eternal (Bede).
+**The endurance of the holy ones.** The four agree. The greater the danger, the greater the need of endurance, and such people count everything second to faith and the love of God (Oecumenius). Whoever perseveres to the end escapes fellowship with the beast (Primasius, quoting Matthew 10:22 and Hebrews 10:36). The present time is quickly passing (Andrew). The suffering is momentary and its reward eternal (Bede).
 
 **Who are "the dead who die in the Lord"?**
 
