@@ -72,12 +72,45 @@ The Woman's Son is the judge. That is the comfort of the passage for her other c
 
 A reader who sees Mary in the Woman may add one thing more. The firstfruits belong to God (14:4), and Mary, taken up body and soul, is the first of the harvest after her Son: in her the Church contemplates "what she will be in the homeland at the end of her journey" (CCC 972). This is a reading by likeness, and the text does not make it. [[auth:theologian]]
 
+## What the Fathers said
+
+All the Fathers cited here take the one on the cloud to be Christ. They differ on what the cloud is, on whether the two harvests are one, and on how to read the blood and the number. [[auth:father]]
+
+**What is the white cloud?**
+
+- **His mother.** Oecumenius gives three answers and dwells on the third. The cloud may be a real cloud, as in the Gospel, or an angelic power (Psalm 18:11). Or it is the Mother of God, on whom the Lord rode when he took flesh: Isaiah foresaw the Lord "seated on a swift cloud" (Isaiah 19:1). She is a light cloud because of her purity, since "not even one sin weighed her down" (*Commentary on the Apocalypse* 14.14–16).
+- **His own flesh.** Primasius reads the cloud as the Incarnation (*Commentary on the Apocalypse* 14.14). St. Bede says the judge veils the glory of his divinity in flesh so that the wicked may look on him whom they pierced (*Explanation of the Apocalypse* 14.14).
+- **His body, the Church.** Primasius adds this second reading, and St. Caesarius of Arles follows it: the Church, white after the fires of persecution (*Exposition on the Apocalypse*, Homily 11).
+- **The cloud of the Ascension,** or an angelic power, says Andrew of Caesarea (*Commentary on the Apocalypse* 14.14).
+
+**The crown and the sickle.** For Oecumenius and Andrew the crown is Christ's kingship over things seen and unseen, and the sickle shows that the end of the age is in his hand. Primasius, following Tyconius, sees in the crown the twelve apostles. Bede looks back, as this page does, to the Woman's "crown of twelve stars" (12:1). The sickle is the sentence that separates. No one steps outside its reach, Bede says, for whatever a sickle cuts "falls within."
+
+**Why does an angel call for the harvest?** Andrew hears in the angel's cry the prayer of all the powers of heaven, who long to see the saints honored (*Commentary on the Apocalypse* 14.15–16). Bede hears the prayer of the Church, which asks every day that the kingdom may come (*Explanation of the Apocalypse* 14.18). Primasius adds that the Church will share in the judgment, as the Lord promised the Twelve: you "will yourselves sit on twelve thrones" (Matthew 19:28).
+
+**One harvest or two?**
+
+- **Two, differing in gravity.** For Oecumenius the grain harvest gathers the just and sinners together, to be parted afterward by the winnowing fan (Matthew 3:12). The vintage is for the gravest transgressors, who go straight to the winepress without a hearing (Psalm 1:5) (*Commentary on the Apocalypse* 14.17–20). Andrew likewise takes the grapes for the impious, and the winepress for the place prepared for the devil and his angels; it is called great because the way of destruction is wide (Matthew 7:13).
+- **One, told twice.** Caesarius and Bede think the vintager is the same Christ, in his body the Church, and the two crops are named because the Church is both his field and his vineyard. Each crop, Bede says, is "partly of the earth and partly of heaven," and ripeness can be said of goodness as well as of sin (*Explanation of the Apocalypse* 14.17–18). Both plantings, he adds, have suffered from the neglect of their caretakers, by which he means the Church's pastors and bishops.
+- **A testing as well as a punishment.** Primasius and Bede add that if the good are included, the winepress and the threshing floor destroy what is useless and prove what lasts, as a potter's vessel is tried in the furnace (Sirach 27:5).
+
+**The three angels and the three senses of Scripture.** Caesarius offers a reading of his own. The three angels who come out in this passage (14:15, 17, 18) may stand for the three senses of Scripture, the historical, the moral and the spiritual, and the sickle for what distinguishes one from another (*Exposition on the Apocalypse*, Homily 11).
+
+**Outside the city.** Oecumenius and Bede read "the city" as the heavenly Jerusalem: the punishment falls outside it, so that the joy of the saints is not touched, and a great chasm lies between (Luke 16:26). Primasius reads it as outside the Church, once the last separation has been made.
+
+**The blood, the bridles and the sixteen hundred stadia.** The Fathers do not take these as measurements.
+
+- **Oecumenius** calls the passage "wholly figurative." In Scripture, horses with God as their rider stand for angelic powers (Song of Songs 1:9; Habakkuk 3:8), and the image shows how many walk the wide road.
+- **Andrew** offers another sense: those who lived like unbridled horses are overtaken up to the bridle. In the number he sees ten times a hundred for the full measure of evil, and six hundred for the misuse of a creation made in six days, recalling the six hundredth year of Noah, when the flood came (Genesis 7:11) (*Commentary on the Apocalypse* 14.20).
+- **Primasius** reads the bridles as the rulers of the nations, whom the judgment reaches: the blood of the saints, once shed, returns upon the persecutors (Ezekiel 35:6). His reckoning of the number is the one given on this page: four times four hundred, for the four corners of the world (*Commentary on the Apocalypse* 14.20).
+
+*Source: the Fathers are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 14:14–20.*
+
 ## Where readers differ
 
 - **One harvest or two,** as above.
-- **Is the reaper Christ?** A few commentators have taken "one like a son of man" here as an angel, because another angel gives him the word. Most read him as Christ, since the title, the cloud and the crown are his (Daniel 7:13; Revelation 1:7, 13). [[auth:disputed]]
+- **Is the reaper Christ?** A few commentators have taken "one like a son of man" here as an angel, because another angel gives him the word. Most read him as Christ, since the title, the cloud and the crown are his (Daniel 7:13; Revelation 1:7, 13). The Fathers cited above all read him as Christ. [[auth:disputed]]
 - **When.** The end of the age, by the Lord's own parable. The first-century reading sees also the judgment that fell on Jerusalem and on Rome as foreshadowings.
-- **The Fathers** on this passage will be added from their own texts; see [The Commentators](/the-commentators).
+- **The Fathers** differ among themselves, as set out above: on the cloud, on whether the two harvests are one, and on the number. See also [The Commentators](/the-commentators).
 
 ## What it asks of us
 
