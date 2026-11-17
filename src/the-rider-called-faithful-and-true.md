@@ -63,11 +63,59 @@ She bore "a son, a male child, destined to rule all the nations with an iron rod
 
 Read as Mary, she is the mother of the rider. The one she wrapped in swaddling clothes is the one clothed in the blood-dipped cloak. Read as the Church, she is the Bride in white linen who follows him. The Catechism names both when it lists those who share in heaven's worship: "the all-holy Mother of God (the Woman), the Bride of the Lamb" (CCC 1138). [[auth:church]]
 
+## What the Fathers said
+
+Every Father cited here sees Christ in the rider. They take the vision detail by detail, and on the blood of the cloak they answer the question this page has left open. [[auth:father]]
+
+**The white horse.**
+
+- **His own body.** Apringius of Beja reads the horse as the body Christ took, and the rider as the Word of the Father (*Tractate on the Apocalypse* 19.11–13). St. Bede agrees: the Lord mounts his pure body as a throne, to conquer the powers of the air. The white horse shows his spotless birth, as the stained cloak shows his innocent death (*Explanation of the Apocalypse* 19.11, 13).
+- **His saints.** Oecumenius says Christ rides on those who are pure, as he rode on Paul, the chosen instrument who carried his name to the nations (Acts 9:15) (*Commentary on the Apocalypse* 19.11–16). St. Caesarius of Arles takes the horse for the Church.
+- **The words that carry him.** Origen reads the vision of the soul. Heaven is shut to those who bear the image of the earthly man and open to those who bear the heavenly (1 Corinthians 15:49). The horse is the speech in which the Word makes himself known, white because that knowledge is luminous (*Commentary on the Gospel of John* 2.47–54).
+- **The Lord's coming with his heavenly army,** says St. Victorinus, to establish his kingdom (*Commentary on the Apocalypse* 19.1). Victorinus expected a thousand-year reign of the saints on earth to follow. The Church has not accepted that expectation (CCC 676).
+
+**Faithful and True; he judges and makes war.** For Origen he is called faithful because he can be trusted (Deuteronomy 32:4), and true as the reality is true beside its shadow. His war is against whatever is hostile in the soul, so that he may dwell in it. Apringius says he makes war by freeing us from sin, and is patient in bearing the sins we commit (Psalm 7:12). Oecumenius hears St. Paul: he remains faithful, since he cannot deny himself (2 Timothy 2:13); the Psalms show him both as judge (Psalm 72:2) and as warrior (Psalm 45:4–6). Primasius adds that he fights as one who still suffers in his members. He gives himself as strength to those who struggle, and "he promises himself as the prize" (*Commentary on the Apocalypse* 19.11).
+
+**Eyes like flame.** Fire leaves nothing untouched, says Apringius, and nothing escapes the Lord's sight. St. Andrew of Caesarea draws a distinction: for the just this fire gives light and does no harm, and for sinners it burns without giving light (*Commentary on the Apocalypse* 19.11–12). Bede reads the eyes as the commandments (Psalm 119:105) or as the Spirit (Luke 12:49).
+
+**Many diadems.** Origen explains the number as this page does, against the enemy. If the lie were one, one crown would do. The lies that pass for truth are many, and the Word has overcome each (*Commentary on the Gospel of John* 2.57–59). Tyconius and Apringius see the crowns of the saints, whose glory he brings to God (Psalm 60:14). Andrew sees his rule over every rank of angels and every kingdom on earth.
+
+**The name no one knows.**
+
+- **Oecumenius** recalls that God did not make his name known even to the patriarchs (Exodus 6:2–3). When the Lord commanded baptism "in the name" (Matthew 28:19), he gave names of relation, Father and Son, and not a proper name.
+- **Andrew** says the hidden name is the incomprehensibility of his being. From his works he has many names, such as Shepherd, Light, Life and Redemption, and many more by denial, such as Immortal and Unchangeable. What he is in himself has no name (*Commentary on the Apocalypse* 19.12).
+- **Primasius** guards the verse from a misreading. The name is not hidden from the Father or the Spirit, any more than the day of judgment was hidden from the Son and the Spirit when the Father alone was said to know it (Matthew 24:36; 1 Corinthians 2:11). The works of the Trinity are inseparable. The Head gives his body, the Church, as much knowledge of himself as she can receive (*Commentary on the Apocalypse* 19.12).
+- **Bede** adds that even those to whom the Son reveals the Father (Matthew 11:27) know in a creature's way; the peace of God surpasses all understanding (Philippians 4:7).
+
+**The Word of God.** Andrew gives three reasons for the name: he is begotten of the Father without change, as speech comes from the mind; he holds in himself the causes of all things; and he interprets the Father's wisdom and power (*Commentary on the Apocalypse* 19.13). Bede: nothing in his nature is visible or bodily, and through him the Father made all things.
+
+**The robe dipped in blood.** The Fathers cited here read the blood as his own, or read the robe as his flesh.
+
+- **Origen:** John does not see the Word riding bare. He wears the marks of his Passion, and however high our contemplation rises we shall not forget that we came to him through his coming in our flesh (*Commentary on the Gospel of John* 2.61).
+- **Primasius:** the tokens of the Passion, in the Head or in his body the Church. He suffered once to take away sins (Hebrews 9:28) and suffers still in his members (Colossians 1:24; Acts 9:4). Primasius then quotes Isaiah 63:1–3, the passage this page quotes above (*Commentary on the Apocalypse* 19.13).
+- **Bede:** his innocent death. **Caesarius:** the martyrs who are in the Church. **Oecumenius** and **Apringius:** the flesh he took, of which Isaiah's question about the red garments was asked (Isaiah 63:2).
+
+**The armies of heaven.** They are the angels, with Christ as commander of the Lord's army (Joshua 5:14), for Oecumenius and Andrew. They are the Church for Apringius, Primasius and Bede: the Bride herself, pure in faith or renewed in the resurrection, following in Christ's steps (2 Corinthians 3:18; Song of Songs 1:4), and rightly called an army because of her struggles. Apringius notes, as this page does, that the linen is the righteous deeds of the saints. Origen takes the linen, which grows from the earth, for the languages of earth in which heavenly realities are clothed.
+
+**The sword, the iron rod and the winepress.**
+
+- **The sword.** For Oecumenius it is in the mouth because all things exist by the Word of God. Apringius calls it the authority of the law and the strictness of the judge, and notes that to strike here includes to free, to justify and to save (*Tractate on the Apocalypse* 19.15–16). Primasius sees the two Testaments, or the law and kindness on the tongue of Wisdom (Proverbs 31:26).
+- **The rod.** Oecumenius: the Lord wished to rule the nations as a shepherd, leading them to green pastures and restful waters (Psalm 23:2). Those who refuse that staff meet the rod of iron (Psalm 2:9). As a picture of that severity he points to the rule of the Romans, which he finds in Daniel's beast that was told to devour much flesh (Daniel 7:5). While the time was favorable God ruled the nations with the first rod, and at the last he will rule them with the second. All judgment is given to the Son (John 5:22). Caesarius: by it the humble are taught and the proud are broken.
+- **The winepress.** Apringius takes it for hell. Primasius sees it also at work now. As the press parts the wine from the skins, so persecution and calamity test the Church; some fall away and others shine the brighter (Isaiah 5:2). Caesarius says Christ treads it even now, when he lets the wicked persecute the good, and will require an account later (*Exposition on the Apocalypse*, Homily 17).
+
+**"King of kings" on his robe and on his thigh.**
+
+- **The robe** is the humanity he assumed (Apringius, Oecumenius), or the Church he has cleansed to be without spot or wrinkle (Primasius, with Ephesians 5:26–27).
+- **The thigh** is his birth in the flesh, as Scripture speaks of the descendants who came from Jacob (Genesis 46:26); the Incarnation took nothing from his rank as King (Oecumenius). Or it is his posterity: those he makes sons by adoption (Apringius), the offspring promised to Abraham (Galatians 3:16), on whom the knowledge of Christ is written by the Spirit (2 Corinthians 3:3) (Primasius).
+- **The title.** Andrew: it shows the unity of the Incarnation, in which he who is God suffered in the flesh, and he who is man is King of kings. Those who have ruled their passions will rule with him. Caesarius: by serving Christ the Church reigns in him, and overcomes vices and sins.
+
+*Source: the Fathers are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 19:11–16.*
+
 ## Where readers differ
 
-- **One event or a pattern.** Most read this as Christ's coming at the end of history. Some also see in it the whole course of the Gospel going out into the world: the Word riding, and the sword of his mouth striking the nations by preaching. The two are compatible; the first is what the Creed confesses.
+- **One event or a pattern.** Most read this as Christ's coming at the end of history. Some also see in it the whole course of the Gospel going out into the world: the Word riding, and the sword of his mouth striking the nations by preaching. The two are compatible; the first is what the Creed confesses. Among the Fathers, Primasius and Caesarius read the winepress as already at work in the Church's trials.
 - **The rider of the first seal.** At 6:2 another rider on a white horse "rode forth victorious to further his victories." Some of the Fathers read that rider as Christ or his Gospel; many modern commentators read him as conquest, the first of four woes. The Church has not settled it. [[auth:disputed]]
-- **The blood on the cloak.** As above.
+- **The blood on the cloak.** As above. The Fathers cited on this page read it of his own Passion or of the flesh he took, while still quoting Isaiah 63.
 
 ## What it asks of us
 

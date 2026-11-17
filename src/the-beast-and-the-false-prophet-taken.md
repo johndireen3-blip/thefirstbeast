@@ -64,9 +64,51 @@ The Church does not defeat the beast. In chapter 13 she is conquered by it. She 
 
 In chapter 12 the dragon, unable to reach the Woman, "went off to wage war against the rest of her offspring" (12:17), and at once took his stand on the shore to call up the beast. The beast was his instrument against her children. This passage is where that instrument is taken from his hand. He will be dealt with next, and alone.
 
+## What the Fathers said
+
+The Fathers read the angel and the birds in two ways, of the angels or of the Church. They also differ from this page on who the two captives are. [[auth:father]]
+
+**The angel standing in the sun.**
+
+- **Michael.** Apringius of Beja takes the sun for the faith of the Catholic Church, and the angel for the great prince who stands up for the people in Daniel 12:1. As he stood for the people of old, he now intercedes for the whole Church (*Tractate on the Apocalypse* 19.17–18).
+- **The herald of heaven's army.** Oecumenius notes that one angel would have been enough, as one was against the 185,000 Assyrians (2 Kings 19:35). All are summoned so that all may share the joy. He stands in the sun, Oecumenius suggests, because the sun was counted the middle one of the seven planets, with three above it and three below, and the angels he commands are flying in mid-heaven. Or to stand in the sun is to give commands in the light, that is, in the Spirit (Psalm 36:10) (*Commentary on the Apocalypse* 19.17–21). St. Andrew of Caesarea also thinks him one of the highest angels.
+- **The Church's preaching.** Primasius, St. Caesarius of Arles and St. Bede follow Tyconius. The angel is one because the Church is one (Song of Songs 6:9). He stands in the sun because her preaching is now in the open and no longer hidden by fear. Bede adds that it shines the more brightly the more she is oppressed (*Explanation of the Apocalypse* 19.17).
+
+**The birds and God's supper.**
+
+- **The angels.** Oecumenius and Andrew think the birds are angels, so called for their height. Their food is the doing of God's will, as the Lord said of his own (John 4:32, 34).
+- **The saints.** Bede recalls the Lord's saying about the eagles gathering where the body is (Matthew 24:28). Those invited are the ones who hunger and thirst for righteousness (Matthew 5:6).
+- **The nations brought into the Church.** Primasius remembers the words to Peter, "kill and eat" (Acts 10:13). Those who hear the Church's preaching cease to be what they were and become her body, as food becomes the body of the one who eats (*Commentary on the Apocalypse* 19.17). Caesarius adds the other side: those devoured by the devil become his body (*Exposition on the Apocalypse*, Homily 17).
+
+**Two suppers.** Andrew draws the contrast this page draws above. God's first will is that all be saved and come to the knowledge of the truth (1 Timothy 2:4). Everyone present, he says, has chosen by his works "the supper of the kingdom or the supper of torment." The eating of flesh means the end of everything fleshly and of earthly rule. The horses are named not because they will rise again, but as a figure of lust or of those who have let evil ride them, and their riders are the especially wicked. "Free and great" are those who sinned freely and willingly; "slave and small" are those whose fault was less, by reason of intention, age or weakness (*Commentary on the Apocalypse* 19.17–18).
+
+**The wedding feast of the Lamb (19:7–9).**
+
+- **Betrothal now, marriage then.** Oecumenius says the Church in this age is betrothed, as St. Paul told the Corinthians (2 Corinthians 11:2), and holds the Spirit as the pledge. The marriage is complete when she becomes one spirit with Christ, the great mystery of Ephesians 5:31–32. He reads the Lord's two parables of the wedding garment and of the ten virgins (Matthew 22:2–14; 25:1–13) of that day, not of this one (*Commentary on the Apocalypse* 19.6–9).
+- **The fine linen.** Apringius of Beja and St. Bede both stress that it is no outward finery but the righteous deeds of the saints. Bede adds Isaiah's contrast: the wicked weave a spider's web and are not covered by their works (Isaiah 59:5–6) (*Explanation of the Apocalypse* 19.7–8).
+- **Those invited.** Apringius hears the Lord at the Last Supper, who will drink the fruit of the vine new in his Father's kingdom (Matthew 26:29). He and Primasius both recall the many from east and west who will recline with Abraham, Isaac and Jacob (Matthew 8:11). Primasius adds that the Lord himself will wait on them (Luke 12:37), and that the invited are those called according to God's purpose (Romans 8:28), for many are called and few chosen (Matthew 22:14).
+- **Its many names.** Andrew says the feast has many names because its blessings pass understanding: the kingdom of heaven, paradise, the bosom of Abraham, the bridal chamber (*Commentary on the Apocalypse* 19.7–9).
+- **A supper.** Bede notes that it is called a supper, the meal at the end of the day, because it comes when this present life is over (*Explanation of the Apocalypse* 19.9).
+
+**The kings gathered against him.** Apringius hears Daniel 11:44. The war is against Christ and against all the saints who follow him. Oecumenius says they are beaten more quickly than a word is spoken, and quotes the verse this page quotes, 2 Thessalonians 2:8, with Isaiah 26:10. Andrew observes that the enemy's forces are called "armies," for their many sins and divided opinions, and Christ's are called one army, for their unity of mind and will (*Commentary on the Apocalypse* 19.19).
+
+**Who are the two?** Here the Fathers do not agree with one another, or wholly with this page.
+
+- **The devil and the antichrist,** for Oecumenius and Apringius. Oecumenius takes "the false prophet" as a name for the antichrist, the devil's prophet.
+- **The antichrist and the false prophet,** for Andrew, as this page reads them.
+- **Head and body,** for Primasius: the devil and the antichrist, or the leaders and their whole following, the devil's society, which lasts until the end of time (*Commentary on the Apocalypse* 19.20–21).
+
+This study keeps the dragon distinct from the beast, since his own end is told separately at 20:10.
+
+**"Thrown alive… the rest were slain."** Oecumenius admires the justice of the distinction: those who led the war and those who followed are not given the same sentence. To be thrown alive into the fire means to live in it forever. Andrew suggests that the two may not die the common death at all, but be changed in an instant (1 Corinthians 15:51–52) and handed over in undying bodies to their sentence. He says openly that not everyone holds this. Of the followers he distinguishes two deaths: the first, of the body, by the Lord's command; and then the second (*Commentary on the Apocalypse* 19.20–21). Apringius quotes Daniel on the last enemy: no one will help him (Daniel 11:45). Primasius sees in "the rest" both those long dead and those whom Christ will find living at his coming.
+
+**"The birds were gorged."** Primasius will not have this read in a fleshly way. The saints do not feed on the wicked or rejoice in their loss. They are filled at last with the knowledge of God's justice, for which they hungered in this life without fully understanding it (Philippians 3:12; Isaiah 66:24). He allows another reading: the birds are the fallen angels, sated with the ruin of those they misled (*Commentary on the Apocalypse* 19.21). Andrew adds that every deed of the flesh is wearisome and loathsome to the saints (Isaiah 1:14).
+
+*Source: the Fathers are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 19:7–9 and 19:17–21.*
+
 ## Where readers differ
 
-- **Persons or powers.** Whether the beast and the false prophet are, at the end, two individual men, or the persecuting state and its religious servant in every age, or both: a pattern that recurs and comes to a head. The Catechism speaks of "the Antichrist" and also of a deception that "already begins to take shape in the world" (CCC 675–676). This study names no one. The Catechism gives the pattern to watch for, and [How to test a reading of Revelation](/how-to-test-a-reading) gives a way to weigh what you see. [[auth:disputed]]
+- **Persons or powers.** Whether the beast and the false prophet are, at the end, two individual men, or the persecuting state and its religious servant in every age, or both: a pattern that recurs and comes to a head. The Catechism speaks of "the Antichrist" and also of a deception that "already begins to take shape in the world" (CCC 675–676). Among the Fathers, Oecumenius and Apringius take the two for the devil and the antichrist, Andrew for the antichrist and his false prophet, and Primasius for a head and its body. This study names no one. The Catechism gives the pattern to watch for, and [How to test a reading of Revelation](/how-to-test-a-reading) gives a way to weigh what you see. [[auth:disputed]]
 - **A battle on a field.** Some expect a literal military gathering at a place. The notes of the New American Bible read the imagery as symbolic. The text gives a place-name only at 16:16, and describes no fighting.
 - **The first-century reading.** Rome and its emperor-worship did fall, and did not have the last word over the Church. That is a true fulfillment. The passage also looks beyond it, since the pool of fire is no earthly defeat.
 
