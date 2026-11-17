@@ -70,12 +70,34 @@ Chapter 12 ended with "the rest of her offspring, those who keep God's commandme
 
 A reader who sees Mary in the Woman will recognize her at the head of this company: the Virgin, in whom no deceit was found, who followed the Lamb to the Cross. That is a reading by likeness, and the text does not make it. [[auth:theologian]]
 
+## What the Fathers said
+
+The Fathers read this vision in more than one way, and their differences fall on the same two questions this page has already raised. [[auth:father]]
+
+**Who stands with the Lamb?**
+
+- **St. Victorinus** (died about 304), in the oldest commentary we have, takes the 144,000 as those of the Jewish people who will come to faith at the end through the preaching of Elijah (*Commentary on the Apocalypse* 20.1).
+- **Oecumenius** sees in the Lamb on Zion "the conversion of Israel by faith in the last days," as St. Paul foretold (Romans 11:25–26). Yet he thinks these 144,000 are not the same company as in chapter 7, but people drawn from Israel and from the nations together (*Commentary on the Apocalypse* 14.1–5).
+- **Andrew of Caesarea** says the mountain is "not the ancient city, but the new city of the living God," and he too distinguishes this company from the tribes of chapter 7 (*Commentary on the Apocalypse* 14.1).
+- **St. Bede** reads them as the Church, and notices the contrast this page began with: "the beast stands on the sand of the sea, while the Lamb stands upon Mount Zion." The number, he says, stands for a multitude without limit, and the name on their foreheads answers the mark of the beast (*Explanation of the Apocalypse* 14.1).
+
+**Who are the "virgins"?**
+
+- **Consecrated virgins.** St. Methodius calls the incarnate Word "chief Virgin" and leader of their choir (*Symposium* 1.5). St. Cyprian (*The Dress of Virgins* 4–5), St. Jerome (*Against Jovinian* 1.40) and St. Augustine (*Holy Virginity*) all take the verse of those who have given up marriage for Christ. Augustine asks what "follow" can mean but "imitate," and adds that married people too "can walk in his footsteps."
+- **The whole Church.** St. Caesarius of Arles: "we do not understand the 'virgins' to be only those who are chaste in the body," but "the whole church that holds to the pure faith," as in 2 Corinthians 11:2 (*Exposition on the Apocalypse*, Homily 11). Bede records that Tyconius read it the same way. Caesarius warns that bodily virginity is of no profit if purity of heart is lost.
+
+**No one left out.** Augustine, preaching on the martyrs, will not let anyone conclude that the Lamb's company is closed to them. The Lord's garden holds "the lilies of virgins, and the ivy of married people and the violets of widows," and no one need despair of his vocation, for "Christ suffered for all" (*Sermon* 304.2).
+
+**The new song.** Oecumenius and Andrew say the song is known in the measure of a person's purity. Bede and Augustine add that those who cannot sing it will still hear it and rejoice in it without envy.
+
+*Source: the Fathers are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 14:1–5.*
+
 ## Where readers differ
 
 - **A literal number.** Some groups outside the Catholic Church take 144,000 as an exact count of a special class. The Church does not: the number is symbolic, and the great multitude of 7:9 cannot be counted. [[auth:disputed]]
-- **The same people as chapter 7?** Most read the 144,000 of chapters 7 and 14 as one and the same, the whole people of God. Some distinguish them from the great multitude as Jewish believers from Gentile, or as the Church on earth from the Church in glory.
+- **The same people as chapter 7?** Most read the 144,000 of chapters 7 and 14 as one and the same, the whole people of God. Some distinguish them from the great multitude as Jewish believers from Gentile, or as the Church on earth from the Church in glory. Among the Fathers, Oecumenius and Andrew of Caesarea distinguish the two companies.
 - **"Virgins,"** as above.
-- **The Fathers.** How the ancient commentators read this vision will be added from their own texts; see [The Commentators](/the-commentators).
+- **The Fathers** differ among themselves, as set out above; see also [The Commentators](/the-commentators).
 
 ## What it asks of us
 
