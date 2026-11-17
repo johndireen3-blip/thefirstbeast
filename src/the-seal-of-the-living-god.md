@@ -73,12 +73,37 @@ In chapter 12 the dragon makes war on "the rest of her offspring" (12:17), and J
 
 The first of the sealed, in the order of grace, is the Woman herself read as Mary: claimed for God from the first moment of her life, "full of grace," on whom the dragon "had no hold" (CCC 2853). What was given to her at her conception is given to her children at the font. [[auth:theologian]]
 
+## What the Fathers said
+
+The Fathers ask when the sealing takes place, who the angel from the East is, and what the seal is. On the last they agree: it is the cross. [[auth:father]]
+
+**The four angels and the winds.**
+
+- **The Roman war.** Oecumenius reads the scene of the siege of Jerusalem as Josephus describes it: the four corners are those of Judea, and the winds held back mean that no relief was found on land, at sea or in the fields (*Commentary on the Apocalypse* 7.1–8).
+- **The time of the antichrist.** Andrew of Caesarea knows that reading and looks further. What happened in part in one land will happen over the whole world. Winds feed the plants and carry ships, so to hold them back is to undo the good order of creation (*Commentary on the Apocalypse* 7.1).
+- **The four kingdoms.** St. Bede takes the four angels as the empires of the Assyrians, Persians, Greeks and Romans, which let no one breathe freely; or as the four winds that stir the sea in Daniel 7:2–3 (*Explanation of the Apocalypse* 7.1).
+
+**Who is the angel from the rising of the sun?**
+
+- **Elijah.** St. Victorinus sees the prophet who comes before the antichrist to turn the hearts of fathers to their children (Malachi 3:23–24), calling the Jewish people to the faith. That is why, he says, John is shown both a number from Israel and a multitude from the nations (*Commentary on the Apocalypse* 7.2).
+- **The Gospel.** For Oecumenius the sunrise is the dawn of the Gospel and its blessings: "show us the light of your face" (Psalm 4:7).
+- **Christ himself.** Bede reads the angel as the Lord born in the flesh, the "angel of great counsel" (Isaiah 9:6 in the Greek) and the dayspring from on high (Luke 1:78), who carries the standard of the cross and with it seals the foreheads of his own (*Explanation of the Apocalypse* 7.2–3).
+
+**The seal is the cross.**
+
+- **Andrew** begins, as this page does, from Ezekiel 9. He grants a first fulfillment when the many who believed in Christ (Acts 21:20) escaped the siege of Jerusalem. The full one comes with the antichrist, when "the seal of the life-giving cross" will mark out those who bear the sign of Christ openly and without shame. He adds two things. Creation suffers with us and will be made clean with the saints. And the seal shows its power in the measure that we add our own work to it (*Commentary on the Apocalypse* 7.2–3).
+- **Bede** says the very shape of the cross, reaching to the four quarters, shows that the Lord's kingdom extends everywhere. He recalls the divine name on the high priest's forehead, as this page does, and hears Psalm 8 sung of it: "how awesome is your name through all the earth."
+
+**Why Dan is missing.** Bede gives the reason later attached to the list: Judah stands first because the Lord came from that tribe, and Dan is left out because the antichrist was said to come from it, according to Jacob's words, "Let Dan be a serpent by the roadside" (Genesis 49:17) (*Explanation of the Apocalypse* 7.5). On the number and the names of the tribes, see [the next page](/the-144000-and-the-great-multitude).
+
+*Source: the Fathers are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 7:1–8.*
+
 ## Where readers differ
 
 - **A visible mark?** The seal is not a physical sign on the skin. The sacramental character is a "spiritual mark" (CCC 1272). The cross traced on the forehead is its outward sign.
-- **Only for the last days?** Some read the sealing as a special act for the final generation. The Catechism applies it to all who are confirmed, while keeping its reference to "the great eschatological trial." Both hold: every Christian is sealed, and the seal will matter most when the trial is greatest. [[auth:disputed]]
+- **Only for the last days?** Some read the sealing as a special act for the final generation; among the Fathers, Oecumenius refers it to the first century and Andrew chiefly to the end. The Catechism applies it to all who are confirmed, while keeping its reference to "the great eschatological trial." Both hold: every Christian is sealed, and the seal will matter most when the trial is greatest. [[auth:disputed]]
 - **Who the 144,000 are.** That is the next page.
-- **Why the tribe of Dan is missing.** The note in the New American Bible records "a later tradition that the antichrist would arise from it." St. Irenaeus gives this reason; other explanations have been offered, and the Church has taught none.
+- **Why the tribe of Dan is missing.** The note in the New American Bible records "a later tradition that the antichrist would arise from it." St. Irenaeus gives this reason, and St. Bede after him; other explanations have been offered, and the Church has taught none.
 
 ## What it asks of us
 
