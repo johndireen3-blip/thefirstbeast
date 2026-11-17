@@ -68,12 +68,65 @@ This is the second of the seven beatitudes of Revelation, and here the Spirit hi
 
 The Church reads this verse at funerals. It was written first for people who might be killed for refusing the mark, to tell them that the beast's worst is, for them, a blessing.
 
+## What the Fathers said
+
+The Fathers take the three messages in order. They ask who the first angel is and why his gospel is called eternal, how Babylon can be said to have fallen already, what the cup and the smoke mean, and who the blessed dead are. [[auth:father]]
+
+**Who is the angel flying in mid-heaven?**
+
+- **Elijah.** St. Victorinus takes him for the prophet whose preaching comes before the kingdom of the antichrist (*Commentary on the Apocalypse* 14.1).
+- **The Church's preachers.** Primasius says John "uses the singular for the plural": one messenger, because the Church is one, and many preachers within her (*Commentary on the Apocalypse* 14.6). St. Bede adds that those who fly so high must, by preaching, raise the minds of their hearers from the earth (*Explanation of the Apocalypse* 14.6). Both quote Matthew 24:14, as this page does above.
+- **An angel of high rank.** For Oecumenius, "mid-heaven" shows how exalted this angel is (*Commentary on the Apocalypse* 14.6–7). Andrew of Caesarea sees him sent down from above to people who come from the ground, standing between the two as a mediator to lead them up, so that the body of the Church may be joined to Christ its Head (*Commentary on the Apocalypse* 14.6–7).
+
+**Why is the gospel called eternal?**
+
+- **Origen** gives the oldest answer. Deuteronomy, the "second law," set out the first law more clearly. In the same way Christ's first coming in humility points ahead to his coming in glory, when he will bring all the saints "from the temporal to the eternal gospel" (*On First Principles* 4.3.13).
+- **Oecumenius** and **Andrew** say its content is from eternity: that God is to be feared. Andrew calls it foreordained by God.
+- **Primasius** says it is eternal because it teaches us to look forward to eternal salvation.
+
+**Whom to fear.** Oecumenius and Andrew hear in the angel's words a choice between two fears. Fear God, says Andrew, and not the antichrist, "who cannot kill the soul with the body" and whose power lasts only a short time. Primasius says the same of the beast: beside the Lord, his passing power is of small account. This is the Lord's own saying in Matthew 10:28, quoted under the third angel above.
+
+**What "Babylon" means.** The Fathers begin from the name, which Scripture connects with confusion (Genesis 11:9).
+
+- **Tyconius** reads it as the city and people of the devil, a single city made up of all the nations that error has made drunk (*Commentary on the Apocalypse* 14.8).
+- **Oecumenius** reads it as the confusion of this present life and the frenzy of idol worship. The wine is apostasy from God. Who, he asks, "possessing a sound mind," would worship wood and stone? Babylon drank first, and then made the nations drink (*Commentary on the Apocalypse* 14.8).
+- **Andrew of Caesarea** widens the wine to "all sin," which he calls a drunkenness and a derangement. This Babylon falls completely when the Jerusalem above appears (*Commentary on the Apocalypse* 14.8).
+
+**Why "fallen," when she still stands?** Tyconius gives two reasons. Scripture often speaks of what is to come as already past, because what it foretells is certain; his example is "They divide my garments among them" (Psalm 22:19). And the proud fall in the very moment they are lifted up.
+
+**The cup of unmixed wine.**
+
+- **Oecumenius** says the wrath is called wine for the darkness and derangement it brings, not for any gladness. Then he turns to mercy. God's goodness and his anger are not equal measures: his benevolence "is many times greater," or no one could stand (Psalm 130:3). In the verse "Gracious is the LORD and righteous; yes, our God is merciful" (Psalm 116:5) he sees justice standing in the middle with mercy on either side (*Commentary on the Apocalypse* 14.9–12).
+- **Andrew of Caesarea** reads the mark as proclaiming the antichrist to be God "in word and deed." The cup holds many punishments because the evils were many, and they were freely chosen. It is called wine because it answers the wine of godlessness: a person is punished by the very things through which he sins (Wisdom 11:16) (*Commentary on the Apocalypse* 14.9–10).
+- **Primasius** widens the warning beyond open worship of the beast to those who leave the Church by false belief and those who leave her way of life by their conduct (*Commentary on the Apocalypse* 14.9–10).
+- **St. Bede** explains "before the holy angels and before the Lamb": the saints see the judgment and thank their Redeemer the more for his mercy, as the rich man saw Lazarus at rest (Luke 16:23) (*Explanation of the Apocalypse* 14.10).
+
+**"The smoke of their torment… forever and ever."** Here two Greek commentators differ.
+
+- **Oecumenius** holds that the suffering is eternal, but thinks it consists in being shut out from the good things of God rather than in bodily pain. The smoke is the sighing of the lost.
+- **Andrew** allows the smoke to be either their sighing or the smoke of real fire, and insists on the word "forever": as the bliss of the just is everlasting, so is the torment of sinners. "Day and night" is said after our way of counting time. Those who do the beast's works, he adds, engrave his name on their own hearts (*Commentary on the Apocalypse* 14.11).
+- **Bede** adds a proverb: a lion spares a man lying on the ground, but this beast is "more ferocious than a lion," for the more he is adored, the more he makes men suffer (*Explanation of the Apocalypse* 14.11).
+
+The Church teaches what Andrew insists on, that hell is eternal, and what Oecumenius puts first, that its chief pain is the loss of God (CCC 1035). She has not defined the nature of the fire.
+
+**The endurance of the holy ones.** The four agree. The greater the danger, the greater the need of endurance, and such people count everything second to faith and the love of God (Oecumenius). Whoever perseveres to the end escapes fellowship with the beast (Primasius, quoting Matthew 24:13 and Hebrews 10:36). The present time is quickly passing (Andrew). The suffering is momentary and its reward eternal (Bede).
+
+**Who are "the dead who die in the Lord"?**
+
+- **The martyrs.** Oecumenius takes them to be those killed for refusing the mark, who receive the martyr's crown (*Commentary on the Apocalypse* 14.13).
+- **All who have "died to the world."** Andrew says the voice does not bless all the dead, but those who carry about in the body the dying of Jesus (2 Corinthians 4:10). He quotes Romans 8:18 and ends his comment with a prayer (*Commentary on the Apocalypse* 14.13).
+- **All who are proved in faith and life,** says Primasius, with a particular rest promised to those who labor in the Lord's vineyard, the Church's pastors (1 Thessalonians 5:12–13) (*Commentary on the Apocalypse* 14.13).
+
+Primasius and Bede both notice what this page notices above: the rest of the faithful is set against "no rest day or night." Bede hears the voices of the chapter in harmony, one announcing the kingdom, one the fall of the devil's city, one the flames, and the last the rest of the blessed, which begins "from henceforth," that is, from the hour of death. He breaks into thanksgiving, "I thank you, Jesus," and then adds a warning from Proverbs 20:4: the sluggard who would not plow will find nothing at the harvest (*Explanation of the Apocalypse* 14.13).
+
+*Source: the Fathers are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 14:6–13.*
+
 ## Where readers differ
 
-- **Who the angels are.** John calls them angels and gives no more. Some commentators have seen in them the preachers of the Gospel in the last days, or particular saints or movements in the Church's history. The Church has identified none of them, and several later groups have claimed the "three angels' messages" for themselves. This study keeps to the text. [[auth:disputed]]
+- **Who the angels are.** John calls them angels and gives no more. Some commentators have seen in them the preachers of the Gospel in the last days, or particular saints or movements in the Church's history. Among the Fathers, Victorinus saw Elijah in the first angel, and Primasius and Bede the Church's preachers. The Church has identified none of them, and several later groups have claimed the "three angels' messages" for themselves. This study keeps to the text. [[auth:disputed]]
 - **Babylon.** Rome for John's first readers; for later readers, every city and system built on the same idolatry of wealth and power; for some, a particular power still to come.
 - **The fire.** The Church teaches the reality and eternity of hell and has not defined the nature of its fire.
-- **The Fathers** on this passage will be added from their own texts; see [The Commentators](/the-commentators).
+- **The Fathers** differ among themselves, as set out above: on who the first angel is, on how the torment is to be understood, and on who the blessed dead are. See also [The Commentators](/the-commentators).
 
 ## What it asks of us
 
