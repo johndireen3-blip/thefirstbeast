@@ -22,7 +22,7 @@ Four things stand out.
 
 The second plague covered Egypt with frogs, and Pharaoh's magicians "did the same by their magic arts" (Exodus 8:3). It was the last sign they managed to copy; at the next they said, "This is the finger of God" (8:15). The notes of the New American Bible see in John's frogs "possibly an allusion to the second Egyptian plague" (note on 16:13). The bowls as a whole are "modeled in part on the plagues of Egypt" (note on 16:1–21). [[auth:theologian]]
 
-In the law the frog is an unclean creature of the water and the mud. John's image is of something small, numerous, noisy and unclean, coming out of mouths that claim great things.
+Under the law, creatures of the water without fins and scales are unclean (Leviticus 11:10–12). John's image is of something small, numerous, noisy and unclean, coming out of mouths that claim great things.
 
 ## For John's first readers
 
