@@ -82,10 +82,43 @@ And those who bear God's seal are not left to face that choice by their own stre
 
 The Woman bears no mark in chapter 12. She is clothed with the sun, and that is enough: she is wrapped in what belongs to God. Her children are those "who keep God's commandments and bear witness to Jesus" (12:17), the two things the mark exists to prevent. The seal is the name of her Son on their foreheads.
 
+## What the Fathers said
+
+The Fathers treat the mark as this page does: as a counterfeit, joined to worship. On the number of the beast's name they offer guesses and refuse to go further. [[auth:father]]
+
+**The beast with a lamb's horns (13:11).**
+
+- **A copy that is neither thing.** Oecumenius notices the wording. The horns are "like" a lamb's and the speech is "like" a dragon's. He pretends to be the Christ and is not; he does the devil's work and is not the devil (*Commentary on the Apocalypse* 13.11–13).
+- **The false prophet.** St. Victorinus: he has the appearance of a just man and is full of the devil's malice (*Commentary on the Apocalypse* 13.4). St. Andrew of Caesarea follows St. Irenaeus: the dragon is Satan, the beast from the sea the antichrist, and this one his armor-bearer, a wolf in a lamb's skin, who goes before him as the Baptist went before the Savior, since falsehood likes to imitate the truth (*Commentary on the Apocalypse* 13.11–13). St. Hippolytus reads the two horns as the antichrist and his false prophet together (*On Christ and Antichrist* 49).
+- **The two Testaments usurped.** Tyconius: the horns are the two Testaments, which belong to the true Lamb. This beast pretends to be the Lamb in order to attack the Lamb's body. Those who fall to force are captive in body only, he adds; those who fall to seduction are captive in body and mind (*Commentary on the Apocalypse* 13.11–12).
+
+**Fire from heaven (13:13).** Primasius asks why this sign alone is named, and sees a counterfeit of Pentecost, the fiery tongues by which the Spirit came upon the disciples. Only the Church of Christ has that gift. Pharaoh's magicians matched Moses for a while, and then had to confess, "This is the finger of God" (Exodus 8:15) (*Commentary on the Apocalypse* 13.13). St. Caesarius of Arles reads the fire of those who fall away from the Church: "they went out from us" (1 John 2:19). Andrew and St. Bede recall that the fire which fell on Job's flocks was real, and came by God's permission. So the signs may be illusions, says Bede, or real wonders that mislead people who do not know what the devil is able to do (*Explanation of the Apocalypse* 13.14).
+
+**The image that speaks (13:14–15).** Victorinus expects an image set up in the temple at Jerusalem, as Nebuchadnezzar set up his, and hears the Lord's warning about the abomination standing where it should not (Mark 13:14). Oecumenius and Andrew recall the tricks reported of pagan statues, and of Simon the magician. Primasius reads the image as a uniform confession that all are made to repeat. For Caesarius it is the imitation of faith in those who keep the form of religion and deny its power (2 Timothy 3:5); "not a small number" of these, he says, are within the Church.
+
+**The mark, the hand and the forehead (13:16–17).**
+
+- **An act of worship.** Hippolytus gives the oldest explanation, and it is the one this page gives from the first century: the beast will order incense set out everywhere, so that no one can buy or sell without first sacrificing. That is the mark on the hand. Antiochus Epiphanes did the same to the Jewish people, forcing them to sacrifice and to walk in procession for Dionysus (2 Maccabees 6:7), and he came to a wretched end (*On Christ and Antichrist* 49).
+- **Works and confession.** Primasius and Caesarius read the hand as works and the forehead as the confession of faith, as this page does. Caesarius adds that the saints receive Christ in both, and hypocrites receive the beast "under the name of Christ" (*Exposition on the Apocalypse*, Homily 11).
+- **Why each place.** Andrew: the mark is set on the right hand to put an end to good works, and on the forehead to make the deceived bold in their error. Those whose faces are sealed with the divine light will not receive it (*Commentary on the Apocalypse* 13.14–17).
+
+**The number of the name (13:18).**
+
+- **St. Irenaeus** (about 180) is the earliest. The number gathers up all apostasy: Noah was six hundred years old when the flood came (Genesis 7:6), and Nebuchadnezzar's image was sixty cubits high and six wide (Daniel 3:1). As for the name, many can be found that add up to the number in Greek letters. He mentions three and affirms none: *Euanthas*; *Lateinos*, since the Latins then ruled; and *Teitan*, which he thinks the likeliest, an old and royal name that no ruler bore. Then he stops. It is "more certain and less hazardous" to wait for the prophecy to be fulfilled than to guess. Had it been necessary for the name to be known in his time, the one who saw the vision would have told it (*Against Heresies* 5.29.2; 5.30.3).
+- **Oecumenius** lists further names and titles that make the number, among them "the Conqueror," "the evil guide" and "the unjust lamb." Since so many fit, he says, anyone may choose the one he thinks most apt (*Commentary on the Apocalypse* 13.14–18).
+- **Primasius** gives two Greek words that add up to 666 and reads them of character: one meaning "contrary to honor," the other "I deny." To deny suits the antichrist, since to believe is the work proper to Christ's people (John 6:29) (*Commentary on the Apocalypse* 13.18).
+- **Andrew of Caesarea:** time and experience will show the sober-minded what the number means. If the name had needed to be known, John would have revealed it; grace did not allow the destroyer's name to be written in the divine book (*Commentary on the Apocalypse* 13.18).
+- **Bede** sees another sense. Six is the number of the days of creation, a finished work. And the gold that came to Solomon in one year weighed 666 talents (1 Kings 10:14). The seducer will try to exact for himself the tribute owed to the true King (*Explanation of the Apocalypse* 13.18).
+
+None of these Fathers names a person of his own day. They show how to watch: learn what the mark is made of, weigh a proposed reading soberly, and wait for what time makes plain. See [How to test a reading of Revelation](/how-to-test-a-reading).
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13:11–18.*
+
 ## Where readers differ
 
 - **Literal or symbolic.** Whether the mark at the end will be a visible, physical sign, or is a figure for open allegiance. The text allows both, and the Church has not said. [[auth:disputed]]
 - **Past, present or future.** Rome's coins and certificates of sacrifice; every regime that makes livelihood depend on a false worship; a last and universal instance. The pattern recurs.
+- **The name behind the number.** The Fathers offered several and insisted on none, as set out above.
 - **Modern candidates.** In every generation some technology or system has been proposed as the mark. This study names none. By the test of the text, nothing is the mark unless it is joined to the worship of the beast.
 
 ## What it asks of us
