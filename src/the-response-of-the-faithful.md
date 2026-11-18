@@ -29,6 +29,8 @@ Some ancient manuscripts read the second line as a warning instead: whoever kill
 
 St. Cyprian of Carthage, writing in a time of persecution, made patience the virtue of the hour: "We must endure and persevere, beloved brethren" (*On the Good of Patience* 13). He urged Christians under persecution not to avenge themselves but to "patiently wait" for God's justice, and pointed to the martyrs beneath the altar, told to rest "yet for a little season" until their number was complete (21; Revelation 6:9–11) [[auth:father]]. The Fathers agree that the answer to the last persecution is endurance in faith, not resistance by force [[auth:fathers]].
 
+The commentators on the Apocalypse read verses 9 and 10 as this page does. Oecumenius: whoever is ready to lead others into captivity will himself be captured by the beast, and whoever is ready to kill will die the death of the soul. The endurance of the saints is to be found free of that servitude (*Commentary on the Apocalypse* 13.9–10). St. Andrew of Caesarea: each will receive what his deeds deserve; those of pure faith and "unshakeable endurance" are written in the book of life. He ends with a prayer that we may walk the narrow way, counting the sufferings of the present as nothing beside the glory to be revealed (Romans 8:18) (*Commentary on the Apocalypse* 13.9–10) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 Fortitude "enables one to conquer fear, even fear of death, and to face trials and persecutions" (CCC 1808). Martyrdom is "the supreme witness given to the truth of the faith" (CCC 2473). The Church will enter the glory of the kingdom only by following her Lord in his death and Resurrection (CCC 677). The Church also teaches that legitimate defense can be a grave duty for those responsible for others (CCC 2265); what Revelation 13:10 refuses is answering persecution for the faith with the sword.
@@ -50,6 +52,7 @@ Hear. Endure. Keep faith. Do not take up the beast's weapons, and do not fear it
 <ul class="sources">
 <li>Revelation 2, 13, 14 and 17, Jeremiah 15, New American Bible Revised Edition: <a href="https://bible.usccb.org/bible/revelation/13">Revelation 13</a>; <a href="https://bible.usccb.org/bible/revelation/14">Revelation 14</a>; <a href="https://bible.usccb.org/bible/jeremiah/15">Jeremiah 15</a></li>
 <li>St. Cyprian, <em>On the Good of Patience</em>: <a href="https://www.newadvent.org/fathers/050709.htm">New Advent</a></li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 677, 1808, 2265, 2473</li>
 </ul>
 

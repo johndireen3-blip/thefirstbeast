@@ -23,6 +23,8 @@ The NABRE note identifies Daniel's little horn as Antiochus IV, the Seleucid kin
 
 St. Irenaeus reads Daniel's arrogant horn and Paul's man of lawlessness as one figure: the one to come will set aside all idols and present himself as the only one to be worshiped as God (*Against Heresies* V.25.1–3) [[auth:father]]. St. Jerome, commenting on Daniel 7:8, insists that the horn is a man, not the devil or a demon, though Satan will dwell in him wholly (*Commentary on Daniel*, on 7:8) [[auth:father]]. The Fathers agree that the boasting of the last enemy ends in a claim to divine honor [[auth:fathers]].
 
+The commentators on the Apocalypse hear the same claim. Oecumenius finds the proud mouth in Isaiah: "I will ascend to the heavens… I will be like the Most High" (Isaiah 14:13–14), and notes that the mouth is given to the beast by those who have been deceived into worshiping him (*Commentary on the Apocalypse* 13.4–8). Primasius says the blasphemy that was secret becomes public, when he dares to claim for himself the honor that belongs to Christ (*Commentary on the Apocalypse* 13.5–7). They differ on "God's dwelling," which the beast reviles: the holy angels (Oecumenius), the Word's dwelling in the flesh and his rest among the saints (St. Andrew of Caesarea), or the saints themselves, who are God's habitation (St. Caesarius of Arles) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 Blasphemy is uttering against God, inwardly or outwardly, words of hatred, reproach or defiance; it extends to words against the Church, the saints and sacred things (CCC 2148). The Catechism names the final deception as a pseudo-messianism by which man glorifies himself in place of God and of his Messiah come in the flesh (CCC 675). The beast's mouth is that self-glorification spoken aloud.
@@ -49,6 +51,7 @@ Against a mouth that boasts and blasphemes, the holy ones bless the name of God 
 <li>Revelation 13 and Daniel 7, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">Revelation 13</a>; <a href="https://bible.usccb.org/bible/daniel/7">Daniel 7</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.25: <a href="https://www.newadvent.org/fathers/0103525.htm">New Advent</a></li>
 <li>St. Jerome, <em>Commentary on Daniel</em>, on 7:8 (to be checked against the edition cited before publication)</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 675, 2142–2149</li>
 </ul>
 

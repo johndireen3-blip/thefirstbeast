@@ -33,6 +33,8 @@ In the cities of Asia, trade was carried on through guilds with patron gods and 
 
 St. Irenaeus takes the mark of the beast and its number literally, as belonging to the one to come (*Against Heresies* V.28.2; V.30) [[auth:father]]. St. Augustine reads the forehead as what we profess and the hand as what we do: to bear the mark is to belong to the beast in confession and in action (*City of God* XX.9) [[auth:father]]. The Fathers agree that the mark is received by consent, and that it is refused by the faithful at any cost [[auth:fathers]].
 
+The commentators on the Apocalypse tie the mark to worship. St. Hippolytus gives the oldest account: the one to come will order incense set out everywhere, so that none of the saints can buy or sell without first sacrificing. That is the mark on the hand. Antiochus Epiphanes did the same to the Jewish people, forcing them to sacrifice and to walk in procession for Dionysus (2 Maccabees 6:7) (*On Christ and Antichrist* 49). Primasius and St. Caesarius of Arles read the hand as works and the forehead as confession, as Augustine does; hypocrites, Caesarius adds, receive the beast "under the name of Christ" (*Exposition on the Apocalypse*, Homily 11). St. Andrew of Caesarea: the mark is set on the right hand to put an end to good works and on the forehead to make the deceived bold in their error, and it will be spread through buying and selling, so that those who refuse it lack the necessities of life. Those whose faces are sealed with the divine light will not receive it (*Commentary on the Apocalypse* 13.14–17) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 Many martyrs died rather than worship "the Beast," refusing even to pretend to (CCC 2113). The Church teaches that an economy which makes profit "the exclusive norm and ultimate end" is morally unacceptable (CCC 2424), and that the person may never be reduced to a means. Pope Leo XIV warns that technology "takes on the characteristics of those who devise, finance, regulate and use it" (*Magnifica Humanitas* 9).
@@ -62,6 +64,7 @@ We were sealed already, at Baptism and Confirmation (CCC 1272–1274, 1295–129
 <li>St. Peter Chrysologus, Sermon 117 (PL 52, 520–521), in the Liturgy of the Hours, Office of Readings, Saturday of the Twenty-ninth Week in Ordinary Time</li>
 <li>St. Augustine, <em>City of God</em> XX.9: <a href="https://ccel.org/ccel/schaff/npnf102.iv.XX.9.html">CCEL</a></li>
 <li>Leo XIV, <em>Magnifica Humanitas</em> (2026): <a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html">vatican.va</a></li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 1272–1274, 1295–1296, 2113, 2424</li>
 </ul>
 

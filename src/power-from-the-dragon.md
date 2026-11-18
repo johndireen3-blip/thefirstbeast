@@ -29,6 +29,8 @@ The NABRE notes read the beast as the Roman Empire, with the worship of 13:4 all
 
 St. Irenaeus writes that the one to come will gather into himself all the power of the devil ([*Against Heresies* V.25.1](https://www.newadvent.org/fathers/0103525.htm)). St. Cyril of Jerusalem, St. John Damascene and St. Thomas Aquinas agree that Satan works through him, by God's permission, while he remains a man acting freely; he is not Satan made flesh (Cyril, *Catechetical Lecture* 15.14; Damascene, *Exact Exposition of the Orthodox Faith* IV.26; Aquinas, *Commentary on 2 Thessalonians*, ch. 2, lect. 2). St. Paul says the same of the lawless one: his coming springs from the power of Satan (2 Thess 2:9).
 
+The commentators on the Apocalypse press the same point. Oecumenius says that the power of the apostate dragon plainly dwells in the beast's deceits, since he is their instigator and teacher (*Commentary on the Apocalypse* 13.1–4). Tyconius draws a comparison: as the soul of a just person is the seat of wisdom, so the enemy gives his throne to those he possesses most fully and uses to mislead others, and through them, with God's permission, he often does astonishing things (*Commentary on the Apocalypse* 13.3). St. Andrew of Caesarea: Satan will give his whole authority to the one to come, who will use false signs to ruin "those who are weak and unstable" (*Commentary on the Apocalypse* 13.2) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 Satan is powerful, but only a creature; his action is permitted by divine providence and cannot stop the building up of God's reign (CCC 395). Christ's victory over the prince of this world was won once for all (CCC 2853).
@@ -61,6 +63,7 @@ The answer Jesus gave in the desert: worship God alone (Luke 4:8). Whoever refus
 <li>Revelation 13, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">bible.usccb.org</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.25: <a href="https://www.newadvent.org/fathers/0103525.htm">New Advent</a></li>
 <li>St. John Damascene, <em>Exact Exposition of the Orthodox Faith</em> IV.26 (NPNF II.9): <a href="https://st-takla.org/books/en/ecf/209/2090138.html">text</a></li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 395, 2853</li>
 <li>Fr. Charles Arminjon, <em>The End of the Present World and the Mysteries of the Future Life</em> (Sophia Institute Press, 2008), p. 43</li>
 </ul>

@@ -31,6 +31,8 @@ The NABRE note says the second beast "is described in terms of the false prophet
 
 St. Irenaeus calls the second beast the first beast's "armour-bearer, whom he also terms a false prophet," who works wonders by magic, not by the power of God, to lead the inhabitants of the earth astray (*Against Heresies* V.28.2) [[auth:father]]. St. Hippolytus reads the lamb-like horns as a counterfeit of the Son of God, and the dragon's voice as the mark of a deceiver who is "not truthful" (*On Christ and Antichrist* 49) [[auth:father]]. The Fathers agree that the last enemy will have a herald who lends him a religious face [[auth:fathers]].
 
+The commentators on the Apocalypse dwell on the word "like." Oecumenius: the horns are like a lamb's and the voice is like a dragon's, because this figure pretends to be the Christ and is not, and does the devil's work and is not the devil (*Commentary on the Apocalypse* 13.11–13). St. Victorinus: he has the appearance of a just man (*Commentary on the Apocalypse* 13.4). Tyconius reads the two horns as the two Testaments, which belong to the true Lamb; this beast claims them, and pretends to be the Lamb "so that it might assail the Lamb," that is, his body (*Commentary on the Apocalypse* 13.11). St. Andrew of Caesarea, following Irenaeus, sees a wolf in a lamb's skin, who goes before the Antichrist as the Baptist went before the Savior, since falsehood likes to imitate the truth (*Commentary on the Apocalypse* 13.11–13) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 The final trial will take the form of "a religious deception offering men an apparent solution to their problems at the price of apostasy from the truth" (CCC 675). The false prophet is that deception given a voice: power dressed as meekness, and the dragon's purposes spoken as if they were good.
@@ -58,6 +60,7 @@ The Church has not decided.
 <li>Revelation 5, 12, 13, 16 and 19, Matthew 7 and 24, 1 John 4 and John 10, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">Revelation 13</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.28: <a href="https://www.newadvent.org/fathers/0103528.htm">New Advent</a></li>
 <li>St. Hippolytus, <em>On Christ and Antichrist</em> 49: <a href="https://www.newadvent.org/fathers/0516.htm">New Advent</a></li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 675</li>
 </ul>
 

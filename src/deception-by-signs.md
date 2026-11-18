@@ -27,6 +27,8 @@ Long before Revelation, Moses gave the rule. If a prophet "promises you a sign o
 
 St. Irenaeus says the false prophet's wonders come by magic, not by the power of God, with demons and apostate spirits at his service (*Against Heresies* V.28.2) [[auth:father]]. St. Cyril of Jerusalem warns that "the father of falsehood will make a show of the works of falsehood," so that crowds think they see what never happened (*Catechetical Lecture* 15.14) [[auth:father]]. St. Augustine leaves open whether the lying wonders deceive the senses "by false appearances" or are "true prodigies" that become a lie to those who think only God could do them (*City of God* XX.19) [[auth:father]].
 
+The commentators on the Apocalypse ask why fire from heaven is the sign that is named. Primasius sees a counterfeit of Pentecost, the fiery tongues by which the Spirit came on the disciples. Only the Church of Christ has that gift. Pharaoh's magicians matched Moses for a while and then confessed, "This is the finger of God" (Exodus 8:15) (*Commentary on the Apocalypse* 13.13). St. Andrew of Caesarea and St. Bede recall that the fire which fell on Job's flocks was real and came by God's permission (Job 1:16). Bede leaves Augustine's question open in the same terms: the signs may be illusions, or real wonders that mislead those who do not know what the devil can do (*Explanation of the Apocalypse* 13.14). Tyconius adds a warning about seduction itself: one who falls to force is captive in body only, and one who falls to seduction is captive "both in the body and in the mind" (*Commentary on the Apocalypse* 13.12) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 The Church teaches that the miracles of Christ and the saints are signs that support faith (CCC 156, 548), and that every attempt to tame occult powers is gravely contrary to the virtue of religion (CCC 2117). The final trial is a religious deception (CCC 675): signs that seem to come from heaven, used to win the world to a man.
@@ -55,6 +57,7 @@ Do not follow a sign; follow the Lord. "Blessed are those who have not seen and 
 <li>St. Irenaeus, <em>Against Heresies</em> V.28: <a href="https://www.newadvent.org/fathers/0103528.htm">New Advent</a></li>
 <li>St. Cyril of Jerusalem, <em>Catechetical Lecture</em> 15: <a href="https://www.newadvent.org/fathers/310115.htm">New Advent</a></li>
 <li>St. Augustine, <em>City of God</em> XX.19: <a href="https://ccel.org/ccel/schaff/npnf102.iv.XX.19.html">CCEL</a></li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 156, 548, 675, 2117</li>
 </ul>
 

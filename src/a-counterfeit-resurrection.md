@@ -27,6 +27,12 @@ The NABRE note on 13:3 points to the popular legend that Nero, who died in A.D. 
 
 Each reading has a single Father or Doctor behind it; there is no common reading.
 
+The commentators on the Apocalypse add three more readings.
+
+- Tyconius reads a deliberate imitation of the true Head: the beast claims that one of its heads has risen from death, so that it may be accepted in place of Christ, who truly rose (*Commentary on the Apocalypse* 13.3).
+- St. Andrew of Caesarea offers two: one of the Antichrist's lieutenants will seem to be raised by sorcery, as Simon the magician pretended before St. Peter; or the Roman Empire, wounded by division, will seem healed under a single ruler, as under Augustus (*Commentary on the Apocalypse* 13.3–4).
+- St. Caesarius of Arles reads the wound of heresies, struck down by the testimony of Scripture and reviving to do their work again (*Exposition on the Apocalypse*, Homily 10).
+
 ## The Church [[auth:church]]
 
 The Catechism teaches that the final deception is a pseudo-messianism by which man glorifies himself in place of God and of his Messiah come in the flesh (CCC 675). A counterfeit death and rising is that deception at its sharpest: it imitates the one sign on which the faith rests (1 Corinthians 15:14).
@@ -53,6 +59,7 @@ The world is fascinated and follows; the holy ones are not, because they know th
 <ul class="sources">
 <li>Revelation 13 and 17, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">bible.usccb.org</a></li>
 <li>St. Victorinus of Pettau, <em>Commentary on the Apocalypse</em>; St. Hippolytus, <em>On Christ and Antichrist</em> 49; St. Augustine, <em>City of God</em> XX.19 (to be checked against the editions cited before publication)</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 675</li>
 </ul>
 

@@ -29,6 +29,8 @@ For John's first readers, the beast's reach was Rome's, which called its empire 
 
 St. Irenaeus reads the ten kings as the kingdoms into which the empire of his day will be divided. The one to come will slay three of them and "subject the remainder to his power," and they "shall give their kingdom to the beast" (*Against Heresies* V.26.1) [[auth:father]]. The Fathers agree that the last enemy will hold a rule wider than any before him, and that it will be short [[auth:fathers]].
 
+The commentators on the Apocalypse read the reach as real and as bounded. Tyconius takes the seven heads as no count of rulers: they are a sign of the "universality" of the earthly kingdom that is hostile to the Lamb (*Commentary on the Apocalypse* 13.3). St. Andrew of Caesarea reads the ten horns of earthly government divided into ten at the end of time (*Commentary on the Apocalypse* 13.1). Oecumenius notes that the vision sets a limit in the same breath: all worship the beast except those whose names are in the book of life, who are kept by God (*Commentary on the Apocalypse* 13.4–8) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 The Church does not condemn the unity of nations. Popes have called for a true world political authority to serve the common good, bound by law and by the moral order (St. John XXIII, *Pacem in Terris* 137; Benedict XVI, *Caritas in Veritate* 67). What she condemns is power that recognizes nothing above itself: societies that reject God's vision of man "arrogate to themselves an explicit or implicit totalitarian power over man and his destiny" (CCC 2244). The beast's reach is not wrong for being wide but for being given by the dragon and turned to worship.
@@ -56,6 +58,7 @@ The beast's reach stops at the book of life (Revelation 13:8). The Lamb's people
 <li>Revelation 13 and 17, Daniel 7, Luke 2 and 4, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">Revelation 13</a>; <a href="https://bible.usccb.org/bible/revelation/17">Revelation 17</a>; <a href="https://bible.usccb.org/bible/luke/4">Luke 4</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.26: <a href="https://www.newadvent.org/fathers/0103526.htm">New Advent</a></li>
 <li>St. John XXIII, <em>Pacem in Terris</em> 137; Benedict XVI, <em>Caritas in Veritate</em> 67 (vatican.va)</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 2244</li>
 </ul>
 

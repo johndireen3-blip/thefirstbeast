@@ -29,6 +29,8 @@ A few years after Revelation was written, Pliny the Younger, governor of Bithyni
 
 St. Irenaeus reads the mark as the end of the beast's career: the one to come sets aside all idols so that he alone is worshiped, and takes his seat in the temple "showing himself as if he were God" (*Against Heresies* V.25.1; 2 Thessalonians 2:4). The false prophet, his armor-bearer, makes the image speak and has those who will not adore it slain (V.28.2) [[auth:father]]. St. Cyril of Jerusalem (*Catechetical Lecture* 15.15) and St. Hippolytus (*On Christ and Antichrist* 56) agree that the last enemy will demand divine worship and persecute those who refuse [[auth:fathers]].
 
+The commentators on the Apocalypse look through the beast to the one behind it. St. Andrew of Caesarea: the wonder directed at the Antichrist passes to the devil, who works through him and is worshiped through him (*Commentary on the Apocalypse* 13.3–4). Tyconius: the earthly-minded worship the dragon in the Antichrist "as in an image" (*Commentary on the Apocalypse* 13.3). Oecumenius observes how carefully the text limits "all the inhabitants of the earth." There were always some who kept clear of that worship, Job and Melchizedek among the nations and the prophets in Israel. Their names are written in heaven, which is what the Lord told his disciples to rejoice in (Luke 10:20) (*Commentary on the Apocalypse* 13.4–8) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 Adoration belongs to God alone (CCC 2096–2097). Idolatry is not only pagan worship: man commits idolatry "whenever he honors and reveres a creature in place of God," whether gods or demons, or power, pleasure, race, ancestors, the state or money (CCC 2113). The same paragraph recalls the many martyrs who died rather than worship "the Beast," refusing even to pretend to. The final deception is a pseudo-messianism by which man glorifies himself in place of God (CCC 675).
@@ -57,6 +59,7 @@ The angel's call answers the beast's: "Fear God and give him glory... Worship hi
 <li>St. Irenaeus, <em>Against Heresies</em> V.25 and V.28: <a href="https://www.newadvent.org/fathers/0103525.htm">V.25</a>; <a href="https://www.newadvent.org/fathers/0103528.htm">V.28</a> (New Advent)</li>
 <li>St. Cyril of Jerusalem, <em>Catechetical Lecture</em> 15.15; St. Hippolytus, <em>On Christ and Antichrist</em> 56 (to be checked against the editions cited before publication)</li>
 <li>Pliny the Younger, <em>Letters</em> 10.96: <a href="https://faculty.georgetown.edu/jod/texts/pliny.html">translation, Georgetown University</a></li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 675, 2096–2097, 2113</li>
 </ul>
 

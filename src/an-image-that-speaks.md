@@ -31,6 +31,8 @@ In John's world, statues of the emperor stood in temples and public squares, and
 
 St. Irenaeus reads the verse plainly of the end: the false prophet "shall order an image of the beast to be made, and he shall give breath to the image, so that the image shall speak, and he shall cause those to be slain who will not adore it" (*Against Heresies* V.28.2) [[auth:father]]. The Fathers agree that the image is part of the last deception and that the faithful will refuse it, as the three young men refused the statue [[auth:fathers]].
 
+The commentators on the Apocalypse read the image both outwardly and inwardly. St. Victorinus expects an image set up in the temple at Jerusalem, as Nebuchadnezzar set up his, and hears the Lord's warning about the abomination standing where it should not (Mark 13:14) (*Commentary on the Apocalypse* 13.4). Oecumenius and St. Andrew of Caesarea recall the tricks reported of pagan statues that seemed to speak, and of Simon the magician. Primasius reads a single confession that all are made to repeat, on pain of death (*Commentary on the Apocalypse* 13.14–16). St. Caesarius of Arles reads the image as an imitation of faith: those who are called Christians "by way of a false image," keeping the form of religion and denying its power (2 Timothy 3:5) (*Exposition on the Apocalypse*, Homily 11) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 Idolatry is honoring and revering a creature in place of God (CCC 2113). Writing on artificial intelligence, the Holy See has warned that "the presumption of substituting God for an artifact of human making is idolatry," and that in the end "it is not AI that is ultimately deified and worshipped, but humanity itself," which "becomes enslaved to its own work" (Dicastery for the Doctrine of the Faith and Dicastery for Culture and Education, *Antiqua et Nova* 105, 2025). Pope Leo XIV adds that "technology is never neutral, because it takes on the characteristics of those who devise, finance, regulate and use it" (*Magnifica Humanitas* 9, 2026).
@@ -59,6 +61,7 @@ Those who "won the victory over the beast and its image" stand on the sea of gla
 <li>St. Irenaeus, <em>Against Heresies</em> V.28: <a href="https://www.newadvent.org/fathers/0103528.htm">New Advent</a></li>
 <li>Dicastery for the Doctrine of the Faith and Dicastery for Culture and Education, <em>Antiqua et Nova</em> (2025); Leo XIV, <em>Magnifica Humanitas</em> (2026): <a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html">vatican.va</a></li>
 <li>Pliny the Younger, <em>Letters</em> 10.96</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 2113</li>
 </ul>
 

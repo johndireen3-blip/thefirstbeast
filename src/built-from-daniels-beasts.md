@@ -25,6 +25,8 @@ Daniel's visions were first fulfilled in the empires of his own horizon and in A
 
 St. Irenaeus writes that the fourth kingdom will be divided among ten kings, and that the one to come will rise among them and bring down three (*Against Heresies* V.25.3; V.26.1). St. Hippolytus (*On Christ and Antichrist* 25–28) and St. Cyril of Jerusalem (*Catechetical Lecture* 15.12–13) agree [[auth:fathers]]. St. Augustine reads the beast instead as the city of the ungodly, the whole body of the wicked (*City of God* XX.9) [[auth:father]].
 
+The commentators on the Apocalypse read the three animals in three ways. St. Andrew of Caesarea names Daniel's kingdoms, the Greeks, the Persians and the Babylonians, and expects the one to come to rule over all of them as a king of the Romans; the ten horns he takes for earthly rule divided into ten at the end (*Commentary on the Apocalypse* 13.1–2). St. Victorinus reads a kingdom mixed from many nations, with its leaders as the bear's feet and a mouth armed for bloodshed (*Commentary on the Apocalypse* 13.1). Oecumenius reads the devil's character: quick to change his plans, steady in pursuing them, and prowling like a lion (1 Peter 5:8). Tyconius and St. Caesarius of Arles, like Augustine, read the beast as a people, "the body of the devil" (Caesarius, *Exposition on the Apocalypse*, Homily 10) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 The Church has not defined who or what the beast is. She does teach that the final deception can take political form: whenever someone claims to fulfil within history the hope that can only be fulfilled beyond it, including in a secular messianism (CCC 676).
@@ -52,6 +54,7 @@ Every beast in Daniel 7 passes away. The kingdom is given to the holy ones of th
 <li>Revelation 13 and Daniel 7, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">bible.usccb.org</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.25–26: <a href="https://www.newadvent.org/fathers/0103525.htm">New Advent</a></li>
 <li>St. Hippolytus, <em>On Christ and Antichrist</em> 25–28; St. Cyril of Jerusalem, <em>Catechetical Lecture</em> 15; St. Augustine, <em>City of God</em> XX.9 (to be checked against the editions cited before publication)</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 676</li>
 </ul>
 

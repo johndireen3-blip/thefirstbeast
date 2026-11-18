@@ -23,6 +23,8 @@ The NABRE note adds a second meaning: six is imperfection, one short of the perf
 
 St. Irenaeus, the first Father to write at length on the number, reads it as the sum of all apostasy: Noah "was six hundred years old when the deluge came," and Nebuchadnezzar's golden statue "had indeed a height of sixty cubits, while the breadth was six cubits" (Daniel 3:1), so that the number gathers up "the whole apostasy" (*Against Heresies* V.29.2) [[auth:father]]. He weighs names that fit, calling one "a very probable solution" and another "rather worthy of credit," and then refuses to name anyone: it is "more certain, and less hazardous, to await the fulfilment of the prophecy" (V.30.3) [[auth:father]]. If the name were needed now, he says, John would have announced it (V.30.3). St. Hippolytus also weighs names, Titan, Evanthas and Latinus, and says "we ought neither to give it out as if this were certainly his name": "when he appears, the blessed one will show us" (*On Christ and Antichrist* 50) [[auth:father]].
 
+The later commentators follow Irenaeus in offering and declining. Oecumenius lists titles that make the number in Greek, among them "the Conqueror," "the evil guide" and "the unjust lamb," and says that since so many fit, anyone may choose the most apt (*Commentary on the Apocalypse* 13.14–18). Primasius gives two Greek words that add up to 666 and reads them of character: one meaning "contrary to honor," the other "I deny" (*Commentary on the Apocalypse* 13.18). St. Andrew of Caesarea: "time and experience" will show the sober-minded what the number means; had the name needed to be known, John would have revealed it (*Commentary on the Apocalypse* 13.18). St. Bede sees another sense: the gold that came to Solomon in one year weighed 666 talents (1 Kings 10:14), and the seducer will try to exact for himself the tribute owed to the true King (*Explanation of the Apocalypse* 13.18) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 The Church has not interpreted the number. She warns against trying to unveil the future by our own means: a sound Christian attitude puts itself confidently into the hands of Providence and rejects "unhealthy curiosity" about the future (CCC 2115–2116).
@@ -48,6 +50,7 @@ The faithful bear another name on their foreheads, the Lamb's and his Father's (
 <li>Revelation 13–15 and Daniel 3, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">Revelation 13</a>; <a href="https://bible.usccb.org/bible/daniel/3">Daniel 3</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.29–30: <a href="https://www.newadvent.org/fathers/0103529.htm">V.29</a>; <a href="https://www.newadvent.org/fathers/0103530.htm">V.30</a> (New Advent)</li>
 <li>St. Hippolytus, <em>On Christ and Antichrist</em> 50: <a href="https://www.newadvent.org/fathers/0516.htm">New Advent</a></li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 2115–2116</li>
 </ul>
 

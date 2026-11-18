@@ -37,6 +37,8 @@ Daniel adds two longer counts, 1,290 days and 1,335 days (Daniel 12:11–12). Th
 
 St. Irenaeus joins Daniel's half-week to the reign of the one to come: "Now three years and six months constitute the half-week" (*Against Heresies* V.25.4), and says that "he will reign for three years and six months… and then the Lord will come from heaven in the clouds" (V.30.4) [[auth:father]]. St. Augustine says that anyone reading Daniel, "even half asleep," sees that the kingdom of the Antichrist "shall fiercely, though for a short time, assail the Church" (*City of God* XX.23) [[auth:father]]. The Fathers agree that the last persecution is short and measured by God; none of them built a calendar on it [[auth:fathers]].
 
+The commentators on the Apocalypse agree on the shortness and decline to count. Oecumenius: beside the unending ages all time is short, however long it seems (*Commentary on the Apocalypse* 13.4–8). St. Andrew of Caesarea and St. Caesarius of Arles read the forty-two months of the last persecution, which lasts only as long as God allows. Primasius reads the number of the Church's own life as well: the ten commandments kept in the four quarters of the world make forty, and the two commandments of love make forty-two. He notes that it equals the 1,260 days of the Woman's shelter, and recalls the Lord's promise that for the sake of the elect those days will be shortened (Matthew 24:22) (*Commentary on the Apocalypse* 13.5–6) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 "Since the Ascension Christ's coming in glory has been imminent, even though 'it is not for you to know times or seasons which the Father has fixed by his own authority'" (CCC 673). "Of that day and hour no one knows, neither the angels of heaven, nor the Son, but the Father alone" (Matthew 24:36). The Church has never taught a seven-year tribulation, and she expects to pass through the final trial, not to be taken out of it (CCC 675).
@@ -62,6 +64,7 @@ The number says one thing above all: the trial is measured, and God holds the me
 <li>Revelation 11–13 and Daniel 7 and 12, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/11">Revelation 11</a>; <a href="https://bible.usccb.org/bible/revelation/12">Revelation 12</a>; <a href="https://bible.usccb.org/bible/daniel/12">Daniel 12</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.25, V.30: <a href="https://www.newadvent.org/fathers/0103525.htm">New Advent</a></li>
 <li>St. Augustine, <em>City of God</em> XX.23: <a href="https://ccel.org/ccel/schaff/npnf102.iv.XX.23.html">CCEL</a></li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 673, 675</li>
 </ul>
 

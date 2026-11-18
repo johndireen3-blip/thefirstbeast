@@ -31,6 +31,8 @@ The NABRE note on Daniel 7:25 refers it to the persecution of Antiochus IV and t
 
 St. Irenaeus reads Daniel's horn as the one to come, who "made war against the saints, and prevailed against them" and will "wear out the saints of the most high God" for three years and six months, during which "the saints shall be put to flight" (*Against Heresies* V.25.3–4) [[auth:father]]. St. Hippolytus describes the last enemy sending out decrees that the saints be put to death unless they worship him (*On Christ and Antichrist* 56) [[auth:father]]. St. Augustine reads the last persecution as the fiercest, and the shortest, and teaches that the Church will not fail in it (*City of God* XX.8, 11) [[auth:father]]. The Fathers agree that a final persecution of the faithful comes before Christ's return [[auth:fathers]].
 
+Primasius asks the question the verse raises: why is the beast allowed to conquer? He answers from the Passion. The Lord told Pilate, "You would have no power over me if it had not been given to you from above" (John 19:11). If Christ gave his persecutors power over himself for a time, though the ruler of this world found nothing in him deserving death, it is no surprise that he allows the wicked to attack his Church. Christ, he says, is crucified again in his saints. And "conquered" is said of a part: the beast overcomes only those who can be overcome (*Commentary on the Apocalypse* 13.7) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 "Before Christ's second coming the Church must pass through a final trial that will shake the faith of many believers. The persecution that accompanies her pilgrimage on earth will unveil the 'mystery of iniquity'" (CCC 675). The Church will enter the glory of the kingdom only by following her Lord in his death and Resurrection (CCC 677). Martyrdom is the supreme witness to the truth of the faith (CCC 2473).
@@ -58,6 +60,7 @@ These readings can stand together. The Church teaches that the final trial will 
 <li>Revelation 13 and Daniel 7, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">Revelation 13</a>; <a href="https://bible.usccb.org/bible/daniel/7">Daniel 7</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.25: <a href="https://www.newadvent.org/fathers/0103525.htm">New Advent</a></li>
 <li>St. Hippolytus, <em>On Christ and Antichrist</em> 56; St. Augustine, <em>City of God</em> XX.8, 11 (to be checked against the editions cited before publication)</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
 <li>Catechism of the Catholic Church 673, 675, 677, 2473</li>
 </ul>
 
