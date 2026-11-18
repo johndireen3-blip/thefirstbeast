@@ -53,6 +53,24 @@ In every reading the point is the same. The Woman does not stop the flood. It is
 
 The two readings meet where they always do. Because the dragon has no hold on the Woman, "the dragon became angry with the woman and went off to wage war against the rest of her offspring" (12:17). That is the next page.
 
+## What the Fathers said further
+
+St. Victorinus is quoted above. The other commentators read the pursuit either of Mary or of the Church, and one of them hesitates between saying and not saying. [[auth:father]]
+
+**The pursuit read of Mary.**
+
+- **St. Epiphanius of Salamis** (died 403) is the first writer known to raise the question. He is defending Mary's perpetual virginity. The Lord on the cross entrusted her to John (John 19:26–27), which he would not have done had she had a husband and other children. Then he observes that Scripture nowhere tells of her death, whether she died or was buried, and he will not go beyond it. Simeon told her a sword would pierce her soul (Luke 2:35); and John's Revelation says the dragon pursued the woman who bore the male child, and she was given wings and taken to the wilderness out of his reach. "Perhaps this can be applied to her," he writes; he cannot decide. He does not say she remained immortal, and he does not affirm that she died (*Panarion* 78.11). The Church has since defined that Mary was taken up body and soul into heaven, and has left open whether she first died (Pius XII, *Munificentissimus Deus*, 1950).
+- **Oecumenius** reads the whole passage of her life. The dragon, fallen and envious that human beings should rise to the heaven he lost, turns on the woman who bore the Savior. The wings of the great eagle are the angel's visit to Joseph, by which mother and child reached Egypt as on wings. When that plot through Herod failed, the dragon devised another: the death of her Son. The river is the trial of the Lord's Passion, by which he meant to drown the Virgin in grief, and Simeon's sword is its measure. The earth swallowed the river when it received the crucified Lord into itself. But its real help was that it "gave the Lord back again": on the third day he rose, death being unable to hold the Author of life (Acts 3:15) (*Commentary on the Apocalypse* 12.13–17).
+
+**The pursuit read of the Church.**
+
+- **The two wings.** For Primasius and St. Bede they are the two Testaments, by which the Church is taught to escape the enemy; Primasius adds the twofold love of God and neighbor. St. Andrew of Caesarea names all of these together, with a mind open to the Crucified. St. Methodius reads them as virginity, and calls his hearers to arm themselves against the seven-headed beast: each head is a vice, and whoever overcomes it wins the matching crown, temperance over self-indulgence, martyrdom over cowardice (*Symposium* 8.12–13).
+- **The desert.** Primasius: it is the solitude of our present exile, while we are away from the Lord (2 Corinthians 5:6), and still more the heart that leaves the world by affection, as the psalmist longed to fly away and rest (Psalm 55:7–8). The eagle fits the Church because it soars far and yet stoops for its food, as she seeks what is above and still bears the needs of the body (*Commentary on the Apocalypse* 12.14). Andrew: a way of life free of disordered desire. This is true always, and will be most true under the antichrist, when even those hidden in the mountains and caves of the real desert will flee him.
+- **"A time, times and half a time."** Bede takes it for the whole time of the Church, the same span as the 1,260 days. Primasius: the time to the world's end, in which the Church grows and flees every error of the serpent.
+- **The river and the earth.** Andrew: the river is a host of godless people, evil spirits and temptations sent to enslave her. The earth that swallows it may be the long dry distances of the desert, or the humility of the saints, who say "I am dust and ashes" and so undo the devil's snares. Primasius gives two readings. The earth may be the Church, founded on the saints, whose prayers and teaching expose the enemy's designs (Psalm 104:5). Better, he thinks, it is the human nature of Christ: truth sprung from the earth (Psalm 85:12), which appears before God for us and swallowed death in the abundance of its own life (*Commentary on the Apocalypse* 12.16).
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 12:13–16.*
+
 ## Where readers differ
 
 - **Past or future.** The first-century reading sees the Church's escapes under Rome; Victorinus and Hippolytus see the last persecution; many see every age. As with the 1,260 days, the pattern recurs and will have a last instance (CCC 675–677). [[auth:disputed]]

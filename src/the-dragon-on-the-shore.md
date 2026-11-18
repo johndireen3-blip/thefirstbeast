@@ -53,6 +53,12 @@ From here the story of the two beasts runs to the end of chapter 13, and it is s
 
 This study takes up the thread again at chapter 14, where John looks away from the shore and sees the Lamb standing on Mount Zion. The two pictures are meant to be seen together: the dragon standing on sand, and the Lamb standing on the mountain.
 
+## What the Fathers said
+
+St. Bede reads "he stood on the sand of the sea" of the dragon, and takes the sand for the multitude of people, like the chaff "which the wind drives away" (Psalm 1:4). When the devil means to raise plots and wars, he takes his stand on that crowd which is always ready to take up his plans (*Explanation of the Apocalypse* 12.17–18). [[auth:father]] The Fathers on the beast that rises from the sea belong to chapter 13, and are still to be added.
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 12:17–18.*
+
 ## Where readers differ
 
 - **The text,** "it stood" or "I stood," as above. Modern editions and the Church's current translations read "it stood."

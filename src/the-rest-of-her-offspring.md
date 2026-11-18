@@ -57,6 +57,14 @@ Two things follow, and both are stated by the notes of the New American Bible: "
 - **The Woman is safe; her children are attacked.** The Church as a whole cannot be destroyed (Matthew 16:18). That promise is not made to each Christian's comfort, safety or life. "If they persecuted me, they will also persecute you" (John 15:20). "All who want to live religiously in Christ Jesus will be persecuted" (2 Timothy 3:12).
 - **He attacks what marks them.** He goes after those who *keep* and *bear witness*. The war of chapter 13 is aimed at exactly these two things: a deception that would have them break the first commandment by worshiping the beast (13:8, 15), and a mark that would silence their witness (13:16–17).
 
+## What the Fathers said
+
+- **Oecumenius**, who reads the Woman as Mary, gives the reason they are called her offspring. The faithful are the sons and brothers of the Lord, who said, "I will proclaim your name to my brothers" (Psalm 22:23; Hebrews 2:12) and "Here am I and the children God has given me" (Isaiah 8:18; Hebrews 2:13). So they are "relatives of his mother." The dragon, having failed against the child and against her, makes war on them through the rulers of the earth, because they bear witness that the one born of the Virgin is God (*Commentary on the Apocalypse* 12.13–17). This is the reading the Church later made her own: Mary, mother of the members of Christ. [[auth:father]]
+- **St. Bede**, who reads the Woman as the Church: to keep the commandments of God by faith in Jesus Christ is already to be at war with the devil. The dragon tried to kill the Lord and was defeated by the resurrection. He tried to rob the apostles of their boldness, as if to take the whole Church out of the world, and failed. So he fights the faithful one by one, in every age (*Explanation of the Apocalypse* 12.17–18).
+- **St. Andrew of Caesarea** traces the same order: overcome by Christ after his baptism, then shamed by the apostles, who found life through death, the devil turns on the Church, which has borne and still bears a people strong in faith (*Commentary on the Apocalypse* 12.13–14). Primasius adds that the more he is defeated, the more he multiplies his deceptions.
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 12:13–17.*
+
 ## Where readers differ
 
 - **Who "the rest" are in contrast to.** Most read: Christ the firstborn, and then all Christians. Some early readers, taking the Woman as Israel, read the male child as Christ and "the rest" as the Gentile believers; St. Methodius, taking the child as the baptized, has to read "the rest" otherwise. The Church has not ruled, and the plain sense is the first. [[auth:disputed]]
