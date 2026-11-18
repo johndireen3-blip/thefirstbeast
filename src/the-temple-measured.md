@@ -53,6 +53,28 @@ The Church calls herself by the names this passage uses: "the house of God," "th
 
 So the section that begins with a sanctuary measured on earth ends with the sanctuary opened in heaven and the ark seen within it (11:19), and then the Woman (12:1). What John is told to measure at the beginning of chapter 11, he is shown in its fullness at the end.
 
+## What the Fathers said
+
+The Fathers cited here all read the temple as the Church, or as God's people, and none of them reads these verses of a building to be put up in Jerusalem. They differ on who stands in the outer court. [[auth:father]]
+
+**"You must prophesy again" (10:11).** The command to measure follows from this one. St. Victorinus reads it of John's own life: he saw the Revelation on Patmos, condemned to the mines under Domitian; when Domitian was killed and his sentences were annulled, John was released, published what he had seen, and later wrote his Gospel at the request of the neighboring bishops, against the errors of Valentinus, Cerinthus and Ebion (*Commentary on the Apocalypse* 10.3; 11.1). Tyconius reads it of the Church, which has never stopped preaching and must fill the whole world with it. Oecumenius: the end has not come because John has seen it; he still prophesies to the nations through his Gospel, his letters and this book. St. Andrew of Caesarea adds a second possibility, that John had not yet tasted death and would come at the end to oppose the antichrist's deceit. St. Bede: the work would be sweet for love and bitter for the persecutions it brought.
+
+**The measuring rod.**
+
+- **The creed.** For Victorinus the measure is the Lord's command that we confess the Father almighty and his Son Jesus Christ, begotten of the Father before the world, made man, victor over death, and received in his body into heaven. This is "the rod and measure of the faith," and no one worships at the altar who does not confess it (*Commentary on the Apocalypse* 11.1).
+- **The Gospel.** Bede: John is told to rise, not because he was sitting, but because the word rouses each heart to measure itself by the words and deeds of the Gospel, and to find how far it has come (*Explanation of the Apocalypse* 11.1).
+- **A portion kept to the end.** Tyconius: John stands for the Church. He is not told to measure everyone, as the Lord said that many are called and few chosen (Matthew 22:14) (*Commentary on the Apocalypse* 11.1–2).
+
+**The court left outside.**
+
+- **Those who seem to be within.** Tyconius: the court looks like part of the temple and is not. It is those who appear to be in the Church and are outside it, together with the nations that have never believed; both will trample her. Victorinus says they are to be put out as having no place there. Primasius: false belief and a sinful way of life have no access to the holy of holies (*Commentary on the Apocalypse* 11.2).
+- **Unbelievers.** Andrew: the Church is the temple of the living God, where spiritual sacrifices are offered, and the outer court is the assembly of those who do not believe. The Lord knows those who are his (2 Timothy 2:19) (*Commentary on the Apocalypse* 11.1–2).
+- **The multitude of the New Covenant.** Oecumenius reads it another way entirely. The temple is those who pleased God under the Old Covenant, few enough to be measured. The court beside it is the New, promised by Jeremiah (Jeremiah 31:31–32). It is left unmeasured because those justified in it are past counting, and it is "given to the nations" because most of them come from the Gentiles. The holy city is the Church, of which glorious things are said (Psalm 87:3) (*Commentary on the Apocalypse* 11.1–2).
+
+**Forty-two months.** Andrew takes them for the three and a half years of the antichrist, when the faithful will be trampled and persecuted. Primasius takes them for the last persecution and also for the whole Christian era: six ages of the world, seven days in which all time turns, and six times seven is forty-two. Oecumenius thinks the number, being incomplete, shows that the time left to the present life is short, which is why Scripture calls it the last hour.
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 10:11–11:2.*
+
 ## Where readers differ
 
 - **A temple to be rebuilt?** Some Christians expect a third temple of stone in Jerusalem and read this passage of it. Several of the Fathers expected the Antichrist to seat himself in a rebuilt temple, and others, with St. Augustine, thought it uncertain which temple is meant. The Church has not taught that a temple must be rebuilt, and the New Testament's own use of "temple" for the Church weighs against reading these verses that way. [[auth:disputed]]

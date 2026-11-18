@@ -39,7 +39,7 @@ The Church has not defined who the two witnesses are. The tradition offers two k
 
 | Reading | Who holds it |
 | --- | --- |
-| Enoch, who like Elijah did not die (Genesis 5:24) | St. Hippolytus, who speaks of "the two prophets Enoch and Elias" (*On Christ and Antichrist* 43, 47); St. John Damascene; St. Robert Bellarmine; the Haydock commentary calls it "a very common interpretation" |
+| Enoch, who like Elijah did not die (Genesis 5:24) | St. Hippolytus, who speaks of "the two prophets Enoch and Elias" (*On Christ and Antichrist* 43, 47); a later work under his name, which adds John the Theologian; St. John Damascene; St. Robert Bellarmine; the Haydock commentary calls it "a very common interpretation" |
 | Jeremiah | St. Victorinus, who gives it as the view of "all our ancients," and notes of other candidates: "Many think that there is Elisha, or Moses, with Elijah; but both of these died" |
 | Moses | St. Hilary, as the Haydock commentary reports |
 
@@ -95,6 +95,40 @@ This study names no one as a witness. It does say plainly what the Church has an
 - **Settled by the Church:** the time is not ours to know, so no dates can be computed from their 1,260 days (CCC 673), and the Church's hope does not rest on identifying them.
 
 A reader may hold an opinion here. It should be held as an opinion, tested against everything the text says, and never in a way that expects or wishes anyone's death.
+
+## What the Fathers said further
+
+The readings of the tradition are set out above. The commentators in the *Ancient Christian Commentary* volume add detail to both sides, and Tyconius argues openly against reading two individuals. [[auth:father]]
+
+**Two prophets at the end.**
+
+- **A third with them.** A later work that circulated under the name of Hippolytus, *On the End of the World*, expects Enoch and Elijah and also John the Theologian. It takes the half of Daniel's last week (Daniel 9:27) for the 1,260 days of their preaching. It sees in their sending the Lord's kindness: even in the last times he does not leave us without prophets (*On the End of the World* 21).
+- **Why Jeremiah.** St. Victorinus gives his reason. God told Jeremiah that he had appointed him a prophet to the nations (Jeremiah 1:5), and Jeremiah never was one; so the word is still to be kept (*Commentary on the Apocalypse* 11.3).
+- **Why Enoch.** Oecumenius: Malachi foretells Elijah plainly (Malachi 3:23–24). Of another forerunner Scripture says only that Enoch pleased God and was taken (Genesis 5:24; Hebrews 11:5), and an old tradition in the Church holds that he will come with Elijah. They wear sackcloth because they mourn the disobedience of that time. Whether the number of days is a figure or exact, he leaves open (*Commentary on the Apocalypse* 11.3–6).
+- **Signs against signs.** Oecumenius and St. Andrew of Caesarea give the reason for their power. The antichrist will come with every false sign and wonder (2 Thessalonians 2:9). God will arm his witnesses with true ones, bringing, in Andrew's words, "a healing that is commensurate with the wound" (*Commentary on the Apocalypse* 11.5–6).
+
+**The Church and her two Testaments.**
+
+- **Tyconius:** the two witnesses are the two Testaments by which the Church is governed. The Lord does not say he will make witnesses, as if they did not yet exist. He gives power to witnesses who have been with him from the beginning. The 1,260 days are the time of the last persecution; as before the flood there was one to announce God's wrath, so then there will be those who announce the kingdom and show the way of repentance. The olive trees are the Testaments, pouring the oil of knowledge into the one lampstand of the Church, as Zechariah saw (Zechariah 4:2–3, 14) (*Commentary on the Apocalypse* 11.3–4).
+- **Primasius** stresses the tense: "these are," not "these will be." John is speaking of the present. He offers a second reading: two kinds of witness, that of a life known to God alone and that of public confession under persecution. St. Cyprian distinguished them, and the sons of Zebedee show them: James was killed by Herod (Acts 12:2), and John bore his witness otherwise, though the Lord told both that they would drink his cup (Matthew 20:23). The lampstands are two because of the two Testaments, or because the Church is gathered from two peoples and joined in the one cornerstone (*Commentary on the Apocalypse* 11.3–4).
+- **The fire and the closed sky.** Tyconius and St. Caesarius of Arles: whoever harms the Church is consumed through the prayers of her mouth, either now for his correction or hereafter for his condemnation. Tyconius allows a happier sense, that a person is "consumed" when he is turned from error and saved. The power over rain is the Church's power of binding and loosing (Matthew 16:19); heaven is shut when the rain of blessing is withheld, as the Lord said of his vineyard (Isaiah 5:6). Primasius adds that the same fragrance of Christ is life to some and death to others (2 Corinthians 2:15–16).
+
+**The beast from the abyss.**
+
+- **Victorinus** takes the beast for the antichrist and finds him in the prophets, in Ezekiel's great tree nourished by the deep (Ezekiel 31:3–4). St. Paul shows he was to be among the Caesars, already at work as a mystery of lawlessness, and to come only when God allows (2 Thessalonians 2:7–11) (*Commentary on the Apocalypse* 11.4).
+- **Oecumenius:** the witnesses will testify that the one then present is not the Christ. He is called a beast for his savagery. The abyss is human life, bitter with sin, for he will be a man of our own nature and no other, whose coming is by the working of Satan. The city is called Sodom and Egypt in a spiritual sense, for its license and because it enslaves the servants of Christ (*Commentary on the Apocalypse* 11.7–10).
+- **Andrew:** by God's leave the antichrist will kill the witnesses and leave them unburied in Jerusalem, where he will set up his kingdom in imitation of David, to pass for the one who rebuilds David's fallen hut (Amos 9:11) (*Commentary on the Apocalypse* 11.7–8).
+- **Tyconius and St. Bede** read the Church. "When they have finished their testimony" shows that she bears witness until the last persecution. The beast "conquers" in those who give way and "kills" those who suffer for Christ's name. Tyconius notes that his text speaks of one "body" of the two, for the Church is one. Bede adds that at that time the Church is believed to be left without the gift of miracles, while the adversary works false signs openly. Sodom and Egypt he takes to mean "silent" and "dark": a city with neither the light of faith nor the voice of confession (Romans 10:10) (*Explanation of the Apocalypse* 11.7–8).
+
+**Those who rejoice.** Tyconius: by refusing them burial, their enemies try to prevent any memorial of them among the living. The very sight of the just is a burden to the unjust (Wisdom 2:15; Psalm 112:10). Oecumenius: the prophets tormented them by reproof, not by force. Primasius hears the old cry against God's people, "let the name of Israel be remembered no more" (Psalm 83:5). Andrew turns it into a prayer: those who rejoiced did not know that the Lord reproves those he loves, and we should ask to be corrected now so as not to be condemned with the world (1 Corinthians 11:32).
+
+**They stood on their feet.**
+
+- **Tyconius** reads the general resurrection, when the just are caught up in the clouds to meet Christ (1 Thessalonians 4:17). This cannot happen to anyone before the Lord's coming, he says, and so he rejects the opinion that these are two men who ascend beforehand. How could the whole earth rejoice at two deaths in one city, or exchange gifts in three and a half days? The fear that falls on those who see is the fear of the living at the resurrection of the dead (*Commentary on the Apocalypse* 11.11–12).
+- **Andrew** keeps the two prophets: dead for as many days as the years of their prophecy, they will rise and go up to heaven on a cloud, as the Lord did (*Commentary on the Apocalypse* 11.11–12).
+- **The earthquake.** Tyconius: there are two buildings in the Church, one on the rock and one on sand (Matthew 7:24–27). In persecution the second falls, with all who did not keep the faith with a pure heart. Those on the rock are afraid, give glory to God, and keep the commandments more carefully. Andrew thinks these things may happen outwardly, and reads the earthquake as the change of what is unstable into something firm. The seven thousand are those who clung to the seven days of this present life and did not wait for the eighth day, the day of resurrection.
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 11:3–13.*
 
 ## Where readers differ
 
