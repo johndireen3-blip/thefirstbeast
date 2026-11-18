@@ -33,6 +33,8 @@ St. Irenaeus reads Daniel's horn as the one to come, who "made war against the s
 
 Primasius asks the question the verse raises: why is the beast allowed to conquer? He answers from the Passion. The Lord told Pilate, "You would have no power over me if it had not been given to you from above" (John 19:11). If Christ gave his persecutors power over himself for a time, though the ruler of this world found nothing in him deserving death, it is no surprise that he allows the wicked to attack his Church. Christ, he says, is crucified again in his saints. And "conquered" is said of a part: the beast overcomes only those who can be overcome (*Commentary on the Apocalypse* 13.7) [[auth:father]].
 
+The blood of the holy ones is answered in the bowls. The second and third turn the sea and the rivers to blood, and the angel of the waters says, "they have shed the blood of the holy ones and the prophets, and you [have] given them blood to drink" (Revelation 16:3–7). Oecumenius allows a literal sense, the waters reddened by battles at the end, and notes that angels serve God's providence and that one is set over the waters, as Daniel speaks of the princes of nations (Daniel 10:13, 21). St. Andrew of Caesarea thinks of the plagues of Moses repeated through Enoch and Elijah, or of the wars of the last days. Angels, he says, are set over the elements; the altar that answers is Christ, or the angelic powers; and each of us has an angel who rejoices at our repentance (*Commentary on the Apocalypse* 16.3–7). Primasius reads the waters as the teachings of the nations, turned to blood because they are of the flesh, and "the concern of the flesh is death" (Romans 8:6) (*Commentary on the Apocalypse* 16.4) [[auth:father]].
+
 ## The Church [[auth:church]]
 
 "Before Christ's second coming the Church must pass through a final trial that will shake the faith of many believers. The persecution that accompanies her pilgrimage on earth will unveil the 'mystery of iniquity'" (CCC 675). The Church will enter the glory of the kingdom only by following her Lord in his death and Resurrection (CCC 677). Martyrdom is the supreme witness to the truth of the faith (CCC 2473).
@@ -60,7 +62,7 @@ These readings can stand together. The Church teaches that the final trial will 
 <li>Revelation 13 and Daniel 7, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">Revelation 13</a>; <a href="https://bible.usccb.org/bible/daniel/7">Daniel 7</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.25: <a href="https://www.newadvent.org/fathers/0103525.htm">New Advent</a></li>
 <li>St. Hippolytus, <em>On Christ and Antichrist</em> 56; St. Augustine, <em>City of God</em> XX.8, 11 (to be checked against the editions cited before publication)</li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13 and 16:3–7</li>
 <li>Catechism of the Catholic Church 673, 675, 677, 2473</li>
 </ul>
 
