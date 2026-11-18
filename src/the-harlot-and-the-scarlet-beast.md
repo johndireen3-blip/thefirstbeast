@@ -108,4 +108,4 @@ The Church has not decided which the text intends at the end.
 <li>Catechism of the Catholic Church 2113, 2424</li>
 </ul>
 
-<p class="next-prev"><span>← <a href="/the-beast-from-the-sea">The beast from the sea</a></span><span><a href="/marks">All the marks</a> →</span></p>
+<p class="next-prev"><span>← <a href="/the-beast-from-the-sea">The beast from the sea</a></span><span><a href="/the-three-unclean-spirits">The three unclean spirits</a> →</span></p>

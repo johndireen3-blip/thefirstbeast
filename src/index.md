@@ -45,7 +45,7 @@ The site is being built a mark at a time. These are ready to read, as drafts:
 - [Mark 10: An image that speaks](/an-image-that-speaks) (Revelation 13:14–15)
 - [Mark 11: Control of buying and selling](/buying-and-selling) (Revelation 13:16–17)
 
-And one of the figures: [the harlot and the scarlet beast](/the-harlot-and-the-scarlet-beast) (Revelation 17–18).
+And two of the figures: [the harlot and the scarlet beast](/the-harlot-and-the-scarlet-beast) (Revelation 17–18) and [the three unclean spirits like frogs](/the-three-unclean-spirits) (Revelation 16).
 
 ## How to read what you find here
 
