@@ -44,6 +44,17 @@ They are not rivals. The first two say whose pain it is in history: Israel's bef
 
 This is also the moment where the Woman as Mary and the Woman as the Church meet. The Catechism says of Mary that she is mother of the faithful, "in whose generation and formation she co-operates with a mother's love" (CCC 501). The Church does the same work by preaching and Baptism (CCC 507). One labor is being described.
 
+## What the Fathers said further
+
+Victorinus and Hippolytus are quoted above. The later commentators add the following. [[auth:father]]
+
+- **Oecumenius, of Mary.** He reads the Woman as the Mother of God and meets the difficulty of this page directly. Isaiah says of her, "Before she was in labor she gave birth" (Isaiah 66:7), and St. Gregory of Nyssa that her labor was free of pain (*Homilies on the Song of Songs* 13). How then does she cry out? Oecumenius answers that the cry is her distress of heart before Joseph. Until the angel told him that the child was of the Holy Spirit, she was troubled, as a virgin would be, at what her betrothed might think. Scripture calls such inward trouble a cry: God said to Moses, "Why are you crying out to me?" when Moses had said nothing aloud (Exodus 14:15). He ends with a prayer to Christ, in which he calls Mary "my mistress, the holy mother of God" (*Commentary on the Apocalypse* 12.1–2). This is a fifth reading beside the four above, and it is his alone among the Fathers cited here.
+- **Tyconius, of the Church.** She is with child "not in her womb but in her mind." Her cry is her preaching, by which she gathers the nations. She is in labor with those not yet born, and she never stops being in labor with those already born, as St. Paul was with the Galatians (Galatians 4:19) (*Commentary on the Apocalypse* 12.2).
+- **St. Andrew of Caesarea, of the Church.** She is in birth pangs for each one who is born again of water and the Spirit, until Christ is formed in them. Those who fall away from the light of Christ he compares to children lost before birth (*Commentary on the Apocalypse* 12.2).
+- **Quodvultdeus, of Mary and the Church.** He names the Woman as the Virgin Mary and reads her as a figure of the Church. Speaking to catechumens, he says the Church carries them in her womb and feeds them there with the rites that prepare for baptism. She does not bear children as Eve did, in sadness and groaning. She leads them rejoicing to the day of their birth; what Eve bound by disobedience, this mother has loosed by obedience (*On the Symbol* 3.1).
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 12:2 and 12:4.*
+
 ## Where readers differ
 
 - Those who read the Woman only as Israel or the Church see no difficulty here, and some of them think the Marian reading of this verse forced. Those who read her first as Mary answer with Pius X or with the Cross. The Church has not settled which of the four readings is John's own. [[auth:disputed]]

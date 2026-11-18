@@ -59,6 +59,33 @@ St. Victorinus looks past Bethlehem to Calvary. The dragon "standing and desirin
 
 Both are true to the text. From the manger to the tomb the serpent sought the child, and at each point he failed.
 
+## What the Fathers said further
+
+Victorinus, Methodius and Bede are quoted in the sections above. The other commentators add the following. [[auth:father]]
+
+**Why a dragon, and why red.** Oecumenius: he is called a dragon for his deceit, as Isaiah speaks of the twisting serpent (Isaiah 27:1), and red for his thirst for blood. The vision shows him first in heaven so that the apostate may know from what height he fell (*Commentary on the Apocalypse* 12.3–6). St. Andrew of Caesarea thinks "heaven" here means the air. He is red for his murderous character, or for the fiery nature he had as an angel (*Commentary on the Apocalypse* 12.3).
+
+**The heads, horns and diadems.**
+
+- **Tyconius:** the heads are kings and the horns kingdoms. In the seven heads and their diadems he sees the rule of all kings, and in the ten horns the persecutors who will stir up persecution against the whole Church in the last times (*Commentary on the Apocalypse* 12.3).
+- **Oecumenius:** seven means many, for he has many dominions and many plots. The psalm speaks of God crushing the heads of the dragon (Psalm 74:14). The diadem is a sign of tyranny, and the ten horns of great power, as the book of Job shows.
+- **Andrew:** the seven heads are seven powers of wickedness set against the seven gifts of the Spirit. Or they are the seven spirits of the Lord's parable, who settle in the heart that has been swept and left empty (Matthew 12:43–45), or the seven abominations in the heart of the enemy (Proverbs 26:25). The horns are the sins against the Ten Commandments, or the divisions of the kingdom in which he delights. Of the diadems Andrew makes a point of hope: those who conquer the demons receive the crowns of victory.
+
+**A third of the stars.**
+
+- **Angels.** Oecumenius: he cast down a great number of angels with himself, having persuaded them to revolt from God. They were bright as stars and became dark. "By his tail" means by what came last, the final stage of his own rebellion.
+- **Members of the Church.** Tyconius reads the tail as false prophets, who throw down the simple who attach themselves to them. St. Caesarius of Arles says the same of heretics who draw the baptized into a second baptism, and notes that many read it of the angels who fell with the devil (*Exposition on the Apocalypse*, Homily 9).
+- **Either.** Andrew: it is the first fall, which brought down the apostate angels, or it is the movement of his tail after his head was crushed, dragging down those who have let go of heavenly thoughts. They are called stars for the brightness of their baptism (*Commentary on the Apocalypse* 12.4).
+
+**Waiting to devour the child.**
+
+- **Oecumenius** reads it of the Lord's own life. Satan watched for the birth of the one who would destroy his dominion, and when the Virgin gave birth he stirred up Herod to kill the child. He quotes Isaiah on the child who conquers before he can call his father or mother (Isaiah 8:4).
+- **Tyconius** reads it of Christ and of every Christian. The Spirit shows what is to come in the Church under the form of what has already happened. In her sufferings the Church is always bringing forth Christ, and the devil is always seeking to devour whoever is born to God. Herod stands for the whole company of persecutors: the angel said that those who sought the child's life were dead (Matthew 2:20), as was said to Moses of Pharaoh (Exodus 4:19). His principle is stated in a sentence: "every Christian suffers that which the Head has suffered" (*Commentary on the Apocalypse* 12.4).
+- **Andrew:** the apostate is always armed against the Church, wishing to make food of those who are reborn from her. In them he persecutes Christ, who said to Saul, "Why are you persecuting me?" (Acts 9:4).
+- **Victorinus** adds to what is quoted above that the devil came to tempt the Lord as a man, and finding him other than he thought, departed until an opportune time (Luke 4:13).
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 12:3–4.*
+
 ## Where readers differ
 
 - **When the stars fall.** If the stars are angels, is this the fall of the angels before the world's history, or the casting down described in 12:7–9? The Church teaches that the angels' sin came at the beginning (CCC 391–392); how John's visions are ordered in time is a separate question, taken up on the page on the war in heaven. [[auth:disputed]]

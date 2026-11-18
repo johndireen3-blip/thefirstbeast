@@ -54,6 +54,20 @@ The old ark held the tablets of the Law, the word of God written on stone. Mary 
 
 Read this way, Revelation 11:19 and 12:1 show the same mystery twice: the ark in God's temple, and the Woman in heaven. This is why the Church reads them together on the day she celebrates Mary taken up, body and soul.
 
+## What the Fathers said
+
+The early commentators on Revelation do not read the ark as Mary. They read the opened temple as Christ's body and the ark as his incarnation, kept within the Church. [[auth:father]]
+
+- **St. Victorinus** (died about 304): the temple of God is his Son, who said, "Destroy this temple and in three days I will raise it up," speaking of the temple of his body (John 2:19–21). The opening of the temple is the appearing of the Lord. The ark is the preaching of the Gospel and mercy for sins, and everything else that came with him (*Commentary on the Apocalypse* 11.6).
+- **Tyconius** (fourth century): when Christ was born, the temple of God was made manifest in heaven, that is, in the Church. The ark is the mystery of the incarnation of Christ, who like the ark carried the tablets of the covenant within himself, for he came not to abolish the law but to fulfill it (Matthew 5:17). He recalls Jeremiah's promise that the old ark would no longer come to mind and that Jerusalem herself would be called the throne of the Lord (Jeremiah 3:16–17). The lightning is the virtues by which Christ makes his apostles shine, and the voices and thunder are their preaching. Hail breaks itself on what it strikes: so persecutors of the faith are themselves broken (*Commentary on the Apocalypse* 11.19).
+- **St. Bede** (died 735): the ark of old was hidden behind the veil. Now the veil has been torn by the blood of the Lord, and in the Church, the temple of the living God, "the ark of his incarnation" is laid open to all the world. As the manna from heaven lay in a vessel of pure gold, so his divinity is in his holy body (*Explanation of the Apocalypse* 11.19).
+- **Oecumenius** (sixth century): the good things that had been hidden are now seen by the saints, those which no eye has seen and no ear heard (1 Corinthians 2:9), with a new knowledge the Lord promised when he spoke of drinking the fruit of the vine new in his Father's kingdom (Matthew 26:29). For sinners there are lightning, thunder, earthquake and hail: this is the third woe (*Commentary on the Apocalypse* 11.15–19).
+- **St. Andrew of Caesarea:** the opening of heaven and the sight of the ark reveal the blessings prepared for the saints, which are hidden in Christ, in whom the fullness of the deity dwells bodily (Colossians 2:9). The earthquake is the changing of the present order (*Commentary on the Apocalypse* 11.19).
+
+These readings and the Marian one meet in the Incarnation. If the ark is the Word made flesh, as Tyconius and Bede say, then the one who carried him is rightly called his ark, which is how Luke's Gospel and the Church's prayer speak of Mary. But that step is the Church's later reading. These commentators do not take it.
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 11:19.*
+
 ## Where readers differ
 
 The Church has not defined the meaning of this verse. [[auth:disputed]]
@@ -63,7 +77,7 @@ The Church has not defined the meaning of this verse. [[auth:disputed]]
 
 The two readings do not exclude each other. The ark was always the sign of God dwelling with his people, and the Church sees that dwelling made complete when the Word took flesh in Mary.
 
-How the earliest commentators on Revelation read this verse will be added here from their own texts; see [The Commentators](/the-commentators).
+The earliest commentators on Revelation read the ark of Christ and his incarnation, as set out above under "What the Fathers said"; see also [The Commentators](/the-commentators).
 
 ## What it asks of us
 

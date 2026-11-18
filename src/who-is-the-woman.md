@@ -28,6 +28,8 @@ St. John Henry Newman, a Doctor of the Church, put it this way. He granted the o
 
 **The Church's use.** The liturgy of the Assumption, Pope St. Pius X, Pius XII, Pope St. Paul VI and Pope St. John Paul II all read the sign of Mary; their words are given on [A woman clothed with the sun](/a-woman-clothed-with-the-sun). The Catechism calls her "the Woman" among those who worship in heaven (CCC 1138). [[auth:church]]
 
+**Among the Fathers.** Two name her. Oecumenius, in the sixth century, author of the earliest Greek commentary that survives, reads the whole passage of the Mother of God: the Woman in heaven, the birth, Herod, and the flight into Egypt. Quodvultdeus of Carthage, about 430, tells his catechumens that "that woman signifies the Virgin Mary," and that Mary is in herself a figure of the Church. Both are cited from the *Ancient Christian Commentary* volume named on [The Commentators](/the-commentators); their words are on [A woman clothed with the sun](/a-woman-clothed-with-the-sun). [[auth:father]]
+
 **The difficulty.** The earliest commentators did not read her so. Newman met the objection directly: he admitted that "such an interpretation is but poorly supported by the Fathers," and answered that "Christians have never gone to Scripture for proof of their doctrines, till there was actual need." Other features, the labor pains and the flight to the desert, are harder to say of Mary herself. The labor pains have [a page of their own](/the-birth-pangs).
 
 ## Israel
@@ -64,7 +66,7 @@ This study follows the liturgy and reads the Woman first as Mary. On each page i
 ## Where readers differ
 
 - **The order.** The ancient commentators begin from the Church or Israel and say little of Mary; the modern liturgy and the popes begin from Mary. The Church has defined none of this. [[auth:disputed]]
-- **Whether the Fathers read her as Mary at all.** Several later writers, among them St. Epiphanius, Quodvultdeus, Oecumenius and St. Andrew of Caesarea, are reported to connect the Woman with the Mother of God, some firmly and some with hesitation. Their own texts have not yet been consulted for this study, and nothing is claimed for them here until they have been; see [The Commentators](/the-commentators).
+- **Whether the Fathers read her as Mary at all.** Two do, in the texts read for this study: Oecumenius firmly and throughout, and Quodvultdeus as Mary who is a figure of the Church. St. Andrew of Caesarea, on the verses read so far, follows Methodius and reads the Church. Most of the others read the Church, and Victorinus the people of God before Christ. St. Epiphanius, who is reported to raise the question with hesitation, comments on the Woman's flight (12:13–17), and is still to be added; see [The Commentators](/the-commentators).
 
 ## What it asks of us
 

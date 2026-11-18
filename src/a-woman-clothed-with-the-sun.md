@@ -55,11 +55,31 @@ The Catechism gives the principle: in Mary "we contemplate what the Church alrea
 
 So the sign is one. Israel is the people from whom the Messiah came. Mary is the daughter of Israel who bore him. The Church is the mother of all who belong to him. What is said of the Woman is said first of Mary, and through her of the people she comes from and the people she is mother to.
 
+## What the Fathers said
+
+Hippolytus, quoted above, speaks for most of the Fathers: the Woman is the Church. Two of them name Mary. [[auth:father]]
+
+**The Woman as Mary.**
+
+- **Oecumenius** (sixth century), author of the earliest Greek commentary that survives, says plainly that the vision speaks of the mother of our Savior. It shows her in heaven and not on earth because she is pure in soul and body, "a citizen of heaven," though she shares our nature. He insists on that last point against Eutyches, who denied that the Virgin, and so her Son, was of one substance with us. The sun is Christ, the sun of righteousness (Malachi 3:20). It would have been more exact, he remarks, to say that the Woman clothed the sun, since she carried him in her womb. The vision says the reverse to show that the Lord she carried was the shelter of his own mother and of all creation, as the angel told her that the power of the Most High would overshadow her (Luke 1:35). The moon under her feet he takes for the law of Moses, which has its light from Christ as the moon has its light from the sun (*Commentary on the Apocalypse* 12.1–2).
+- **Quodvultdeus**, bishop of Carthage and a friend of St. Augustine, preaching to those about to be baptized around 430: "We all know that the dragon is the devil and that that woman signifies the Virgin Mary," who remained a virgin in giving birth to our Head. He adds at once that she presents in herself a figure of the holy Church, which brings forth Christ's members without losing her virginity (*On the Symbol* 3.1). This is the oldest Latin witness to the Marian reading, and he speaks of it as something his hearers already know.
+
+**The Woman as the Church.**
+
+- **St. Methodius:** she is our mother the Church, clothed with the brightness of the Word as with a robe, and adorned with stars in place of jewels. She stands on the moon, which he takes for the faith of those cleansed in baptism, and labors to bring forth natural people as spiritual (Isaiah 60:1–4) (*Symposium* 8.5–6). His words are given more fully on [Who is the woman?](/who-is-the-woman)
+- **Tyconius:** the Woman is the Church, who in baptism puts on Christ, the sun of righteousness (Galatians 3:27). The moon under her feet may be the church of the heretics, which Christ does not light; or, taken in a good sense, the Church herself, of whom it is written that she is fair as the moon (Song of Songs 6:10; Psalm 89:36–38). The twelve stars are the apostles, set as a crown over the twelve tribes (*Commentary on the Apocalypse* 12.1).
+- **Primasius** begins from Christ, in whom human nature is joined to the Wisdom of God. The Woman is the Church who has put on Christ and tramples every changeable thing, because she clings to the good that does not change: "for me, to be near God is my good" (Psalm 73:28) (*Commentary on the Apocalypse* 12.1).
+- **St. Caesarius of Arles:** the sun is the hope of the resurrection, when the just will shine like the sun (Matthew 13:43). The moon under her feet is the hypocrites and bad Christians she has to bear. The stars are the apostles (*Exposition on the Apocalypse*, Homily 9).
+
+**The Woman as God's people before Christ.** St. Victorinus reads her as the ancient Church of the patriarchs, prophets and apostles. The sun is the hope of the resurrection. The moon is the death of the saints' bodies, which wanes and is never wholly put out. The crown of twelve stars is the fathers from whom Christ took flesh (*Commentary on the Apocalypse* 12.1). See [The birth pangs](/the-birth-pangs).
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 12:1.*
+
 ## Where readers differ
 
 - **Which reading comes first.** Hippolytus reads the Church first; the modern liturgy and the popes quoted above read Mary first; many Scripture scholars begin with Israel. The Church has not ruled between them, and she uses all three. Paul VI's words are careful: the liturgy applies the sign to Mary "not without foundation." [[auth:disputed]]
 - **The birth pangs.** Verse 2 says the Woman "wailed aloud in pain as she labored to give birth." Those who read the Church or Israel first find this easy; those who read Mary first must explain it, as Pius X did when he read the pangs as her care for the children still to be born to God. See [The birth pangs](/the-birth-pangs).
-- **The Fathers after Hippolytus.** Several later commentators, in the East especially, read the Woman directly as the Mother of God. Their texts are still to be consulted for this study; see [The Commentators](/the-commentators).
+- **The Fathers after Hippolytus.** Most read the Woman as the Church. Oecumenius reads her directly as the Mother of God, and Quodvultdeus as Mary who is a figure of the Church, as set out above. See also [The Commentators](/the-commentators).
 
 ## An approved apparition
 

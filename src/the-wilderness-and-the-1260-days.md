@@ -54,7 +54,14 @@ It is not a date to be computed: "it is not for you to know times or seasons" (A
 - **St. Victorinus** reads the wings as two prophets, Elijah and the one who comes with him, and the flight as still to come: the faithful will be sustained "for three years and six months from the presence of the devil" ([*Commentary on the Apocalypse*](https://www.intratext.com/IXT/ENG1016/_PC.HTM), on chapter 12). He notes that the flight follows the child's birth and is not at the same time. [[auth:father]]
 - **St. Methodius** reads the Church of every age, and especially those who live for God alone: she comes into the wilderness "flying on the heavenward wings of virginity" ([*The Banquet* VIII.12](https://www.intratext.com/IXT/ENG1159/_P1V.HTM)). [[auth:father]]
 
-The three differ on the wings and agree on the Woman: in the desert she is the Church.
+- **Methodius on the number.** He reads the 1,260 days as the right knowledge of the Trinity, in which the Church grows until the age to come: a thousand for the Father, two hundred for the Holy Spirit, and sixty for the Son. Six, he explains, is a perfect number, equal to the sum of its parts, and so fits the Son, who emptied himself and was restored to his fullness (*Symposium* 8.11–12).
+- **Tyconius** reads the wilderness as this world. The Church has received in the apostles authority to walk among serpents and scorpions and every power of the enemy (Luke 10:19). Israel, fed and led in the desert, was a figure of her (1 Corinthians 10:11; Psalm 107:2–4) (*Commentary on the Apocalypse* 12.6). St. Caesarius of Arles follows him: in this world Christ feeds and leads the Church to the end (*Exposition on the Apocalypse*, Homily 9).
+- **Oecumenius** reads the Woman as Mary and the desert as Egypt. The child was saved from the dragon's plot, and his mother was not abandoned to it: she was saved by the flight into Egypt, and stayed there until the death of Herod, which he reckons at about three and a half years, "more or less" (*Commentary on the Apocalypse* 12.3–6).
+- **St. Andrew of Caesarea** reads the last persecution. When the devil, through the antichrist, makes war on the Church, her chosen ones will leave the tumult of the world for the desert of a life empty of evil and fruitful in virtue, as Methodius says. He thinks the physical desert will shelter them too, in mountains and caves, for the three and a half years of the apostasy, and that God will not let them be tried beyond their strength (*Commentary on the Apocalypse* 12.6).
+
+The first three differ on the wings and agree on the Woman: in the desert she is the Church. Tyconius, Caesarius and Andrew agree with them. Oecumenius alone reads Mary.
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 12:6.*
 
 ## Read of the Church, of Israel, of Mary
 
@@ -66,7 +73,7 @@ The three differ on the wings and agree on the Woman: in the desert she is the C
 
 ## Where readers differ
 
-- **Past, present or future.** Hippolytus and Victorinus place the flight in the last persecution. Many later readers take the 1,260 days as the Church's whole pilgrimage. The first-century reading sees the persecutions under Rome. These can be held together, as a pattern that recurs and will have a last and worst instance: "Before Christ's second coming the Church must pass through a final trial that will shake the faith of many believers" (CCC 675). [[auth:disputed]]
+- **Past, present or future.** Hippolytus, Victorinus and Andrew place the flight in the last persecution; Oecumenius places it in the Lord's infancy; Tyconius reads the Church's whole time in the world. Many later readers take the 1,260 days as the Church's whole pilgrimage. The first-century reading sees the persecutions under Rome. These can be held together, as a pattern that recurs and will have a last and worst instance: "Before Christ's second coming the Church must pass through a final trial that will shake the faith of many believers" (CCC 675). [[auth:disputed]]
 - **Literal or symbolic days.** The Church has not defined that the number is a literal three and a half years, and the end cannot be computed from it (CCC 673).
 - **The wings.** The Cross, two prophets, virginity, or simply "the power and swiftness of divine help" (NABRE, note on 12:14).
 

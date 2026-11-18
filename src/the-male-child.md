@@ -52,11 +52,23 @@ Two early Fathers read the verse of the Church's children, and their reading exp
 
 Methodius's denial has not been followed; the Church reads the child as Christ. But what he affirms is sound and is in the text. Christ is the firstborn "among many brothers" (Romans 8:29). What is said of the Head is promised to the members: the iron rod (2:26–27), and the throne itself, "I will give the victor the right to sit with me on my throne, as I myself first won the victory and sit with my Father on his throne" (3:21).
 
+## What the Fathers said further
+
+Victorinus, Hippolytus and Methodius are quoted above. The later commentators divide in the same way, between Christ himself and Christ in his members. [[auth:father]]
+
+- **Oecumenius** reads the verse of Christ alone. John has told us plainly who the child is: the one to whom the Father said, "Ask of me, and I will give you the nations as your inheritance" (Psalm 2:8–9). The dragon stirred up Herod to kill the children of Bethlehem. By the Father's providence the child escaped, when Joseph was warned and fled with him and his mother into Egypt (*Commentary on the Apocalypse* 12.3–6). Oecumenius takes "caught up" of that rescue, where Victorinus takes it of the Ascension.
+- **Tyconius** reads Christ and his whole body. The Church brings forth Christ, who though he was God deigned to be born as man. He is called a male child because by his victory the devil, who had conquered a woman, "ceased to be a conqueror." The iron rod is promised to the whole body, as the Lord says to the victor in the letter to Thyatira (Revelation 2:26–27), and whoever rises in Christ will sit with him on the throne (*Commentary on the Apocalypse* 12.5).
+- **Primasius** gives both readings and keeps them in order. Of the body: Christ, the Head, is said to be born in each of his members. What belongs to the Head is joined to the Church, for all who are baptized have put on Christ (Galatians 3:27), and God has seated us with him in the heavens (Ephesians 2:6; Philippians 3:20; Colossians 3:1). The iron rod is his unbending justice. Of Christ in person: the dragon's plots are every persecution he bore from the cradle, through Herod, to the cross, and the dragon was brought to nothing by the resurrection. Primasius excepts one thing from the "agonies" of the passage: his birth from blessed Mary, who conceived without any sin (*Commentary on the Apocalypse* 12.5).
+- **St. Andrew of Caesarea** reads the Church. Through the baptized she is always giving birth to Christ, who is being formed in them to full maturity (Ephesians 4:13). He has already ruled the nations as with an iron rod through the power of Rome, and after the resurrection he will set those who are strong in faith as judges. The saints are "caught up" in the midst of temptations, so that they are not overcome by trials beyond their strength; and at the end they will be caught up to meet the Lord in the air (1 Thessalonians 4:17) (*Commentary on the Apocalypse* 12.5).
+- **Victorinus** adds that the iron rod is the sword (*Commentary on the Apocalypse* 12.3).
+
+*Source: unless another source is linked, the Fathers in this section are cited from* Revelation, *Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 12:5.*
+
 ## Where readers differ
 
 - **Bethlehem or Easter.** Most read the birth as the Nativity and the catching up as the Ascension. Some read the whole verse of the Paschal mystery. The two do not conflict in doctrine; they differ on which moment John has in view. [[auth:disputed]]
 - **Christ alone, or Christ with his members.** Victorinus reads Christ; Methodius reads the baptized; Hippolytus reads Christ as always born in the Church. Read with Revelation 2:26–27 and 3:21, the fullest answer is Christ first, and in him all who are his.
-- **"Caught up."** Because the same verb describes the faithful in 1 Thessalonians 4:17, some modern writers have found in this verse a catching up of the Church before a time of trial. The Fathers quoted here do not read it so; the Woman remains on earth through the whole trial (12:6, 13–17). For the Catholic reading of 1 Thessalonians 4, see The Lamb's Victory on [the rapture](https://thelambsvictory.org/topics/the-rapture).
+- **"Caught up."** Because the same verb describes the faithful in 1 Thessalonians 4:17, some modern writers have found in this verse a catching up of the Church before a time of trial. The older Fathers quoted here do not read it so. St. Andrew of Caesarea does apply the verse to the saints and quotes 1 Thessalonians 4:17, as noted above; yet he too keeps the Church on earth, in the desert, through the 1,260 days of the apostasy (12:6). The Woman remains on earth through the whole trial (12:6, 13–17). For the Catholic reading of 1 Thessalonians 4, see The Lamb's Victory on [the rapture](https://thelambsvictory.org/topics/the-rapture).
 
 ## What it asks of us
 
