@@ -47,7 +47,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
 }
 
 export default function App() {
-	return <><SiteHeader /><main><Outlet /><ReviewedLine /></main><SiteFooter /></>;
+	return <><SiteHeader /><ReviewedLine /><main><Outlet /></main><SiteFooter /></>;
 }
 
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {

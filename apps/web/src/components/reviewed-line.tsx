@@ -1,10 +1,14 @@
+import { Link } from 'react-router';
+
 /**
- * A small centered "Reviewed by" caption shown at the very end of the main
- * content, just above the footer, on every page. The date is a prop so a single
- * page can override it without touching the others.
+ * The reviewed mark shown under the header on every page, as on the sister
+ * sites. The date of review is kept in the project's records, not shown.
  */
-export function ReviewedLine({ date = 'November 18, 2026' }: { date?: string }) {
+export function ReviewedLine() {
 	return (
-		<p className="reviewed-line">Reviewed by Fr. John · {date}</p>
+		<p className="reviewed-line">
+			<span className="reviewed-pill">✓ Reviewed by Fr. John</span>
+			<Link to="/how-this-site-is-made">How this site is made</Link>
+		</p>
 	);
 }
