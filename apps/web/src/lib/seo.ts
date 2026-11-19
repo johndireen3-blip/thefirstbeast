@@ -50,7 +50,18 @@ export const siteOriginFrom = (matches: readonly RouteMatchLike[]): string => {
 	return (root?.loaderData as { origin?: string } | undefined)?.origin ?? 'https://thelambsvictory.org';
 };
 
+/**
+ * Social-card and structured-data images are served from this site (public/og),
+ * not from the old builder's image host.
+ */
+export const socialImage = (image: string): string => {
+	const builderImage = /^https?:\/\/images\.hostinger\.com\/(?:[a-z0-9-]+\/)?([a-z0-9-]+)\.[a-z]+$/.exec(image);
+
+	return builderImage ? `https://thelambsvictory.org/og/${builderImage[1]}.jpg` : image;
+};
+
 export const absoluteUrl = (origin: string, target: string): string => {
+	target = socialImage(target);
 	if (/^https?:\/\//.test(target)) {
 		return target;
 	}

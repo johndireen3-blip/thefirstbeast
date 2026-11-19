@@ -2,6 +2,7 @@
  * Thin wrappers around `seo()` that add the social/structured-data tags every
  * study page shares, so route modules stay short.
  */
+import { socialImage } from '@/lib/seo';
 import { seo, type SeoArgs, type SeoInput } from '@/lib/seo';
 import { articleJsonLd, breadcrumbJsonLd, type JsonLdObject } from '@/lib/structured-data';
 
@@ -29,12 +30,12 @@ export function studyMeta(args: SeoArgs, input: StudyMetaInput) {
 		...seo(args, {
 			title: input.title,
 			description: input.description,
-			image: input.image,
+			image: socialImage(input.image),
 			jsonLd: [
 				articleJsonLd({
 					title: input.title,
 					description: input.description,
-					image: input.image,
+					image: socialImage(input.image),
 					path: input.path,
 				}),
 				breadcrumbJsonLd(input.breadcrumb),
