@@ -221,6 +221,23 @@ a.chapter-nav-link:hover { color: hsl(var(--primary)); }
 .hero h1.eyebrow { font-family: var(--display-font); font-size: clamp(21px, 2.3vw, 30px); letter-spacing: .01em; font-weight: 600; line-height: 1.2; text-transform: none; margin-bottom: 22px; }
 .hero h1.eyebrow > span:first-child { flex-shrink: 0; width: 8px; height: 8px; }
 
+/* ===== Going deeper: what the Fathers said ===== */
+.fathers-section { border-top: 3px solid hsl(var(--primary)); background: hsl(220 36% 10%); }
+.fathers-intro { padding-bottom: 20px; max-width: 1100px; }
+.fathers-intro .eyebrow { color: hsl(var(--primary)); margin-bottom: 20px; }
+.fathers-intro h2 { font-size: clamp(40px, 4.6vw, 62px); }
+.fathers-bridge { font-size: 17px; line-height: 1.65; margin-top: 22px; max-width: 760px; color: hsl(var(--foreground)); }
+.fathers-lead { font-size: 15px; line-height: 1.75; margin-top: 14px; max-width: 760px; color: hsl(var(--muted-foreground)); }
+.fathers-list { padding-top: 10px; }
+.fathers-row { grid-template-columns: .2fr .9fr 1.9fr; align-items: start; }
+.fathers-point + .fathers-point { margin-top: 14px; }
+.fathers-point strong { color: hsl(var(--foreground)); font-weight: 600; }
+.fathers-point ul { list-style: none; margin: 8px 0 0; padding: 0 0 0 16px; border-left: 1px solid hsl(var(--border)); }
+.fathers-point li { font-size: 15px; line-height: 1.75; color: hsl(var(--muted-foreground)); }
+.fathers-point li + li { margin-top: 8px; }
+.fathers-source a { color: hsl(var(--primary)); text-decoration: underline; text-underline-offset: 3px; }
+@media (max-width: 900px) { .fathers-row { grid-template-columns: 25px 1fr; } }
+
 /* ===== Multi-page navigation ===== */
 .main-nav { gap: 20px; font-size: 13px; }
 .main-nav a, .nav-dropdown-trigger { color: hsl(var(--muted-foreground)); }
