@@ -5,6 +5,12 @@ ErrorDocument 404 /__spa-fallback.html
 
 RewriteEngine On
 
+# Preview copies on Hostinger's temporary addresses must stay out of search engines.
+SetEnvIfNoCase Host \.hostingersite\.com$ IS_PREVIEW
+<IfModule mod_headers.c>
+  Header set X-Robots-Tag "noindex, nofollow" env=IS_PREVIEW
+</IfModule>
+
 # One canonical host and scheme.
 RewriteCond %{HTTP_HOST} ^www\.thelambsvictory\.org$ [NC]
 RewriteRule ^(.*)$ https://thelambsvictory.org/$1 [R=301,L]
