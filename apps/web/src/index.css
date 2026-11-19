@@ -228,6 +228,7 @@ a.chapter-nav-link:hover { color: hsl(var(--primary)); }
 .fathers-intro h2 { font-size: clamp(40px, 4.6vw, 62px); }
 .fathers-bridge { font-size: 17px; line-height: 1.65; margin-top: 22px; max-width: 760px; color: hsl(var(--foreground)); }
 .fathers-lead { font-size: 15px; line-height: 1.75; margin-top: 14px; max-width: 760px; color: hsl(var(--muted-foreground)); }
+.fathers-lead a { color: hsl(var(--primary)); text-decoration: underline; text-underline-offset: 3px; }
 .fathers-list { padding-top: 10px; }
 .fathers-row { grid-template-columns: .2fr .9fr 1.9fr; align-items: start; }
 .fathers-point + .fathers-point { margin-top: 14px; }
