@@ -7,6 +7,8 @@ import { Symbols } from '@/components/chapter-5/symbols';
 import { Reflection } from '@/components/chapter-5/reflection';
 import { Endurance } from '@/components/chapter-5/endurance';
 import { WhereItFits } from '@/components/chapter-5/where-it-fits';
+import { FathersSection } from '@/components/fathers-section';
+import { fathers } from '@/data/fathers/chapter-5';
 
 export function meta({ matches, location }: Route.MetaArgs) {
 	return studyMeta({ matches, location }, {
@@ -20,5 +22,5 @@ export function meta({ matches, location }: Route.MetaArgs) {
 }
 
 export default function Chapter5Page() {
-	return <><Hero /><ChapterGuide /><Symbols /><Reflection /><Endurance /><WhereItFits /></>;
+	return <><Hero /><ChapterGuide /><Symbols /><Reflection /><Endurance /><FathersSection data={fathers} /><WhereItFits /></>;
 }
