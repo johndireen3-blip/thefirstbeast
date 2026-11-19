@@ -53,6 +53,7 @@ const footerGroups = [
 			{ to: '/all-pages', label: 'All Pages' },
 			{ to: '/how-catholics-read-revelation', label: 'How to Read' },
 			{ to: '/how-to-test-a-reading', label: 'How to Test a Reading' },
+			{ to: '/the-fathers', label: 'The Fathers Cited' },
 			{ to: '/further-reading', label: 'Reading List' },
 			{ to: '/faq', label: 'FAQ' },
 			{ to: '/discussion', label: 'Discussion' },

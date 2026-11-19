@@ -43,7 +43,7 @@ export function FathersSection({ data }: { data: FathersData }) {
 			</div>
 			<div className="interpretation-note fathers-source">
 				<span>SOURCE</span>
-				<p>The Fathers in this section are paraphrased from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation {data.chapter}. Scripture references follow the New American Bible, Revised Edition.{data.related?.length ? <> See also: {data.related.map((r, i) => <span key={r.to}>{i ? ' · ' : ''}{r.to.startsWith('/') ? <Link to={r.to}>{r.label}</Link> : <a href={r.to} target="_blank" rel="noopener noreferrer">{r.label}</a>}</span>)}.</> : null}</p>
+				<p>The Fathers in this section are paraphrased from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation {data.chapter}. Scripture references follow the New American Bible, Revised Edition. <Link to="/the-fathers">Who are the Fathers cited here?</Link>{data.related?.length ? <> See also: {data.related.map((r, i) => <span key={r.to}>{i ? ' · ' : ''}{r.to.startsWith('/') ? <Link to={r.to}>{r.label}</Link> : <a href={r.to} target="_blank" rel="noopener noreferrer">{r.label}</a>}</span>)}.</> : null}</p>
 			</div>
 		</section>
 	);

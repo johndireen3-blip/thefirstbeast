@@ -234,6 +234,11 @@ export const pageSections: PageSection[] = [
 				note: 'Eleven questions for testing any reading of the Book of Revelation: the text, the Church, the evidence, and the one who holds it.',
 			},
 			{
+				href: '/the-fathers',
+				label: 'Who Are the Fathers Cited Here?',
+				note: 'Short notes on the early Christian writers quoted in this study: who they were, when they lived, and how much weight they carry.',
+			},
+			{
 				href: '/further-reading',
 				label: 'Further Reading on the Book of Revelation',
 				note: 'Trusted commentaries and studies on Revelation, Catholic and other traditions, with notes on approach and level for each.',

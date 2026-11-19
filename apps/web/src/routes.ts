@@ -45,6 +45,7 @@ export default [
 	route('how-this-site-is-made', 'routes/how-this-site-is-made.tsx'),
 	route('how-catholics-read-revelation', 'routes/how-catholics-read-revelation.tsx'),
 	route('how-to-test-a-reading', 'routes/how-to-test-a-reading.tsx'),
+	route('the-fathers', 'routes/the-fathers.tsx'),
 	route('further-reading', 'routes/further-reading.tsx'),
 	route('faq', 'routes/faq.tsx'),
 	route('discussion', 'routes/discussion.tsx'),
