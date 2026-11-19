@@ -55,7 +55,7 @@ export const fathers: FathersData = {
 				{ label: 'Caesarius and Andrew', body: <>see in the breasts the two Testaments, from which the faithful are nourished.</> },
 			] },
 			{ label: 'The white head and hair.', body: <></>, sub: [
-				{ label: 'Victorinus:', body: <>his antiquity and immortality, for “the head of Christ is God” (1 Corinthians 11:3).</> },
+				{ label: 'Victorinus:', body: <>his antiquity and immortality, for God is the head of Christ (1 Corinthians 11:3).</> },
 				{ label: 'Apringius:', body: <>white for his tenderness toward sinners (Isaiah 1:18).</> },
 				{ label: 'Caesarius:', body: <>the newly baptized; wool, because they are Christ’s sheep; snow, because the grace of Baptism falls freely from heaven before any merit (<W>Exposition on the Apocalypse</W>, Homily 1).</> },
 			] },
