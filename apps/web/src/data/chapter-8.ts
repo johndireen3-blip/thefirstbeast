@@ -1,0 +1,30 @@
+export const sourceUrl = 'https://bible.usccb.org/bible/revelation/8';
+export const heroImage = 'https://images.hostinger.com/5db500aa-f8b1-481c-89da-a1d8d4625206.png';
+export const passages = [
+  { id: 'seventh-seal', label: 'The seventh seal', range: '01–02', title: 'Silence in heaven.', intro: 'Silence in heaven.', verses: [
+    { number: 1, text: 'When the Lamb breaks the seventh seal, there is silence in heaven for about half an hour.' },
+    { number: 2, text: 'John sees the seven angels who stand before God, and they are given seven trumpets.' }
+  ], note: 'The seventh seal does not bring the end. It opens into a new cycle of seven: the trumpets. The USCCB notes describe the pattern: silence, then a “minor liturgy” of incense framed by the seven angels, then four trumpet blasts that form a unit, just as the first four seals did. The half hour of silence echoes the prophet Zephaniah: “Silence in the presence of the Lord God! for near is the day of the Lord” (Zeph 1:7). Before God acts, heaven holds its breath.' },
+  { id: 'golden-censer', label: 'The golden censer', range: '03–06', title: 'The prayers of the saints rise.', intro: 'The prayers of the saints rise.', verses: [
+    { number: 3, text: 'Another angel comes and stands at the altar with a gold censer. He is given a great deal of incense to offer with the prayers of all the holy ones on the gold altar before the throne.' },
+    { number: 4, text: 'The smoke of the incense, together with the prayers of the holy ones, rises before God from the angel’s hand.' },
+    { number: 5, text: 'Then the angel fills the censer with burning coals from the altar and hurls it down to the earth. There are peals of thunder, rumblings, lightning and an earthquake.' },
+    { number: 6, text: 'The seven angels with the seven trumpets prepare to blow them.' }
+  ], note: 'An angel offers incense “along with the prayers of all the holy ones” on the golden altar, the heavenly counterpart of the altar of incense in Jerusalem’s temple. The prayers of God’s people on earth are the hinge of the chapter: they rise to God, and the fire that comes down in answer sets the trumpets in motion. In the Roman Canon (Eucharistic Prayer I), the priest asks God to command that the gifts “be borne by the hands of your holy Angel to your altar on high,” the same picture of the Church’s worship rising to heaven.' },
+  { id: 'four-trumpets', label: 'The first four trumpets', range: '07–13', title: 'A third, not all.', intro: 'A third, not all.', verses: [
+    { number: 7, text: 'The first angel blows his trumpet, and hail and fire mixed with blood are hurled to the earth. A third of the land is burned, a third of the trees, and all the green grass.' },
+    { number: 8, text: 'The second angel blows his trumpet, and something like a great burning mountain is thrown into the sea. A third of the sea turns to blood,' },
+    { number: 9, text: 'a third of the creatures in the sea die, and a third of the ships are wrecked.' },
+    { number: 10, text: 'The third angel blows his trumpet, and a great star, burning like a torch, falls from the sky onto a third of the rivers and springs.' },
+    { number: 11, text: 'The star is called Wormwood. A third of the waters turn bitter, and many people die from the water.' },
+    { number: 12, text: 'The fourth angel blows his trumpet, and a third of the sun, moon and stars are struck, so that a third of the day and a third of the night are without light.' },
+    { number: 13, text: 'Then John sees an eagle flying high overhead and hears it cry in a loud voice, “Woe! Woe! Woe to those who live on the earth, because of the trumpet blasts the three angels are about to blow!”' }
+  ], note: 'The first four trumpets are modeled on the plagues of Egypt: hail and fire (Exod 9:23–24), water turned to blood (Exod 7:20–21) and darkness (Exod 10:21–23). As the plagues were meant to bring Pharaoh to let God’s people go, these blasts call the world to repentance. Each strikes only “a third,” the traditional prophetic fraction (compare Ezek 5:12). The judgment is real but partial: there is still time to turn back. Wormwood is a very bitter plant. The prophet Jeremiah uses it as a symbol of the punishment that follows unfaithfulness (Jer 9:14; 23:15). The USCCB notes read it the same way here: bitterness poisoning the springs of life.' }
+];
+export const symbols = [
+  { number: '01', title: 'Silence in heaven', reference: 'REVELATION 8:1', description: 'Before the Lord acts, all creation falls silent (Zeph 1:7; Hab 2:20). The Church keeps this kind of sacred silence in the liturgy, making room for God to speak.', link: 'https://bible.usccb.org/bible/zephaniah/1', linkLabel: 'Read Zephaniah 1' },
+  { number: '02', title: 'The seven trumpets', reference: 'REVELATION 8:2, 6', description: 'Trumpets announced battle, feasts and the coming of God (Exod 19:16; Josh 6). Here they sound alarms that call the world to wake up and repent.', link: 'https://bible.usccb.org/bible/joshua/6', linkLabel: 'Read Joshua 6' },
+  { number: '03', title: 'The golden censer', reference: 'REVELATION 8:3–4', description: 'The angel offers incense with “the prayers of all the holy ones” (compare Tob 12:12; Ps 141:2). Our prayers are not lost: they rise before God’s throne and shape what happens next.', link: 'https://bible.usccb.org/bible/psalms/141', linkLabel: 'Read Psalm 141' },
+  { number: '04', title: 'A third of the earth', reference: 'REVELATION 8:7–12', description: 'Each trumpet strikes only a third, echoing the plagues of Egypt. The disasters are limited: warnings meant to bring people to conversion while there is still time.', link: 'https://bible.usccb.org/bible/exodus/9', linkLabel: 'Read Exodus 9' },
+  { number: '05', title: 'Wormwood', reference: 'REVELATION 8:10–11', description: 'A bitter plant that Jeremiah used as an image of the punishment that follows unfaithfulness (Jer 9:14; 23:15). Turning from God makes the very springs of life bitter.', link: 'https://bible.usccb.org/bible/jeremiah/9', linkLabel: 'Read Jeremiah 9' }
+];

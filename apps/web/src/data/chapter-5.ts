@@ -1,0 +1,31 @@
+export const sourceUrl = 'https://bible.usccb.org/bible/revelation/5';
+export const heroImage = 'https://images.hostinger.com/05e7db3d-b6e3-4da3-95ba-f0ba685ee9f8.png';
+export const passages = [
+  { id: 'sealed-scroll', label: 'The sealed scroll', range: '01–05', title: 'Who is worthy?', intro: 'Who is worthy?', verses: [
+    { number: 1, text: 'In the right hand of the one seated on the throne John sees a scroll, written on both sides and sealed with seven seals.' },
+    { number: 2, text: 'A mighty angel calls out in a loud voice, “Who is worthy to open the scroll and break its seals?”' },
+    { number: 3, text: 'No one in heaven, on earth or under the earth is able to open the scroll or even look inside it.' },
+    { number: 4, text: 'John weeps bitterly, because no one is found worthy.' },
+    { number: 5, text: 'Then one of the elders says to him, “Do not weep. The Lion of the tribe of Judah, the Root of David, has conquered. He can open the scroll and its seven seals.”' }
+  ], note: 'Chapter 5 continues the throne vision of chapter 4 and turns it on a single question: who can carry out God’s plan for the world? The USCCB notes read the sealed scroll as that plan, hidden from all but God. No one in creation is worthy to open it, and John weeps. The elder announces a conquering Lion, the messianic King from the tribe of Judah and the line of David (Gen 49:9; Isa 11:1, 10).' },
+  { id: 'slain-lamb', label: 'The Lamb who was slain', range: '06–10', title: 'The Lion is a Lamb.', intro: 'The Lion is a Lamb.', verses: [
+    { number: 6, text: 'John looks, and between the throne, the four living creatures and the elders he sees a Lamb standing, though he seemed to have been slain. He has seven horns and seven eyes, the seven spirits of God sent out into all the earth.' },
+    { number: 7, text: 'The Lamb comes and takes the scroll from the right hand of the one seated on the throne.' },
+    { number: 8, text: 'As he takes it, the four living creatures and the twenty-four elders fall down before the Lamb. Each holds a harp and golden bowls full of incense, which are the prayers of the holy ones.' },
+    { number: 9, text: 'They sing a new song: “You are worthy to take the scroll and open its seals, for you were slain, and by your blood you bought for God people from every tribe and language, people and nation.' },
+    { number: 10, text: 'You made them a kingdom and priests for our God, and they will reign on the earth.”' }
+  ], note: 'John turns and sees a Lamb that seemed to have been slain. This is the heart of the book: Christ conquers not by force but by his sacrifice. The Lamb stands, crucified and risen, still bearing the marks of his death. The USCCB notes call Christ “the Paschal Lamb without blemish, whose blood saved the new Israel from sin and death,” recalling the Passover lamb (Exod 12), the Suffering Servant led like a lamb to slaughter (Isa 53:7) and John the Baptist’s words, “Behold, the Lamb of God” (John 1:29). “Lamb” is Christ’s main title in Revelation, used twenty-eight times. His seven horns and seven eyes signify the fullness of power and knowledge.' },
+  { id: 'creation-sings', label: 'All creation sings', range: '11–14', title: 'Worthy is the Lamb.', intro: 'Worthy is the Lamb.', verses: [
+    { number: 11, text: 'John hears the voices of countless angels surrounding the throne, the living creatures and the elders,' },
+    { number: 12, text: 'crying out with a loud voice: “Worthy is the Lamb who was slain to receive power and riches, wisdom and strength, honor, glory and blessing.”' },
+    { number: 13, text: 'Then he hears every creature in heaven, on earth, under the earth and in the sea, all that is in them, singing: “To the one seated on the throne and to the Lamb be blessing and honor, glory and might, forever and ever.”' },
+    { number: 14, text: 'The four living creatures answer, “Amen,” and the elders fall down and worship.' }
+  ], note: 'The elders hold golden bowls of incense, “which are the prayers of the holy ones” (5:8). The prayers of God’s people on earth rise before his throne, a picture of the communion of saints. The new song echoes 1:6: the Lamb has made his people “a kingdom and priests” (Exod 19:6). At every Mass the priest lifts the Host and says, “Behold the Lamb of God,” and the people sing the Agnus Dei. The worship of chapter 5 is the worship the Church joins at the altar.' }
+];
+export const symbols = [
+  { number: '01', title: 'The scroll with seven seals', reference: 'REVELATION 5:1', description: 'Written on both sides and sealed seven times, the scroll holds God’s plan for history, completely hidden from all but God (compare Isa 29:11; Ezek 2:9–10). Only the Lamb can open it and set that plan in motion.', link: 'https://bible.usccb.org/bible/ezekiel/2', linkLabel: 'Read Ezekiel 2' },
+  { number: '02', title: 'The Lion of Judah, the Root of David', reference: 'REVELATION 5:5', description: 'Jacob blessed Judah as a lion’s cub (Gen 49:9), and Isaiah foretold a shoot from the stump of Jesse (Isa 11:1, 10). These messianic titles name Christ as the promised King of Israel.', link: 'https://bible.usccb.org/bible/isaiah/11', linkLabel: 'Read Isaiah 11' },
+  { number: '03', title: 'The Lamb that was slain', reference: 'REVELATION 5:6', description: 'The Lion turns out to be a Lamb: Christ conquers by his sacrifice. He stands, risen, yet bears the marks of his death, the Paschal Lamb whose blood saves (Exod 12; John 1:29).', link: 'https://bible.usccb.org/bible/john/1', linkLabel: 'Read John 1' },
+  { number: '04', title: 'Seven horns and seven eyes', reference: 'REVELATION 5:6', description: 'In Scripture a horn signifies power and eyes signify knowledge (compare Zech 4:10). Seven means fullness: the Lamb has all power and all knowledge, and his Spirit goes out into the whole earth.', link: 'https://bible.usccb.org/bible/zechariah/4', linkLabel: 'Read Zechariah 4' },
+  { number: '05', title: 'Golden bowls of incense', reference: 'REVELATION 5:8', description: '“Let my prayer be incense before you” (Ps 141:2). The prayers of God’s holy ones on earth rise before the throne. The Church has long seen here an image of the saints joining their prayer to ours.', link: 'https://bible.usccb.org/bible/psalms/141', linkLabel: 'Read Psalm 141' }
+];
