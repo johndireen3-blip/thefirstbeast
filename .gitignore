@@ -19,3 +19,5 @@ playwright-report/
 test-results/
 coverage/
 *.log
+apps/web/build/
+apps/web/.react-router/

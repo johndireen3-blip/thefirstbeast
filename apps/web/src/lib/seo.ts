@@ -47,7 +47,7 @@ const ROOT_ROUTE_ID = 'root';
 export const siteOriginFrom = (matches: readonly RouteMatchLike[]): string => {
 	const root = matches.find(match => match?.id === ROOT_ROUTE_ID);
 
-	return (root?.loaderData as { origin?: string } | undefined)?.origin ?? '';
+	return (root?.loaderData as { origin?: string } | undefined)?.origin ?? 'https://thelambsvictory.org';
 };
 
 export const absoluteUrl = (origin: string, target: string): string => {
@@ -60,7 +60,9 @@ export const absoluteUrl = (origin: string, target: string): string => {
 
 export function seo({ matches, location }: SeoArgs, input: SeoInput): MetaDescriptor[] {
 	const origin = siteOriginFrom(matches);
-	const canonical = absoluteUrl(origin, input.path ?? location.pathname);
+	// Prerendering visits each page as `/name/`; the public address has no trailing slash.
+	const pathname = location.pathname.length > 1 ? location.pathname.replace(/\/+$/, '') : location.pathname;
+	const canonical = absoluteUrl(origin, input.path ?? pathname);
 	const imageUrl = input.image ? absoluteUrl(origin, input.image) : '';
 
 	const tags: MetaDescriptor[] = [
