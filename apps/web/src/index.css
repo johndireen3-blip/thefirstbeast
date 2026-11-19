@@ -231,6 +231,7 @@ a.chapter-nav-link:hover { color: hsl(var(--primary)); }
 .fathers-list { padding-top: 10px; }
 .fathers-row { grid-template-columns: .2fr .9fr 1.9fr; align-items: start; }
 .fathers-point + .fathers-point { margin-top: 14px; }
+.fathers-point a { color: hsl(var(--primary)); text-decoration: underline; text-underline-offset: 3px; }
 .fathers-point strong { color: hsl(var(--foreground)); font-weight: 600; }
 .fathers-point ul { list-style: none; margin: 8px 0 0; padding: 0 0 0 16px; border-left: 1px solid hsl(var(--border)); }
 .fathers-point li { font-size: 15px; line-height: 1.75; color: hsl(var(--muted-foreground)); }
