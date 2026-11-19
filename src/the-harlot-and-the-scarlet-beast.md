@@ -156,7 +156,7 @@ The Church has not decided which the text intends at the end.
 <li>Revelation 17–19, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/17">Revelation 17</a>; <a href="https://bible.usccb.org/bible/revelation/18">Revelation 18</a>; <a href="https://bible.usccb.org/bible/revelation/19">Revelation 19</a></li>
 <li>St. Hippolytus, <em>On Christ and Antichrist</em>: <a href="https://www.newadvent.org/fathers/0516.htm">New Advent</a>; St. Irenaeus, <em>Against Heresies</em> V.26: <a href="https://www.newadvent.org/fathers/0103526.htm">New Advent</a></li>
 <li>St. Augustine, <em>City of God</em> XIV.28</li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 16:17–21, 17 and 18</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 16:17–21, 17 and 18. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Leo XIV, <em>Magnifica Humanitas</em> (2026): <a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html">vatican.va</a></li>
 <li>Catechism of the Catholic Church 2113, 2424</li>
 </ul>

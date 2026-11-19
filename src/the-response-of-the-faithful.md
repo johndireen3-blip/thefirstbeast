@@ -52,7 +52,7 @@ Hear. Endure. Keep faith. Do not take up the beast's weapons, and do not fear it
 <ul class="sources">
 <li>Revelation 2, 13, 14 and 17, Jeremiah 15, New American Bible Revised Edition: <a href="https://bible.usccb.org/bible/revelation/13">Revelation 13</a>; <a href="https://bible.usccb.org/bible/revelation/14">Revelation 14</a>; <a href="https://bible.usccb.org/bible/jeremiah/15">Jeremiah 15</a></li>
 <li>St. Cyprian, <em>On the Good of Patience</em>: <a href="https://www.newadvent.org/fathers/050709.htm">New Advent</a></li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 677, 1808, 2265, 2473</li>
 </ul>
 

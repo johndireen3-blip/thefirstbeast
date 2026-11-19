@@ -78,7 +78,7 @@ The Church has not decided which the text intends at the end.
 
 <ul class="sources">
 <li>Revelation 16, Exodus 7–8, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/16">Revelation 16</a>; <a href="https://bible.usccb.org/bible/exodus/8">Exodus 8</a></li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 16:12–16</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 16:12–16. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 395, 675</li>
 </ul>
 

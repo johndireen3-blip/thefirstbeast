@@ -59,7 +59,7 @@ The world is fascinated and follows; the holy ones are not, because they know th
 <ul class="sources">
 <li>Revelation 13 and 17, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">bible.usccb.org</a></li>
 <li>St. Victorinus of Pettau, <em>Commentary on the Apocalypse</em>; St. Hippolytus, <em>On Christ and Antichrist</em> 49; St. Augustine, <em>City of God</em> XX.19 (to be checked against the editions cited before publication)</li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 675</li>
 </ul>
 

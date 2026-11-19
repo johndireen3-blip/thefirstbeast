@@ -66,7 +66,7 @@ We were sealed already, at Baptism and Confirmation (CCC 1272–1274, 1295–129
 <li>St. Peter Chrysologus, Sermon 117 (PL 52, 520–521), in the Liturgy of the Hours, Office of Readings, Saturday of the Twenty-ninth Week in Ordinary Time</li>
 <li>St. Augustine, <em>City of God</em> XX.9: <a href="https://ccel.org/ccel/schaff/npnf102.iv.XX.9.html">CCEL</a></li>
 <li>Leo XIV, <em>Magnifica Humanitas</em> (2026): <a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html">vatican.va</a></li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13 and 16:1–2</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13 and 16:1–2. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 1272–1274, 1295–1296, 2113, 2424</li>
 </ul>
 

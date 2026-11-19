@@ -64,7 +64,7 @@ The number says one thing above all: the trial is measured, and God holds the me
 <li>Revelation 11–13 and Daniel 7 and 12, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/11">Revelation 11</a>; <a href="https://bible.usccb.org/bible/revelation/12">Revelation 12</a>; <a href="https://bible.usccb.org/bible/daniel/12">Daniel 12</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.25, V.30: <a href="https://www.newadvent.org/fathers/0103525.htm">New Advent</a></li>
 <li>St. Augustine, <em>City of God</em> XX.23: <a href="https://ccel.org/ccel/schaff/npnf102.iv.XX.23.html">CCEL</a></li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 673, 675</li>
 </ul>
 

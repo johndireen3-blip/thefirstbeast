@@ -59,7 +59,7 @@ The angel's call answers the beast's: "Fear God and give him glory... Worship hi
 <li>St. Irenaeus, <em>Against Heresies</em> V.25 and V.28: <a href="https://www.newadvent.org/fathers/0103525.htm">V.25</a>; <a href="https://www.newadvent.org/fathers/0103528.htm">V.28</a> (New Advent)</li>
 <li>St. Cyril of Jerusalem, <em>Catechetical Lecture</em> 15.15; St. Hippolytus, <em>On Christ and Antichrist</em> 56 (to be checked against the editions cited before publication)</li>
 <li>Pliny the Younger, <em>Letters</em> 10.96: <a href="https://faculty.georgetown.edu/jod/texts/pliny.html">translation, Georgetown University</a></li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 675, 2096–2097, 2113</li>
 </ul>
 

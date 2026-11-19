@@ -54,7 +54,7 @@ Every beast in Daniel 7 passes away. The kingdom is given to the holy ones of th
 <li>Revelation 13 and Daniel 7, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">bible.usccb.org</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.25–26: <a href="https://www.newadvent.org/fathers/0103525.htm">New Advent</a></li>
 <li>St. Hippolytus, <em>On Christ and Antichrist</em> 25–28; St. Cyril of Jerusalem, <em>Catechetical Lecture</em> 15; St. Augustine, <em>City of God</em> XX.9 (to be checked against the editions cited before publication)</li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 676</li>
 </ul>
 

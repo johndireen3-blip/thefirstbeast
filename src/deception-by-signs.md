@@ -57,7 +57,7 @@ Do not follow a sign; follow the Lord. "Blessed are those who have not seen and 
 <li>St. Irenaeus, <em>Against Heresies</em> V.28: <a href="https://www.newadvent.org/fathers/0103528.htm">New Advent</a></li>
 <li>St. Cyril of Jerusalem, <em>Catechetical Lecture</em> 15: <a href="https://www.newadvent.org/fathers/310115.htm">New Advent</a></li>
 <li>St. Augustine, <em>City of God</em> XX.19: <a href="https://ccel.org/ccel/schaff/npnf102.iv.XX.19.html">CCEL</a></li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 156, 548, 675, 2117</li>
 </ul>
 

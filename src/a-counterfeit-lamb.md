@@ -60,7 +60,7 @@ The Church has not decided.
 <li>Revelation 5, 12, 13, 16 and 19, Matthew 7 and 24, 1 John 4 and John 10, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">Revelation 13</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.28: <a href="https://www.newadvent.org/fathers/0103528.htm">New Advent</a></li>
 <li>St. Hippolytus, <em>On Christ and Antichrist</em> 49: <a href="https://www.newadvent.org/fathers/0516.htm">New Advent</a></li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 675</li>
 </ul>
 

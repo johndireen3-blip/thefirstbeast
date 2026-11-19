@@ -63,7 +63,7 @@ The answer Jesus gave in the desert: worship God alone (Luke 4:8). Whoever refus
 <li>Revelation 13, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">bible.usccb.org</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.25: <a href="https://www.newadvent.org/fathers/0103525.htm">New Advent</a></li>
 <li>St. John Damascene, <em>Exact Exposition of the Orthodox Faith</em> IV.26 (NPNF II.9): <a href="https://st-takla.org/books/en/ecf/209/2090138.html">text</a></li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 395, 2853</li>
 <li>Fr. Charles Arminjon, <em>The End of the Present World and the Mysteries of the Future Life</em> (Sophia Institute Press, 2008), p. 43</li>
 </ul>

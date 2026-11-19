@@ -53,7 +53,7 @@ Against a mouth that boasts and blasphemes, the holy ones bless the name of God 
 <li>Revelation 13 and Daniel 7, New American Bible Revised Edition, with notes: <a href="https://bible.usccb.org/bible/revelation/13">Revelation 13</a>; <a href="https://bible.usccb.org/bible/daniel/7">Daniel 7</a></li>
 <li>St. Irenaeus, <em>Against Heresies</em> V.25: <a href="https://www.newadvent.org/fathers/0103525.htm">New Advent</a></li>
 <li>St. Jerome, <em>Commentary on Daniel</em>, on 7:8 (to be checked against the edition cited before publication)</li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13 and 16:8–11</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13 and 16:8–11. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 675, 2142–2149</li>
 </ul>
 

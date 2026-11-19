@@ -61,7 +61,7 @@ Those who "won the victory over the beast and its image" stand on the sea of gla
 <li>St. Irenaeus, <em>Against Heresies</em> V.28: <a href="https://www.newadvent.org/fathers/0103528.htm">New Advent</a></li>
 <li>Dicastery for the Doctrine of the Faith and Dicastery for Culture and Education, <em>Antiqua et Nova</em> (2025); Leo XIV, <em>Magnifica Humanitas</em> (2026): <a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html">vatican.va</a></li>
 <li>Pliny the Younger, <em>Letters</em> 10.96</li>
-<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13</li>
+<li>The later commentators are cited from <em>Revelation</em>, Ancient Christian Commentary on Scripture, New Testament XII, ed. William C. Weinrich (InterVarsity Press, 2005), on Revelation 13. <a href="/the-fathers">Who are the Fathers cited here?</a></li>
 <li>Catechism of the Catholic Church 2113</li>
 </ul>
 
