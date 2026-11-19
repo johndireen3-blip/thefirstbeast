@@ -53,7 +53,7 @@ export const fathers: FathersData = {
 		] },
 		{ number: '07', reference: 'REVELATION 5:9–14', title: 'A new song', points: [
 			{ label: 'Why the song is new.', body: <></>, sub: [
-				{ label: 'Victorinus:', body: <>the Old Testament joined to the New shows the Christian people singing a new song, their public confession of faith. It is new that the Son of God became man, was given over to death, rose on the third day and ascended in the body; new that sins are forgiven; new that believers receive a priestly service of prayer and await a kingdom of such promises (5.3).</> },
+				{ label: 'Victorinus:', body: <>the Old Testament joined to the New shows the Christian people singing a new song, their public confession of faith. It is new that the Son of God became man, was given over to death, rose on the third day and ascended in the body; new that sins are forgiven and that people are sealed with the Holy Spirit; new that believers receive a priestly service of prayer and await a kingdom of such promises (5.3).</> },
 				{ label: 'Primasius:', body: <>Christ wrote the new song himself: by his new kind of birth from the Virgin, by giving himself over to death by his own power, by rising and ascending. He gave it to the Church to sing without ceasing, so that she may “live in newness of life” (Romans 6:4) and take up her cross and follow him (Luke 9:23) (5.9).</> },
 				{ label: 'Oecumenius:', body: <>it is new because it was sung to God made flesh, and no such song was offered before the Incarnation (5.8–12).</> },
 				{ label: 'Andrew:', body: <>it is the song of those from every tribe and tongue who have been freed from the oldness of the letter and enlightened by the Spirit (5.9–10).</> },
