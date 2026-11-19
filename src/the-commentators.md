@@ -26,3 +26,5 @@ This study quotes a commentator only from a text that has been read, and names t
 ## Still to be consulted
 
 The Fathers named in the row above are read in an editor's selection. Their complete commentaries are still to be consulted, above all those of **Oecumenius** and **St. Andrew of Caesarea**, and the restored original of **St. Victorinus**. **St. Epiphanius**, **Quodvultdeus** and Oecumenius, who read the Woman of Mary, are now quoted from that selection on the pages for chapter 12.
+
+Two of the commentators named here are not Fathers of the Church in the strict sense. **Tyconius** (late fourth century) was a Donatist, and his commentary is lost; it is known through those who used it, above all Primasius, which is why these pages say "Primasius, following Tyconius." St. Augustine valued his rules for reading Scripture while rejecting his schism. **Oecumenius** (sixth century), the author of the first Greek commentary on the book, was a layman and a correspondent of Severus of Antioch, who rejected the Council of Chalcedon. Both are cited for what they saw in the text; St. Andrew of Caesarea often answers Oecumenius, and the two are best read together.
