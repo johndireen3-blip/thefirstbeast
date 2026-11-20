@@ -22,7 +22,7 @@ export function FathersSection({ data }: { data: FathersData }) {
 			<div className="fathers-intro section-pad">
 				<p className="eyebrow">04 / GOING DEEPER</p>
 				<h2 id="fathers-title">What the Fathers said.</h2>
-				<p className="fathers-bridge">The sections above introduce the chapter. This one is for further study: how the Fathers of the Church and the early commentators read it, verse by verse. Read it now, or come back to it.</p>
+				<p className="fathers-bridge">The sections above introduce the chapter. This one is for further study: how the Fathers of the Church and the early commentators read it, verse by verse. Read it now, or go on to the next chapter and come back to it.</p>
 				<p className="fathers-lead">{data.intro}</p>
 			</div>
 			<div className="symbol-list fathers-list section-pad">

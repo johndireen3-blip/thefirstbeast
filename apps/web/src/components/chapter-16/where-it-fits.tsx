@@ -12,7 +12,26 @@ const related = [
 	{ label: 'Armageddon', href: '/topics/armageddon', external: false },
 ];
 
-export function WhereItFits() {
+export function WhereItFits({ part }: { part?: 'top' | 'related' } = {}) {
+	const relatedLinks = (
+		<div className="related-links">
+			<p className="eyebrow">RELATED</p>
+			<ul>
+				{related.map((l) => (
+					<li key={l.href}>
+						{l.external ? (
+							<a href={l.href} target="_blank" rel="noopener noreferrer">{l.label} <ArrowUpRight size={14} /></a>
+						) : (
+							<Link to={l.href} target="_blank" rel="noopener noreferrer">{l.label} <ArrowUpRight size={14} /></Link>
+						)}
+					</li>
+				))}
+			</ul>
+		</div>
+	);
+	if (part === 'related') {
+		return <section className="where-it-fits where-related section-pad" aria-label="Related">{relatedLinks}</section>;
+	}
 	return (
 		<section className="where-it-fits section-pad" aria-labelledby="where-title">
 			<div className="section-heading">
@@ -25,21 +44,9 @@ export function WhereItFits() {
 			<ChapterNavigation
 				prev={{ label: 'Chapter 15: The Song of Moses and the Lamb', to: '/chapter-15' }}
 				next={{ label: 'Chapter 17: Babylon and the Scarlet Beast', to: '/chapter-17' }}
+				deeper={part === 'top'}
 			/>
-			<div className="related-links">
-				<p className="eyebrow">RELATED</p>
-				<ul>
-					{related.map((l) => (
-						<li key={l.href}>
-							{l.external ? (
-								<a href={l.href} target="_blank" rel="noopener noreferrer">{l.label} <ArrowUpRight size={14} /></a>
-							) : (
-								<Link to={l.href} target="_blank" rel="noopener noreferrer">{l.label} <ArrowUpRight size={14} /></Link>
-							)}
-						</li>
-					))}
-				</ul>
-			</div>
+			{part === 'top' ? null : relatedLinks}
 		</section>
 	);
 }

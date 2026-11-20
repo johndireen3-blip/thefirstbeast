@@ -2,7 +2,7 @@ import { Link } from 'react-router';
 import { ArrowUpRight, ArrowUp } from 'lucide-react';
 import { sourceUrl } from '@/data/chapter';
 
-const footerGroups = [
+const footerGroups: { title: string; links: { to: string; label: string; external?: boolean }[] }[] = [
 	{
 		title: 'Chapters & Topics',
 		links: [
@@ -60,7 +60,14 @@ const footerGroups = [
 			{ to: '/about', label: 'About' },
 			{ to: '/contribute', label: 'Contribute' },
 			{ to: '/how-this-site-is-made', label: 'How This Site Is Made' },
+		],
+	},
+	{
+		title: 'The Ephesus Challenge',
+		links: [
 			{ to: 'https://apocalypse12.com/', label: 'The Woman and the Ark: Revelation 12 in depth', external: true },
+			{ to: 'https://thefirstbeast.com/', label: 'The First Beast: Revelation 13 in depth', external: true },
+			{ to: 'https://agreatsign.si/', label: 'A Great Sign: prophecy across the whole Bible', external: true },
 		],
 	},
 ];
