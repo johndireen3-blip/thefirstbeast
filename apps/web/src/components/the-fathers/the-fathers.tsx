@@ -44,7 +44,7 @@ export function TheFathers() {
 						<li><strong>St. Athanasius</strong> (about 295–373). Bishop of Alexandria, defender of the divinity of Christ against the Arians, and Doctor of the Church.</li>
 						<li><strong>St. Gregory of Nazianzus</strong> (about 329–390). Bishop and Doctor of the Church, called “the Theologian.”</li>
 						<li><strong>St. Epiphanius of Salamis</strong> (about 315–403). Bishop in Cyprus, who catalogued the heresies of his day.</li>
-						<li><strong>St. Nicetas of Remesiana</strong> (died after 414). Bishop of Remesiana, in what is now Serbia, and a friend of St. Paulinus of Nola. He wrote instructions for those preparing for Baptism and a short work on the singing of psalms and hymns in church.</li>
+						<li><strong>St. Nicetas of Remesiana</strong> (active in the second half of the fourth century). Bishop of Remesiana, in what is now Serbia. His works affirm that the Son is consubstantial with the Father and that the Holy Spirit is God. He also wrote a short work on the singing of psalms and hymns in church.</li>
 						<li><strong>St. Jerome</strong> (about 347–420). Translator of the Latin Bible and Doctor of the Church.</li>
 						<li><strong>Rufinus of Aquileia</strong> (about 345–411). Monk and translator.</li>
 						<li><strong>St. Augustine</strong> (354–430). Bishop of Hippo and Doctor of the Church. Book 20 of his <em>City of God</em> shaped the Western reading of Revelation 20.</li>
