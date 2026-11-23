@@ -312,7 +312,10 @@ HTACCESS = """Options -Indexes
 DirectoryIndex index.html
 ErrorDocument 404 /404.html
 RewriteEngine On
-@REDIRECT@# /page.html -> /page
+@REDIRECT@# Retired address from the site that stood here before: Google still lists /blog,
+# which has nothing behind it now, so send it to the home page rather than a 404.
+RewriteRule ^blog(/.*)?$ / [L,R=301]
+# /page.html -> /page
 RewriteCond %{THE_REQUEST} \\s/+(.+?)\\.html[\\s?] [NC]
 RewriteRule ^ /%1 [L,R=301]
 # /page -> page.html
