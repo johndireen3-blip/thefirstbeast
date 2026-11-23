@@ -8,7 +8,7 @@ export function ReviewedLine() {
 	return (
 		<p className="reviewed-line">
 			<span className="reviewed-pill">✓ Reviewed by Fr. John</span>
-			<Link to="/how-this-site-is-made">How this site is made</Link>
+			<Link to="/how-this-site-is-made" target="_blank" rel="noopener noreferrer">How this site is made</Link>
 		</p>
 	);
 }
